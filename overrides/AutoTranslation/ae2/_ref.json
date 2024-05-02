@@ -1,0 +1,9 @@
+{
+  "entity.minecraft.villager.ae2.fluix_researcher": "Fluix Researcher",
+  "gui.tooltips.ae2.InscriberBufferHigh": "Stack to 64",
+  "chat.ae2.TestWorldNotInSuperflat": "A test world can only be set up in a Superflat world!",
+  "gui.tooltips.ae2.InscriberBufferSize": "Input Slot Stack Size",
+  "key.ae2.guide": "Open Guide for Items",
+  "gui.tooltips.ae2.InscriberBufferLow": "Stack to 4",
+  "gui.ae2.CantFitInsideStorageCell": "This item does not fit in other storage cells"
+}

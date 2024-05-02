@@ -1,0 +1,15 @@
+{
+  "item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "当_查看_时，对_副手_或躺在_地板_上的物品进行抛光",
+  "item.createaddition.diamond_grit_sandpaper.tooltip.condition1": "使用时",
+  "item.createaddition.copper_spool.tooltip.summary": "用于存放电线。",
+  "item.createaddition.spool.tooltip.behaviour1": "将移除电线链接并返回已填充的_线轴_。",
+  "item.createaddition.spool.tooltip.summary": "用于存放电线。",
+  "createaddition.subtitle.little_zap": "特斯拉线圈产生火花",
+  "item.createaddition.spool.tooltip.condition1": "R 单击两个链接的连接器",
+  "item.createaddition.festive_spool.tooltip.summary": "用于存放电线。",
+  "createaddition.subtitle.loud_zap": "特斯拉线圈电击",
+  "item.createaddition.electrum_spool.tooltip.summary": "用于存放电线。",
+  "item.createaddition.diamond_grit_sandpaper.tooltip.summary": "可用于_精炼材料_。该过程可以通过部署者自动化。",
+  "item.createaddition.gold_spool.tooltip.summary": "用于存放电线。",
+  "itemGroup.createaddition.main": "制作工艺品和装饰品"
+}

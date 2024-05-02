@@ -1,0 +1,9 @@
+{
+  "jade.appliedcooking:offline": "设备离线",
+  "jade.appliedcooking:kitchen_station": "已在 %s 连接到 %s",
+  "jade.appliedcooking:online": "设备在线",
+  "itemGroup.appliedcooking": "应用烹饪",
+  "tooltip.appliedcooking:kitchen_station.description": "连接到 Applied Energistics 2 电网的站节点",
+  "config.jade.plugin_appliedcooking.kitchen_station": "ME 厨房站",
+  "block.appliedcooking.kitchen_station": "ME 厨房站"
+}

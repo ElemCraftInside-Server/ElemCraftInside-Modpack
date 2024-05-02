@@ -1,0 +1,13 @@
+{
+  "fastload.button.instant_load.tooltip": "你不耐烦吗？您讨厌加载屏幕吗？只要打开它，加载一个世界，你就会后悔的。 -_-",
+  "fastload.button.local_render_chunk_radius.min": "残疾人",
+  "fastload.buildingTerrain.starting": "开始会话",
+  "fastload.button.local_render_chunk_radius": "局部半径",
+  "fastload.button.server_render_chunk_radius": "服务器半径",
+  "fastload.button.local_render_chunk_radius.max": "哇哦",
+  "fastload.button.server_render_chunk_radius.tooltip": "在 Fastload 的服务器构建地形中应渲染一个圆中有多少块的半径。",
+  "fastload.button.local_render_chunk_radius.tooltip": "在 Fastload 的单人游戏建筑地形中应渲染一个圆圈中有多少块的半径。",
+  "fastload.button.server_render_chunk_radius.min": "残疾人",
+  "fastload.button.instant_load": "即时加载",
+  "fastload.button.server_render_chunk_radius.max": "哇哦"
+}

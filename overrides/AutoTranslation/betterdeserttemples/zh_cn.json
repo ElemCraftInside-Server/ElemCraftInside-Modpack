@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue.@Tooltip[1]": "如果尚未清除。",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.title": "YUNG 的更好的沙漠寺庙",
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "使用 /locate 结构 betterdeserttemples:desert_temple 代替！",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.disableVanillaPyramids.@Tooltip": "是否应禁用原版沙漠金字塔。",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue.@Tooltip[0]": "神庙中的玩家是否会受到采矿疲劳的影响",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.disableVanillaPyramids": "禁用香草金字塔",
+  "text.autoconfig.betterdeserttemples-fabric-1_20.option.general.applyMiningFatigue": "应用采矿疲劳"
+}

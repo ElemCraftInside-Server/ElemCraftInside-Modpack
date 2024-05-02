@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist": "我的武器黑名单",
+  "text.autoconfig.bettercombat.title": "更好的战斗",
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled": "攻击代替挖矿",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled.@Tooltip": "显示实体碰撞箱时显示武器碰撞箱",
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled.@Tooltip": "当敌人足够近可以攻击时，通过左键单击进行攻击而不是采矿",
+  "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson": "以第一人称显示不活动的手",
+  "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled": "秀扫地",
+  "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson.@Tooltip": "在第一人称视角中渲染你没有攻击的手",
+  "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled.@Tooltip": "启用显示剑扫粒子效果",
+  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume.@Tooltip": "更改武器挥动声音的音量",
+  "hud.bettercombat.mine_with_weapons_off": "我的武器：没有",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist.@Tooltip": "ID 与此正则表达式匹配的武器永远不会用于收获方块",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist": "穿过草地黑名单",
+  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume": "武器挥动音量%",
+  "hud.bettercombat.mine_with_weapons_on": "我的武器：是的",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist.@Tooltip": "ID 与此正则表达式匹配的武器永远不会在草地上摆动",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled": "调试命中框"
+}

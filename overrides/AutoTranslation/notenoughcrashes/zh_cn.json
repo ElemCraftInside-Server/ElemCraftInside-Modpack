@@ -1,0 +1,23 @@
+{
+  "iris.load.failure.generic": "Oculus 在尝试加载着色器时遇到问题；请向 Oculus 开发人员报告此情况。",
+  "iris.keybind.wireframe": "线框（仅限 SP）",
+  "notenoughcrashes.midnightconfig.debugModIdentification": "调试模块识别",
+  "notenoughcrashes.midnightconfig.crashLimit": "碰撞限制",
+  "notenoughcrashes.midnightconfig.catchGameloopComment2": "安装 Iris 时，此功能将始终被禁用（即使配置设置为 true）。",
+  "notenoughcrashes.midnightconfig.catchGameloopComment1": "如果为 false，NEC 将不会尝试阻止游戏在崩溃时关闭。",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment3": "当安装某些模组时，这将始终被禁用（即使是真的）。",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment1": "(Fabric Only) 如果为 false，则游戏初始化失败时会正常关闭，",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment2": "并且不会显示特殊的崩溃屏幕。",
+  "iris.load.failure.shader": "着色器包加载失败！请将错误报告给着色器开发人员。",
+  "notenoughcrashes.midnightconfig.catchGameloop": "捕获游戏崩溃",
+  "notenoughcrashes.gui.disabledByConfig": "通过配置禁用",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenu": "禁用返回主菜单",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashes": "捕获初始化崩溃",
+  "options.iris.colorSpace": "色彩空间",
+  "notenoughcrashes.midnightconfig.title": "崩溃配置不够",
+  "options.iris.colorSpace.sodium_tooltip": "将屏幕转换为的颜色空间。在着色器包之上工作。如果不确定，请使用 SRGB。",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenuComment1": "如果为 true，则崩溃时“返回主菜单”按钮将被禁用，",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenuComment2": "这意味着您无法从崩溃中恢复。",
+  "notenoughcrashes.midnightconfig.crashLimitComment": "NEC 在一场比赛中会尝试阻止游戏结束多少次。",
+  "notenoughcrashes.midnightconfig.debugModIdentificationComment": "如果为 true，将为 mod 开发者记录附加信息。"
+}

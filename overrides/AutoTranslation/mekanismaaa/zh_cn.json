@@ -1,0 +1,19 @@
+{
+  "block.mekanismaaa.mercury_osmium_ore": "汞锇矿石",
+  "block.mekanismaaa.mars_fluorite_ore": "火星萤石矿",
+  "block.mekanismaaa.moon_osmium_ore": "月锇矿",
+  "block.mekanismaaa.venus_lead_ore": "金星铅矿石",
+  "block.mekanismaaa.glacio_fluorite_ore": "格拉西奥萤石矿",
+  "block.mekanismaaa.glacio_lead_ore": "格拉西奥铅矿石",
+  "block.mekanismaaa.glacio_uranium_ore": "格拉西奥铀矿",
+  "block.mekanismaaa.mars_tin_ore": "火星锡矿石",
+  "itemGroup.mekanismaaa.ores": "Mekanism：星际矿石",
+  "block.mekanismaaa.mercury_lead_ore": "汞铅矿石",
+  "block.mekanismaaa.mercury_uranium_ore": "汞铀矿",
+  "block.mekanismaaa.venus_fluorite_ore": "金星萤石矿",
+  "block.mekanismaaa.mars_uranium_ore": "火星铀矿",
+  "block.mekanismaaa.venus_uranium_ore": "金星铀矿",
+  "block.mekanismaaa.moon_tin_ore": "月锡矿",
+  "block.mekanismaaa.glacio_tin_ore": "格拉西奥锡矿",
+  "block.mekanismaaa.glacio_osmium_ore": "格拉西奥锇矿石"
+}

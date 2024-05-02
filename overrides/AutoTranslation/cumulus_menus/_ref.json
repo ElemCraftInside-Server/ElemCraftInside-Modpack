@@ -1,0 +1,9 @@
+{
+  "gui.cumulus_menus.button.menu_list": "Menu List",
+  "pack.cumulus_menus.mod.description": "Cumulus Resources",
+  "config.cumulus_menus.client.menu.active_menu": "Sets the current active menu title screen",
+  "config.cumulus_menus.client.menu.enable_menu_api": "Determines whether the Menu API is enabled or not",
+  "config.cumulus_menus.client.menu.enable_menu_list_button": "Adds a button to the top right of the main menu screen to open a menu selection screen",
+  "gui.cumulus_menus.title.menu_selection": "Choose a Main Menu",
+  "gui.cumulus_menus.button.menu_launch": "Launch Menu"
+}

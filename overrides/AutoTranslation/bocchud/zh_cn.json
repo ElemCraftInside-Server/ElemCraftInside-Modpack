@@ -1,0 +1,4 @@
+{
+  "minihud.info_line.mobcap.no_data": "生物上限：\u003c无有效数据\u003e",
+  "minihud.info_line.mobcap.data": "生物上限：Ho：%s Pa：%s Am：%s、Ax：%s、UWC：%s、WC：%s、WA：%s、Mi：%s"
+}

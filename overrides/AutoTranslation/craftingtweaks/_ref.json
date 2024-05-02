@@ -1,0 +1,20 @@
+{
+  "key.craftingtweaks.compressOne_modifier": "Compress Item (Hold)",
+  "config.craftingtweaks.common.compressRequiresCraftingGrid": "Compress Requires Crafting Grid",
+  "config.craftingtweaks.client.mode.tooltip": "Set to \u0027DEFAULT\u0027 to enable both buttons and hotkeys. Set to \u0027BUTTONS\u0027 to enable buttons only. Set to \u0027HOTKEYS\u0027 to enable hotkeys only. Set to \u0027DISABLED\u0027 to disable completely.",
+  "config.craftingtweaks.common": "Common",
+  "config.craftingtweaks.client.hideVanillaCraftingGuide.tooltip": "We both know JEI is much better. This option hides Vanilla\u0027s crafting book button instead of moving it.",
+  "config.craftingtweaks.client.hideVanillaCraftingGuide": "Hide Vanilla Crafting Guide",
+  "key.craftingtweaks.refill_last_modifier": "Refill Last (Hold)",
+  "config.craftingtweaks.client.disabledAddons.tooltip": "Add mod ids here of mods that you wish to disable Crafting Tweaks support for.",
+  "config.craftingtweaks.client.rightClickCraftsStack.tooltip": "If set to true, right-clicking the result slot in a crafting table will craft a full stack.",
+  "key.craftingtweaks.compressAll_modifier": "Compress All (Hold)",
+  "config.craftingtweaks.client.disabledAddons": "Disabled Addons",
+  "config.craftingtweaks.client": "Client",
+  "config.craftingtweaks.common.compressRequiresCraftingGrid.tooltip": "Set this to false if you want the (de)compress feature to work outside of crafting GUIs (only works if installed on server while in the player inventory)",
+  "config.craftingtweaks.common.compressDenylist": "Compress Denylist",
+  "config.craftingtweaks.title": "Crafting Tweaks",
+  "config.craftingtweaks.client.mode": "Mode",
+  "config.craftingtweaks.client.rightClickCraftsStack": "Right-click Crafts Stack",
+  "config.craftingtweaks.common.compressDenylist.tooltip": "A list of modid:name entries that will not be crafted by the compress key."
+}

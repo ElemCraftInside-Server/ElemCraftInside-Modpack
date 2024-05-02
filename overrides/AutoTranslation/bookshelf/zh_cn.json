@@ -1,0 +1,6 @@
+{
+  "commands.bookshelf.loot_tables": "发现 %s 缺少 %s 的战利品表。",
+  "commands.bookshelf.loot_tables.wildcard": "发现所有 mod 的 %s 缺少战利品表。",
+  "argument.bookshelf.unknown_value": "值“%s”未知。",
+  "text.bookshelf.ticks": "刻度：%s"
+}

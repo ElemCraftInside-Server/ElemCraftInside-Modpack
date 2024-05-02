@@ -1,0 +1,10 @@
+{
+  "ftblibrary.gui.listSize1": "1 件",
+  "item.ftblibrary.fluid_container": "流体容器",
+  "ftblibrary.gui.listSize": "%s 件物品",
+  "ftblibrary.select_image.rescan": "重新扫描图像",
+  "item.ftblibrary.fluid_container.use": "右键单击水箱以清空容器",
+  "ftblibrary.empty": "空的",
+  "ftblibrary.select_image.scanning": "扫描图像：这可能需要几秒钟......",
+  "ftblibrary.mb": "%s %s mB"
+}

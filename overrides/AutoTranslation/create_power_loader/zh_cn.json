@@ -1,0 +1,8 @@
+{
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "为火车站装载块",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "当火车到达车站时，块加载器周围的 3x3 区域被加载",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "当火车离开时，该区域再次卸载",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "将它们以正确的方向放置在火车站旁边",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "它们不需要旋转动力，但通常不活动",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "黄铜块装载机可以连接到火车站"
+}

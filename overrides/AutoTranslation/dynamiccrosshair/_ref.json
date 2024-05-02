@@ -1,0 +1,6 @@
+{
+  "dynamiccrosshair.option.additionalInteractableBlocks": "Additional Interactable Blocks",
+  "dynamiccrosshair.option.additionalInteractableBlocks.description": "A list of block names or tags, such as \"minecraft:oak_log\" or \"#minecraft:stairs\". These blocks will be added to the interactable blocks category.",
+  "dynamiccrosshair.option.hideWithMap": "Hide when holding a map",
+  "dynamiccrosshair.option.hideWithMap.description": "Hide whenever a map is being held in both hands, so it does not get obstructed by the crosshair"
+}

@@ -1,0 +1,23 @@
+{
+  "iris.load.failure.generic": "Oculus encountered an issue trying to load the shader; please report this to Oculus developers. ",
+  "iris.keybind.wireframe": "Wireframe (SP only)",
+  "notenoughcrashes.midnightconfig.debugModIdentification": "Debug Mod Identification",
+  "notenoughcrashes.midnightconfig.crashLimit": "Crash Limit",
+  "notenoughcrashes.midnightconfig.catchGameloopComment2": "This will be always disabled (even if the config is set to true) when Iris is installed.",
+  "notenoughcrashes.midnightconfig.catchGameloopComment1": "If false, NEC won\u0027t attempt to prevent the game from closing when it crashes.",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment3": "This will be always disabled (even if true) when certain mods are installed.",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment1": "(Fabric Only) If false, the game will close normally when it fails to initialize,",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashesComment2": "and will not display a special crash screen.",
+  "iris.load.failure.shader": "The shaderpack failed to load! Please report the error to the shader developer. ",
+  "notenoughcrashes.midnightconfig.catchGameloop": "Catch Gameplay Crashes",
+  "notenoughcrashes.gui.disabledByConfig": "Disabled by config",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenu": "Disable Return To Main Menu",
+  "notenoughcrashes.midnightconfig.catchInitializationCrashes": "Catch Initialization Crashes",
+  "options.iris.colorSpace": "Color Space",
+  "notenoughcrashes.midnightconfig.title": "Not Enough Crashes Configuration",
+  "options.iris.colorSpace.sodium_tooltip": "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure.",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenuComment1": "If true, the \"Return To Main Menu\" button will be disabled when crashing,",
+  "notenoughcrashes.midnightconfig.disableReturnToMainMenuComment2": "meaning you cannot recover from a crash.",
+  "notenoughcrashes.midnightconfig.crashLimitComment": "How many times NEC will try to prevent the game from closing in one session.",
+  "notenoughcrashes.midnightconfig.debugModIdentificationComment": "If true, additional info will be logged for the mod developer."
+}

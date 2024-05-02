@@ -1,0 +1,4 @@
+{
+  "minihud.info_line.mobcap.no_data": "Mob Caps: \u003cno valid data\u003e",
+  "minihud.info_line.mobcap.data": "Mob Caps: Ho: %s Pa: %s Am: %s, Ax: %s, UWC: %s, WC: %s, WA: %s, Mi: %s"
+}

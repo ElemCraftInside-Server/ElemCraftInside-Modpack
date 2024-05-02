@@ -1,0 +1,13 @@
+{
+  "litematica.gui.label.easy_place_protocol.none": "None",
+  "litematica.gui.label.easy_place_protocol.slabs_only": "Slabs only",
+  "litematica.gui.label.easy_place_protocol.auto": "Auto",
+  "litematica.message.warn.pickblock.no_suitable_slot_found": "No suitable hotbar slot found for pick block!\\nCheck the config Generic -\u003e §epickBlockableSlots§r.\\nAlso depending on the §epickBlockAvoid*§6 configs, the pick block feature may refuse to replace any tools or other damageable items in those slots.",
+  "litematica.gui.label.paste_nbt_behavior.place_data_modify": "Place \u0026 Data Modify",
+  "litematica.gui.label.easy_place_protocol.v2": "Version 2",
+  "litematica.gui.label.easy_place_protocol.v3": "Version 3",
+  "litematica.gui.label.paste_nbt_behavior.none": "None",
+  "litematica.message.schematic_pasted_using_fill_and_setblock": "Schematic pasted using §b%s§r fill and §b%s§r setblock commands",
+  "litematica.gui.label.paste_nbt_behavior.place_clone": "Place \u0026 Clone",
+  "litematica.message.warn.pickblock.no_valid_slots_configured": "No hotbar slots set in the Generic -\u003e §epickBlockableSlots§6 config!"
+}

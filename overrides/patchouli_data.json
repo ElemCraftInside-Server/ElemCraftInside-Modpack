@@ -1,0 +1,19 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "touhou_little_maid:memorizable_gensokyo": {
+      "viewedEntries": [
+        "touhou_little_maid:maid/spawn_maid",
+        "touhou_little_maid:overview/world_spawn",
+        "touhou_little_maid:overview/power_point",
+        "touhou_little_maid:other/shrine",
+        "touhou_little_maid:overview/multiblocks_altar",
+        "touhou_little_maid:overview/gohei_and_danmaku",
+        "touhou_little_maid:maid/film"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

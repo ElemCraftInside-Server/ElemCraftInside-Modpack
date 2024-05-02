@@ -1,0 +1,4503 @@
+{
+  "name": "ElemCraftInside-Modpack_Ver1.1-beta",
+  "author": "ECIS Core Management",
+  "version": "1.1-beta",
+  "description": "",
+  "fileApi": "https://gitee.com/numerousx/ElemCraftInside-Modpack/raw/main",
+  "files": [
+    {
+      "path": "1.20.1_ver2-natives/caramelchat14359991049426178362.dll",
+      "hash": "2373c0c37db1a14c630df2f7add8ec2b5349cf9e"
+    },
+    {
+      "path": "1.20.1_ver2-natives/glfw.dll",
+      "hash": "3c0e8e7fcbc854a87219fbbfd181c2cc76018144"
+    },
+    {
+      "path": "1.20.1_ver2-natives/jemalloc.dll",
+      "hash": "e25eae45e9cb2f17380279d3edc89be5520bebdd"
+    },
+    {
+      "path": "1.20.1_ver2-natives/jna4621823033076598548.dll",
+      "hash": "526e95d2afde5ef07dd0aca671261dfbc7fcfa17"
+    },
+    {
+      "path": "1.20.1_ver2-natives/jna4621823033076598548.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "1.20.1_ver2-natives/lwjgl.dll",
+      "hash": "0c9b501520c20055ba77bbd8cae4895fcb1cfa40"
+    },
+    {
+      "path": "1.20.1_ver2-natives/lwjgl_opengl.dll",
+      "hash": "8f1bbc60d651e010a6e1734547aec9e9786ffdbe"
+    },
+    {
+      "path": "1.20.1_ver2-natives/lwjgl_stb.dll",
+      "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9"
+    },
+    {
+      "path": "1.20.1_ver2-natives/OpenAL.dll",
+      "hash": "900ac280d11730ec4b774073ef748cc81fbbdf14"
+    },
+    {
+      "path": "AutoTranslation/additionalentityattributes/zh_cn.json",
+      "hash": "263b1c556e90fe1c160a508f9df8cc6f9941c288"
+    },
+    {
+      "path": "AutoTranslation/additionalentityattributes/_ref.json",
+      "hash": "a23ead2268604fbeb6b87f29365a0a843a19e6ea"
+    },
+    {
+      "path": "AutoTranslation/ad_astra/zh_cn.json",
+      "hash": "c4b21803a1925cb8113867ac8e87a2707cf290a6"
+    },
+    {
+      "path": "AutoTranslation/ad_astra/_ref.json",
+      "hash": "cf5024b450c050e27a9a3bfdc3ebe63ff651d5f0"
+    },
+    {
+      "path": "AutoTranslation/ad_astra_giselle_addon/zh_cn.json",
+      "hash": "c80793f48a53d8f67446ce9da06ea5d916ac123e"
+    },
+    {
+      "path": "AutoTranslation/ad_astra_giselle_addon/_ref.json",
+      "hash": "7135548144f68e15d56459d4cad16ae44292dce7"
+    },
+    {
+      "path": "AutoTranslation/ad_astra__extra_additions/zh_cn.json",
+      "hash": "7bf67e412ceb00bfc79679cb917cfee2dd0274f6"
+    },
+    {
+      "path": "AutoTranslation/ad_astra__extra_additions/_ref.json",
+      "hash": "9044b8b9a506a00ad0fc6878ecc2c6bdc22c0f31"
+    },
+    {
+      "path": "AutoTranslation/ad_extendra/zh_cn.json",
+      "hash": "8eb1a00ddac247590cb98e5d7411399c5520e248"
+    },
+    {
+      "path": "AutoTranslation/ad_extendra/_ref.json",
+      "hash": "f8f81814857143ff6626176546e40ec4f0860d0d"
+    },
+    {
+      "path": "AutoTranslation/ae2/zh_cn.json",
+      "hash": "246acb5120d1ea9ac3e84cac97b9b0c0934eea6a"
+    },
+    {
+      "path": "AutoTranslation/ae2/_ref.json",
+      "hash": "a29cb644b7a3295506e8bd4b3d71f30971e70bca"
+    },
+    {
+      "path": "AutoTranslation/ae2wtlib/zh_cn.json",
+      "hash": "1421393b6fc4c65f0016df5c16480be10f086f0e"
+    },
+    {
+      "path": "AutoTranslation/ae2wtlib/_ref.json",
+      "hash": "850a55cb345c4ad2d82d58a491162d5f8dfa004b"
+    },
+    {
+      "path": "AutoTranslation/aeinfinitybooster/zh_cn.json",
+      "hash": "ddd0a8afbf4fd743e7be311da112e8a0b5587b3f"
+    },
+    {
+      "path": "AutoTranslation/aeinfinitybooster/_ref.json",
+      "hash": "760082e5377eccad2d8e4006ff7e7f533212efab"
+    },
+    {
+      "path": "AutoTranslation/apoli/zh_cn.json",
+      "hash": "ad0881fb7798667b9b23f4be376917c763cb4350"
+    },
+    {
+      "path": "AutoTranslation/apoli/_ref.json",
+      "hash": "46fe67befc382fa0c3c375540e54d20480bc0453"
+    },
+    {
+      "path": "AutoTranslation/appflux/zh_cn.json",
+      "hash": "7deeecc806d113d851a35f4892f6befc40c52be4"
+    },
+    {
+      "path": "AutoTranslation/appflux/_ref.json",
+      "hash": "b0063076a8a0345f9fe2ffdbc125dd22db8b5cea"
+    },
+    {
+      "path": "AutoTranslation/appliedcooking/zh_cn.json",
+      "hash": "954399d1b645bbfbb768f6c79f682ea565e2012c"
+    },
+    {
+      "path": "AutoTranslation/appliedcooking/_ref.json",
+      "hash": "31686f5f30917b33a89d98a2614eb4c4b8530d0d"
+    },
+    {
+      "path": "AutoTranslation/astikorcarts/zh_cn.json",
+      "hash": "b21e9f2cda560cfbba2e037ea80112c58f52545c"
+    },
+    {
+      "path": "AutoTranslation/astikorcarts/_ref.json",
+      "hash": "0044c70fbcf14faea312c0232f554e71c0593b71"
+    },
+    {
+      "path": "AutoTranslation/bellsandwhistles/zh_cn.json",
+      "hash": "9e74ead853d255a99f79a44b0adf705e491c1071"
+    },
+    {
+      "path": "AutoTranslation/bellsandwhistles/_ref.json",
+      "hash": "c0040cfbbfb34c8778bf981eec45f816b86058a6"
+    },
+    {
+      "path": "AutoTranslation/bettercombat/zh_cn.json",
+      "hash": "885b6d0b5610092f5ac487578602151f5c766879"
+    },
+    {
+      "path": "AutoTranslation/bettercombat/_ref.json",
+      "hash": "41d6fa21133bd165e2a56e1fc466f39092109c29"
+    },
+    {
+      "path": "AutoTranslation/betterdeserttemples/zh_cn.json",
+      "hash": "fdcb0fe0148208a0b81c80e10e4c3fb8c689db84"
+    },
+    {
+      "path": "AutoTranslation/betterdeserttemples/_ref.json",
+      "hash": "5cdf779a61894a354eecc8300976514d712f4f19"
+    },
+    {
+      "path": "AutoTranslation/betterdungeons/zh_cn.json",
+      "hash": "f3cf6ba5cefd0b341b3685f69270ce0a0bbcac06"
+    },
+    {
+      "path": "AutoTranslation/betterdungeons/_ref.json",
+      "hash": "023ad49d9df3ebf1d1b5cfe4e5518a390629081d"
+    },
+    {
+      "path": "AutoTranslation/betterfortresses/zh_cn.json",
+      "hash": "b1a14f3a6c77d69d3221c49086dbe28cf0c568d7"
+    },
+    {
+      "path": "AutoTranslation/betterfortresses/_ref.json",
+      "hash": "cd66479220760efda6ef99726462432c5b7a5d38"
+    },
+    {
+      "path": "AutoTranslation/betterjungletemples/zh_cn.json",
+      "hash": "dc948f6d2eea4eaa43dbaf73125ca80844324124"
+    },
+    {
+      "path": "AutoTranslation/betterjungletemples/_ref.json",
+      "hash": "e18302abd3c24edfee8b37f05eb10e2c55d02d08"
+    },
+    {
+      "path": "AutoTranslation/bettermineshafts/zh_cn.json",
+      "hash": "d1fa2381beb6004ade0c89ce5d28a4b9de7c0fa5"
+    },
+    {
+      "path": "AutoTranslation/bettermineshafts/_ref.json",
+      "hash": "0684c8bfed6d7a2aac2b8b40cc40bdffe755c53a"
+    },
+    {
+      "path": "AutoTranslation/betteroceanmonuments/zh_cn.json",
+      "hash": "a405e4415e5d7f866d640304c4e7f81536d72c8e"
+    },
+    {
+      "path": "AutoTranslation/betteroceanmonuments/_ref.json",
+      "hash": "7223dc3803a886ed2006490bed03206be5931af1"
+    },
+    {
+      "path": "AutoTranslation/betterstrongholds/zh_cn.json",
+      "hash": "9aee8239efb8a1b6cd07728141bafc266971bb80"
+    },
+    {
+      "path": "AutoTranslation/betterstrongholds/_ref.json",
+      "hash": "82e1af4fe45865a8fd38e695db67fcf044cc1f15"
+    },
+    {
+      "path": "AutoTranslation/bettertitlescreen/zh_cn.json",
+      "hash": "8942187172a017ec4c2f607533d75b87da8fd764"
+    },
+    {
+      "path": "AutoTranslation/bettertitlescreen/_ref.json",
+      "hash": "3b68b713f9f0f798fd7820e6875f6b390724f1bf"
+    },
+    {
+      "path": "AutoTranslation/betterwitchhuts/zh_cn.json",
+      "hash": "9390832eb1806775bad48425d5972cbbebe950b9"
+    },
+    {
+      "path": "AutoTranslation/betterwitchhuts/_ref.json",
+      "hash": "91031d1a845dc4cd7f51970efad47bbeb0576f84"
+    },
+    {
+      "path": "AutoTranslation/bfr/zh_cn.json",
+      "hash": "077a3f26e5ab385c618ca13efbed9ef8054de37e"
+    },
+    {
+      "path": "AutoTranslation/bfr/_ref.json",
+      "hash": "4f7bad1a5e5e6608286647d6d83f0dab03701178"
+    },
+    {
+      "path": "AutoTranslation/biomesoplenty/zh_cn.json",
+      "hash": "ac8665fc5dad5370c6c34efbd87d66c09515fc01"
+    },
+    {
+      "path": "AutoTranslation/biomesoplenty/_ref.json",
+      "hash": "1c8560205857e8e1eb42cdf404798580475b50ef"
+    },
+    {
+      "path": "AutoTranslation/bocchud/zh_cn.json",
+      "hash": "c99b22b893a622156b562ed93b315a9bc83cce82"
+    },
+    {
+      "path": "AutoTranslation/bocchud/_ref.json",
+      "hash": "573c88bb1bc9006d80b653e9f380105a78499e73"
+    },
+    {
+      "path": "AutoTranslation/bookshelf/zh_cn.json",
+      "hash": "b9c8c539656776a4bd53c4ae55fca3eb6a1f16ea"
+    },
+    {
+      "path": "AutoTranslation/bookshelf/_ref.json",
+      "hash": "5ae87e87b8cbf4c04f47c08ba0df283c89866d46"
+    },
+    {
+      "path": "AutoTranslation/caelus/zh_cn.json",
+      "hash": "4209dc697190aa6b4f74d184a1b7b07e043d62cd"
+    },
+    {
+      "path": "AutoTranslation/caelus/_ref.json",
+      "hash": "cec83d2c0903ad1e37cd55dab59c3e5218babf74"
+    },
+    {
+      "path": "AutoTranslation/calio/_ref.json",
+      "hash": "22949bbaabfa246b15b6bfb81b5a49aaac56d90e"
+    },
+    {
+      "path": "AutoTranslation/caramelchat/zh_cn.json",
+      "hash": "c293f1b394e7e50abe75b10c1e82799f07615c0e"
+    },
+    {
+      "path": "AutoTranslation/caramelchat/_ref.json",
+      "hash": "da78c55553147b8313ccd0058e70491adaa06541"
+    },
+    {
+      "path": "AutoTranslation/cloth-config2/zh_cn.json",
+      "hash": "e958cd550af78387a43029a62ac61b30c14a75c2"
+    },
+    {
+      "path": "AutoTranslation/cloth-config2/_ref.json",
+      "hash": "01fc1c35a12f367bfb699338a260989373992b0f"
+    },
+    {
+      "path": "AutoTranslation/computercraft/zh_cn.json",
+      "hash": "e6980d3854dbec71863e115fe425f8062a66cd3b"
+    },
+    {
+      "path": "AutoTranslation/computercraft/_ref.json",
+      "hash": "bebb334c918681bc6d18fb033bfe089ccf4433ab"
+    },
+    {
+      "path": "AutoTranslation/configured/zh_cn.json",
+      "hash": "04fb26f4c8ddfa8c3f22635f712df1c8f90dc2d8"
+    },
+    {
+      "path": "AutoTranslation/configured/_ref.json",
+      "hash": "ba3fbd24ee19c26a39ec805f7e1bc875dfb61d1b"
+    },
+    {
+      "path": "AutoTranslation/cookingforblockheads/zh_cn.json",
+      "hash": "383d7d30005e908bbab804c66385ef0435f43ebf"
+    },
+    {
+      "path": "AutoTranslation/cookingforblockheads/_ref.json",
+      "hash": "e78b4a126f6eb0c39a9568b40ac35ff7ec4e6077"
+    },
+    {
+      "path": "AutoTranslation/craftingtweaks/zh_cn.json",
+      "hash": "fa3e71c8c20ca08a35d658b52f80f3865b64e316"
+    },
+    {
+      "path": "AutoTranslation/craftingtweaks/_ref.json",
+      "hash": "733ca2657af22e1561dff43a4085eb9174c73673"
+    },
+    {
+      "path": "AutoTranslation/create/zh_cn.json",
+      "hash": "3a0cd156bb686216e8dc0ac94e0a6c6646c0cf76"
+    },
+    {
+      "path": "AutoTranslation/create/_ref.json",
+      "hash": "eb6cb5381e6a07d994fccb0978eef5140df85e7b"
+    },
+    {
+      "path": "AutoTranslation/createaddition/zh_cn.json",
+      "hash": "87cab95748e669059c505959029984fa37c8a209"
+    },
+    {
+      "path": "AutoTranslation/createaddition/_ref.json",
+      "hash": "a4cf5abb7ffd701ff2f35ecb412febcdac887dac"
+    },
+    {
+      "path": "AutoTranslation/createarmory/zh_cn.json",
+      "hash": "acd4a3632f363df23ed590ca53dd0d79700a9fc6"
+    },
+    {
+      "path": "AutoTranslation/createarmory/_ref.json",
+      "hash": "6ed6b6aa67f5b85947c358af896d975872eea96a"
+    },
+    {
+      "path": "AutoTranslation/createbigcannons/zh_cn.json",
+      "hash": "5a8ac735edf67eced6c3ccfc65a1949e225b15c4"
+    },
+    {
+      "path": "AutoTranslation/createbigcannons/_ref.json",
+      "hash": "53b24baa61a5de698b2d2fc6c5e99063e235c9da"
+    },
+    {
+      "path": "AutoTranslation/createdeco/zh_cn.json",
+      "hash": "e6f490914c808b0185f37024908125c6a22dab66"
+    },
+    {
+      "path": "AutoTranslation/createdeco/_ref.json",
+      "hash": "0cfc6bae1a55b5d1cb1c183f0f3b7db308ef24a4"
+    },
+    {
+      "path": "AutoTranslation/createdieselgenerators/zh_cn.json",
+      "hash": "8737b77fa5bbc9ac3b78e3d24e7c13f3391ee8e3"
+    },
+    {
+      "path": "AutoTranslation/createdieselgenerators/_ref.json",
+      "hash": "a8944dfbea8fab605d1f5dea12e1e56b2d363cc6"
+    },
+    {
+      "path": "AutoTranslation/creategoggles/zh_cn.json",
+      "hash": "a7f075226372b6a880ff4f3fe71ad3ef2f06ec5d"
+    },
+    {
+      "path": "AutoTranslation/creategoggles/_ref.json",
+      "hash": "f13e03b6e742b8e73153cce1654209531783ac12"
+    },
+    {
+      "path": "AutoTranslation/create_new_age/zh_cn.json",
+      "hash": "57e2d79e4d9486994f13b78a4f8f39e406bb46eb"
+    },
+    {
+      "path": "AutoTranslation/create_new_age/_ref.json",
+      "hash": "e335705198537aac190ea15459aa8e897b6bd65f"
+    },
+    {
+      "path": "AutoTranslation/create_power_loader/zh_cn.json",
+      "hash": "9e88fd447a26ac5aaee57cb268936a0afb27135e"
+    },
+    {
+      "path": "AutoTranslation/create_power_loader/_ref.json",
+      "hash": "25073103af2419db90a2a0d4fcd3dd6a3fd304c3"
+    },
+    {
+      "path": "AutoTranslation/create_questing/zh_cn.json",
+      "hash": "7ad859edca248202b8069d55d3f7ae23f3fedc8d"
+    },
+    {
+      "path": "AutoTranslation/create_questing/_ref.json",
+      "hash": "fc13c3aee6937cf187e2ba4a59c38d8b3cc8856c"
+    },
+    {
+      "path": "AutoTranslation/create_sabers/zh_cn.json",
+      "hash": "1ccb4b8d8f873aba262ab774d80d34a36005fc9a"
+    },
+    {
+      "path": "AutoTranslation/create_sabers/_ref.json",
+      "hash": "326d0c42d64701f1f74ed5a0a25e0381a9526f8f"
+    },
+    {
+      "path": "AutoTranslation/cumulus_menus/zh_cn.json",
+      "hash": "de514206ac1d9808a1c501926904afca7ea8db09"
+    },
+    {
+      "path": "AutoTranslation/cumulus_menus/_ref.json",
+      "hash": "1e42e97b37c8e44e46e1d21e1ae8cd68f7ac7b09"
+    },
+    {
+      "path": "AutoTranslation/curios/zh_cn.json",
+      "hash": "cfb552c0845d78531ab20b27412eaddac6a6de3b"
+    },
+    {
+      "path": "AutoTranslation/curios/_ref.json",
+      "hash": "e176c33a4c44fac800892560841df0e95bb140e8"
+    },
+    {
+      "path": "AutoTranslation/cyclic/zh_cn.json",
+      "hash": "aa9121e9cd0ca68c9b34a245fe3741e7aba04c7b"
+    },
+    {
+      "path": "AutoTranslation/cyclic/_ref.json",
+      "hash": "9068cfc591a62f1183d12593e59354ba9ee300fe"
+    },
+    {
+      "path": "AutoTranslation/deeperdarker/zh_cn.json",
+      "hash": "fd52b02ede45d656b9b8091b9a270195af4b2a2c"
+    },
+    {
+      "path": "AutoTranslation/deeperdarker/_ref.json",
+      "hash": "5ebc8f4752592355e2cfdfd157ab043a8a06ca4a"
+    },
+    {
+      "path": "AutoTranslation/distanthorizons/zh_cn.json",
+      "hash": "8bd70d7bbac063096fc4cfd6cab5079d8b706e1b"
+    },
+    {
+      "path": "AutoTranslation/distanthorizons/_ref.json",
+      "hash": "cabb6bed29711ca17e35623ab90d4cf504dcceb4"
+    },
+    {
+      "path": "AutoTranslation/dynamiccrosshair/zh_cn.json",
+      "hash": "babe680565b8f4c5492b31be76c658f6fa71b500"
+    },
+    {
+      "path": "AutoTranslation/dynamiccrosshair/_ref.json",
+      "hash": "3722546ae7509b75fd83ee2710f79a4025f696ac"
+    },
+    {
+      "path": "AutoTranslation/dynamic_fps/zh_cn.json",
+      "hash": "2453716de7b5bd52827de78c6d5b63ff203a3877"
+    },
+    {
+      "path": "AutoTranslation/dynamic_fps/_ref.json",
+      "hash": "1ea6771ac9835832df1b652d422b4ff47dc4eb7d"
+    },
+    {
+      "path": "AutoTranslation/embeddiumplus/zh_cn.json",
+      "hash": "5ce9328312fe45fc13c578127b1289d9e0c7baae"
+    },
+    {
+      "path": "AutoTranslation/embeddiumplus/_ref.json",
+      "hash": "a4c2c97102d005c93ebae1fac1f8eb1fe3ee0b46"
+    },
+    {
+      "path": "AutoTranslation/enchdesc/zh_cn.json",
+      "hash": "c867c9abd74ceadd4f34d9783043f55a52241c17"
+    },
+    {
+      "path": "AutoTranslation/enchdesc/_ref.json",
+      "hash": "039b9056b658546fb0b31800ef404bb0690bf168"
+    },
+    {
+      "path": "AutoTranslation/entityculling/zh_cn.json",
+      "hash": "e8a79a2157fef8f63368a6f260d99962742feaf2"
+    },
+    {
+      "path": "AutoTranslation/entityculling/_ref.json",
+      "hash": "e230f7354b51fb69185972245572064a67467a4f"
+    },
+    {
+      "path": "AutoTranslation/expanded_combat/zh_cn.json",
+      "hash": "64294d4c40262d729b5db4eb69851654c5132015"
+    },
+    {
+      "path": "AutoTranslation/expanded_combat/_ref.json",
+      "hash": "fc3f35bf0bbb0c3b4b564a064e29707bacf03c90"
+    },
+    {
+      "path": "AutoTranslation/explorerscompass/zh_cn.json",
+      "hash": "57f0e84ea462766f8b9404a1173b1a984c74a750"
+    },
+    {
+      "path": "AutoTranslation/explorerscompass/_ref.json",
+      "hash": "3bef9e9c74a1e17407e5a8bcc821b50fb28ed44f"
+    },
+    {
+      "path": "AutoTranslation/farmersdelight/zh_cn.json",
+      "hash": "dc5ae670aa35e876e67193a4f8a9d0b5118d4bbd"
+    },
+    {
+      "path": "AutoTranslation/farmersdelight/_ref.json",
+      "hash": "be92539e1fe5e992f76d45c5c8cdfd9597cfcbbb"
+    },
+    {
+      "path": "AutoTranslation/fastload/zh_cn.json",
+      "hash": "5c1ad6c614d4a03184263d2cebf5bc3590ddc8bb"
+    },
+    {
+      "path": "AutoTranslation/fastload/_ref.json",
+      "hash": "c0e5d1180f80b49e3554f4ba8092d2a71ac95bda"
+    },
+    {
+      "path": "AutoTranslation/flib/zh_cn.json",
+      "hash": "4de069214a7354c4cbaf1de56ce0974ff98dc5a9"
+    },
+    {
+      "path": "AutoTranslation/flib/_ref.json",
+      "hash": "09eededee32251227a8c136ffd1d0d57784690bf"
+    },
+    {
+      "path": "AutoTranslation/forgeautofish/zh_cn.json",
+      "hash": "b62dda614fbbab5859c66f2f4411dbe388f46ad6"
+    },
+    {
+      "path": "AutoTranslation/forgeautofish/_ref.json",
+      "hash": "ddbd8db82cd45afd598bdac094de32198e6be71c"
+    },
+    {
+      "path": "AutoTranslation/forgematica/zh_cn.json",
+      "hash": "4ea4fa3961567aa395538c7e9be7e533e15ef1b6"
+    },
+    {
+      "path": "AutoTranslation/forgematica/_ref.json",
+      "hash": "d1de595c743064209b659db112f3e9d3dc3ad7a2"
+    },
+    {
+      "path": "AutoTranslation/ftbfiltersystem/zh_cn.json",
+      "hash": "4773b15999e49ef050e60eeaf2d2a449d8e23458"
+    },
+    {
+      "path": "AutoTranslation/ftbfiltersystem/_ref.json",
+      "hash": "b3c82954ebb40eeb22e662f56e44e40f16a4fbd2"
+    },
+    {
+      "path": "AutoTranslation/ftblibrary/zh_cn.json",
+      "hash": "d3a150c59f03603ab6798fb9fa4edf8b6e60d9bc"
+    },
+    {
+      "path": "AutoTranslation/ftblibrary/_ref.json",
+      "hash": "f7e5cb6cde3bc4f005ced4af5144e988c90c852e"
+    },
+    {
+      "path": "AutoTranslation/ftbquests/zh_cn.json",
+      "hash": "3fb4c11a757999840da3e04dfdd93cb306c174cd"
+    },
+    {
+      "path": "AutoTranslation/ftbquests/_ref.json",
+      "hash": "f6dd3a57f46896e6d928bfa8a2ee8b1f550c0daf"
+    },
+    {
+      "path": "AutoTranslation/ftbteams/zh_cn.json",
+      "hash": "8523768a345a94eb2bc359f61d9a62755b5c6ff9"
+    },
+    {
+      "path": "AutoTranslation/ftbteams/_ref.json",
+      "hash": "f0ee7f9a1e4f0fa82c0554b51efe1a710d0d3ecd"
+    },
+    {
+      "path": "AutoTranslation/geckolib/zh_cn.json",
+      "hash": "023275ae3c80492612978eb9f3a286960c49bee9"
+    },
+    {
+      "path": "AutoTranslation/geckolib/_ref.json",
+      "hash": "e28f2add9e99d8b7baa9383b65001efd2f9e7e0e"
+    },
+    {
+      "path": "AutoTranslation/ias/zh_cn.json",
+      "hash": "1e1499c33934b0a231a6d6d20e4007d89eca0c3d"
+    },
+    {
+      "path": "AutoTranslation/ias/_ref.json",
+      "hash": "7caf38cc9d3ea26c40ec579f68d679cdd3ee9dfc"
+    },
+    {
+      "path": "AutoTranslation/interiors/zh_cn.json",
+      "hash": "6b83cbe5705801d91afdf1da03ea0cbf85de050d"
+    },
+    {
+      "path": "AutoTranslation/interiors/_ref.json",
+      "hash": "cb1841715624a1187c2661a37f40da07653abf85"
+    },
+    {
+      "path": "AutoTranslation/inventoryprofilesnext/zh_cn.json",
+      "hash": "55491ce4971c3cb633aeb9f525468982b1dd006c"
+    },
+    {
+      "path": "AutoTranslation/inventoryprofilesnext/_ref.json",
+      "hash": "0d0ccd8d776efc018facb17865ad6c5e68973c4f"
+    },
+    {
+      "path": "AutoTranslation/itemfilters/zh_cn.json",
+      "hash": "d0b246479187590116f7904b6f819eed86cf58ad"
+    },
+    {
+      "path": "AutoTranslation/itemfilters/_ref.json",
+      "hash": "d45621d9d794f39cce1bae6ab9fb521933ec00f7"
+    },
+    {
+      "path": "AutoTranslation/jadeaddons/zh_cn.json",
+      "hash": "0990e4cff37c8b09fdc5cfc1aec4d423640cbebf"
+    },
+    {
+      "path": "AutoTranslation/jadeaddons/_ref.json",
+      "hash": "d679b9ddc02d3ba7edbb10c7c6fbcad3b7360bed"
+    },
+    {
+      "path": "AutoTranslation/jaopca/zh_cn.json",
+      "hash": "683242b0c41465c0f8e0eabc1a80de0e5f77809f"
+    },
+    {
+      "path": "AutoTranslation/jaopca/_ref.json",
+      "hash": "ded67c8a27a8caed259e96dbda6c13844bf18caa"
+    },
+    {
+      "path": "AutoTranslation/kiwi/zh_cn.json",
+      "hash": "54eb44019e9823e1e09658bf446f81ca0963050c"
+    },
+    {
+      "path": "AutoTranslation/kiwi/_ref.json",
+      "hash": "33d1a005dd7d365f6d3f665dd830c85a4605337e"
+    },
+    {
+      "path": "AutoTranslation/libipn/zh_cn.json",
+      "hash": "1217dbdfc35ad4b1625fd887887f60b02e3394ee"
+    },
+    {
+      "path": "AutoTranslation/libipn/_ref.json",
+      "hash": "545b240b49f2d3b2d900dc4a7a3478089b9eb5a9"
+    },
+    {
+      "path": "AutoTranslation/libraryferret/zh_cn.json",
+      "hash": "653ca2a46b177c17ed38841680e0b333adf9fe71"
+    },
+    {
+      "path": "AutoTranslation/libraryferret/_ref.json",
+      "hash": "ec63a6ab195a338fc3c84e5acacb9e00179c69e5"
+    },
+    {
+      "path": "AutoTranslation/mafglib/zh_cn.json",
+      "hash": "104e4c0b319608236b79500937771f32b594f315"
+    },
+    {
+      "path": "AutoTranslation/mafglib/_ref.json",
+      "hash": "4ed1e3e914d6f51416539d34d19baf05dd7c5444"
+    },
+    {
+      "path": "AutoTranslation/mekanismaaa/zh_cn.json",
+      "hash": "38f2f10da28c294cfb1169d96343e41c1ae6851d"
+    },
+    {
+      "path": "AutoTranslation/mekanismaaa/_ref.json",
+      "hash": "52a478c1704f917d20111eb9c62f8ec1dddf1d88"
+    },
+    {
+      "path": "AutoTranslation/mekanismcardboardtooltip/zh_cn.json",
+      "hash": "8fea798e52c140df4a9cd1c2d6e42b435986e19e"
+    },
+    {
+      "path": "AutoTranslation/mekanismcardboardtooltip/_ref.json",
+      "hash": "612ed8e92f3a2555a21835b171a0a752f1a05b68"
+    },
+    {
+      "path": "AutoTranslation/moonlight/zh_cn.json",
+      "hash": "edaeb82b82b4a28452c370131c6fdafa1fae28b9"
+    },
+    {
+      "path": "AutoTranslation/moonlight/_ref.json",
+      "hash": "f7adbfe7ceaccf92cabeee0fed37f3eb78c5d5d2"
+    },
+    {
+      "path": "AutoTranslation/moremekanismprocessing/zh_cn.json",
+      "hash": "1d0f2674af754e98d35ad6b8d73b0bcc816553ab"
+    },
+    {
+      "path": "AutoTranslation/moremekanismprocessing/_ref.json",
+      "hash": "bffdb83e5a346aca6aa4afbe002c791c0344ae21"
+    },
+    {
+      "path": "AutoTranslation/naturalist/zh_cn.json",
+      "hash": "3c5d4cc77ffc380fc38ee8efeb36f1099798bdfe"
+    },
+    {
+      "path": "AutoTranslation/naturalist/_ref.json",
+      "hash": "a45df938158463fa91aab53dea687d164652bb29"
+    },
+    {
+      "path": "AutoTranslation/necronomicon/zh_cn.json",
+      "hash": "df92782573efbb6ebb108c65ff7982227f90c7e3"
+    },
+    {
+      "path": "AutoTranslation/necronomicon/_ref.json",
+      "hash": "4ea7ed4ed1401613630009397b93def08696544b"
+    },
+    {
+      "path": "AutoTranslation/notenoughcrashes/zh_cn.json",
+      "hash": "e237e57d20a993a3647fbd8d2e7a29b27cb67637"
+    },
+    {
+      "path": "AutoTranslation/notenoughcrashes/_ref.json",
+      "hash": "8bb72b461c8f287c2e9c16a2262d52e2344df96c"
+    },
+    {
+      "path": "AutoTranslation/openloader/zh_cn.json",
+      "hash": "6699779bd1754c4fdef0cd1facd837fb2f6d3683"
+    },
+    {
+      "path": "AutoTranslation/openloader/_ref.json",
+      "hash": "087a2830431ea481c083c2465ab659352fda9364"
+    },
+    {
+      "path": "AutoTranslation/openpartiesandclaims/zh_cn.json",
+      "hash": "0a6324d205a8a66f3ccb8bfc216abbce930f1992"
+    },
+    {
+      "path": "AutoTranslation/openpartiesandclaims/_ref.json",
+      "hash": "c525f8a9fae58e0f7a38b9e1c812217a19af51da"
+    },
+    {
+      "path": "AutoTranslation/origins/zh_cn.json",
+      "hash": "f6281809b532d9c743219459fb3bc18924a764a8"
+    },
+    {
+      "path": "AutoTranslation/origins/_ref.json",
+      "hash": "2602c4a60f7c3eb878cb32cf65abff63b89de2ca"
+    },
+    {
+      "path": "AutoTranslation/passablefoliage/zh_cn.json",
+      "hash": "0914e8de3163de8169730396b7761dc1bdaebb6c"
+    },
+    {
+      "path": "AutoTranslation/passablefoliage/_ref.json",
+      "hash": "24ef1931c6fd0c8847e869f5fb2aeb8634f95833"
+    },
+    {
+      "path": "AutoTranslation/patchouli/zh_cn.json",
+      "hash": "b6fa377fd5ece6531047400af24ec8c0b6e54b18"
+    },
+    {
+      "path": "AutoTranslation/patchouli/_ref.json",
+      "hash": "077cfce6aa49c97251ced15dd93c7a011706ee65"
+    },
+    {
+      "path": "AutoTranslation/pehkui/_ref.json",
+      "hash": "bf6598dd5cf8bfd70be4060b31544c132494e660"
+    },
+    {
+      "path": "AutoTranslation/productivebees/zh_cn.json",
+      "hash": "e2b1792c700c7aa9defe9bdecad4ba35ed7539d8"
+    },
+    {
+      "path": "AutoTranslation/productivebees/_ref.json",
+      "hash": "4fb56354813f763f86f04295e87d0071f48165eb"
+    },
+    {
+      "path": "AutoTranslation/quark/zh_cn.json",
+      "hash": "6ec755bec11e6d1e1c57395a22c5876a603d64a5"
+    },
+    {
+      "path": "AutoTranslation/quark/_ref.json",
+      "hash": "123d81b9c678b97745857d54d306ba116091ddb3"
+    },
+    {
+      "path": "AutoTranslation/questsadditions/zh_cn.json",
+      "hash": "36d6a94c82f03b4e0cc27b323e1c3eae7504fe5c"
+    },
+    {
+      "path": "AutoTranslation/questsadditions/_ref.json",
+      "hash": "b362f36e6777b293e841f7a8439ebf3c6a15cb32"
+    },
+    {
+      "path": "AutoTranslation/railways/zh_cn.json",
+      "hash": "0af8eee3e5dcbcf45c1c5fe96557a4844a746012"
+    },
+    {
+      "path": "AutoTranslation/railways/_ref.json",
+      "hash": "f83315eb36e077cf48d61e43d8912ecae7984dce"
+    },
+    {
+      "path": "AutoTranslation/rrls/zh_cn.json",
+      "hash": "f60d1e331e6c8eee9cb6a8f1deed965a9eedbb80"
+    },
+    {
+      "path": "AutoTranslation/rrls/_ref.json",
+      "hash": "2103c7977f1e928418c73876f49f343a269ac073"
+    },
+    {
+      "path": "AutoTranslation/sebastrnlib/zh_cn.json",
+      "hash": "f102f0a52aed1d3c8ae990bb99d16ca785658abf"
+    },
+    {
+      "path": "AutoTranslation/sebastrnlib/_ref.json",
+      "hash": "f2427b54d401e0570c2c25fd843a4856de89a220"
+    },
+    {
+      "path": "AutoTranslation/shulkerboxtooltip/zh_cn.json",
+      "hash": "180a05735936122d33f73b9e328e915e2b01639b"
+    },
+    {
+      "path": "AutoTranslation/shulkerboxtooltip/_ref.json",
+      "hash": "d1d9b29afd646c8d0876d1e117947b2dfeb794a3"
+    },
+    {
+      "path": "AutoTranslation/skinlayers3d/zh_cn.json",
+      "hash": "482710278fff748e2406fe646cfb8d7f7ca71727"
+    },
+    {
+      "path": "AutoTranslation/skinlayers3d/_ref.json",
+      "hash": "01b1a3f71a09afbe7d905c32cf181d3e3c7bbd8d"
+    },
+    {
+      "path": "AutoTranslation/slashblade/zh_cn.json",
+      "hash": "5f516f75b85a99d76781192b2e987c57e2c86c87"
+    },
+    {
+      "path": "AutoTranslation/slashblade/_ref.json",
+      "hash": "6f2cebdd8763d29e091a10d754e9af2ace6d8de2"
+    },
+    {
+      "path": "AutoTranslation/sliceanddice/zh_cn.json",
+      "hash": "e5db65630611c68aeb539605ff1dc95a28795fd8"
+    },
+    {
+      "path": "AutoTranslation/sliceanddice/_ref.json",
+      "hash": "c305f335c5e549e2eac4e04f9a241ca3ed11c653"
+    },
+    {
+      "path": "AutoTranslation/sodium/zh_cn.json",
+      "hash": "f87251f3f266e8d4b5e386a0df77749e5db59172"
+    },
+    {
+      "path": "AutoTranslation/sodium/_ref.json",
+      "hash": "27e8e528d3424e7b8fc0852a6b7de7d538345033"
+    },
+    {
+      "path": "AutoTranslation/sophisticatedbackpacks/zh_cn.json",
+      "hash": "33aff42cbf70d4954f3c882f0cf9464fd87ed853"
+    },
+    {
+      "path": "AutoTranslation/sophisticatedbackpacks/_ref.json",
+      "hash": "1ee96bc0ee9835a4a63ae70c053d6652f8cbd98d"
+    },
+    {
+      "path": "AutoTranslation/sophisticatedcore/zh_cn.json",
+      "hash": "2d180965b33b5c5b9f6da5737434e5f6ed6b99ff"
+    },
+    {
+      "path": "AutoTranslation/sophisticatedcore/_ref.json",
+      "hash": "5bd1df25d3136f002c07c9e5701ae5e417ec6261"
+    },
+    {
+      "path": "AutoTranslation/sound_physics_remastered/zh_cn.json",
+      "hash": "53e25891928910b5e29c30698c127b71d9e0903b"
+    },
+    {
+      "path": "AutoTranslation/sound_physics_remastered/_ref.json",
+      "hash": "afa104025eabea3d831b0ff4d7d3c5a089afd66a"
+    },
+    {
+      "path": "AutoTranslation/supplementaries/zh_cn.json",
+      "hash": "ab589c396a1ad2b76546db002461988c9baba3d6"
+    },
+    {
+      "path": "AutoTranslation/supplementaries/_ref.json",
+      "hash": "f40f8a45d0b5746389838dff53b910a66e90a262"
+    },
+    {
+      "path": "AutoTranslation/terrablender/zh_cn.json",
+      "hash": "430362e5ce40327cfc9e7fac1061521d582541f6"
+    },
+    {
+      "path": "AutoTranslation/terrablender/_ref.json",
+      "hash": "fe46676e6e125559675e4593f99d81a819473b05"
+    },
+    {
+      "path": "AutoTranslation/tweakerge/zh_cn.json",
+      "hash": "a84fae085d0a8d597d661c9531691fe360d68892"
+    },
+    {
+      "path": "AutoTranslation/tweakerge/_ref.json",
+      "hash": "454343e5455a30df381ccbc7ba1aa6d1abd75159"
+    },
+    {
+      "path": "AutoTranslation/twilightforest/zh_cn.json",
+      "hash": "0d5b9d453711afefb05f0ecb90c0e3b70aa34e9b"
+    },
+    {
+      "path": "AutoTranslation/twilightforest/_ref.json",
+      "hash": "12064cd315fd9f50f8495c5ba76e8edf9aba5ac3"
+    },
+    {
+      "path": "AutoTranslation/waystones/zh_cn.json",
+      "hash": "289703ee9ceccbaf0847fb3678dfcf441ab71da1"
+    },
+    {
+      "path": "AutoTranslation/waystones/_ref.json",
+      "hash": "7f98b55c6e7c9a584fad16b4c5356b58ad33b1c2"
+    },
+    {
+      "path": "AutoTranslation/xaerominimap/zh_cn.json",
+      "hash": "de515b855e881ae3e98afa7512b67c4e7b202a46"
+    },
+    {
+      "path": "AutoTranslation/xaerominimap/_ref.json",
+      "hash": "ddcf081fc1db871ce55617fe28fa7d62510dda72"
+    },
+    {
+      "path": "AutoTranslation/xaeroworldmap/zh_cn.json",
+      "hash": "5417386de74048c02d344fbc61a7248006898bf0"
+    },
+    {
+      "path": "AutoTranslation/xaeroworldmap/_ref.json",
+      "hash": "c65591b2e581a176d3473836c2c0963bdd5eae8c"
+    },
+    {
+      "path": "AutoTranslation/yaclx/zh_cn.json",
+      "hash": "2e69e673c232d181841ab195522e2accf7cf9edc"
+    },
+    {
+      "path": "AutoTranslation/yaclx/_ref.json",
+      "hash": "43dbee73a28efb945acda8f2a13d4ddc4978ab64"
+    },
+    {
+      "path": "AutoTranslation/zume/zh_cn.json",
+      "hash": "8b94dfd6365fcd396a9e6dc708e187fcc2560bdc"
+    },
+    {
+      "path": "AutoTranslation/zume/_ref.json",
+      "hash": "339a715b6dcb76949b40b9188181332e58894fbe"
+    },
+    {
+      "path": "config/ad_astra-client.jsonc",
+      "hash": "2e814ca406c40d95d13854663cb576c6e8cb8469"
+    },
+    {
+      "path": "config/ad_astra.jsonc",
+      "hash": "279a19d8d801d769333df955a1345f8c99ea968c"
+    },
+    {
+      "path": "config/ad_astra_giselle_addon.ver2.jsonc",
+      "hash": "de91e7ac86163269b225efbb86b1ec3addaa26a6"
+    },
+    {
+      "path": "config/ad_extendra-common.toml",
+      "hash": "4b1c05a91941e7137681be5f15f07f943fecdfc0"
+    },
+    {
+      "path": "config/ae2/client.json",
+      "hash": "05d76413c189736ff3a323b3763d00ccaeb68092"
+    },
+    {
+      "path": "config/ae2/common.json",
+      "hash": "e35a3e13992afb5403e10f1ec0bd5714baaf99f4"
+    },
+    {
+      "path": "config/amendments-client.toml",
+      "hash": "99c2a1187544a1f01c5537d6b23136bfd9149425"
+    },
+    {
+      "path": "config/amendments-common.toml",
+      "hash": "4981d5709415d2ef02a8f9302d64815dae665448"
+    },
+    {
+      "path": "config/apoli-client.toml",
+      "hash": "e3b1708330482bfe558e06faf40032f3473322d2"
+    },
+    {
+      "path": "config/apoli-common.toml",
+      "hash": "1bb74f73fbf2884a905f9966178652e261af3190"
+    },
+    {
+      "path": "config/appflux-common.toml",
+      "hash": "541ea4a9c646ed3293f2a6c61d1051d2fcc27749"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "b4e86d6354c33b1de20db6672f2f8e93cd084fac"
+    },
+    {
+      "path": "config/astikorcarts-common.toml",
+      "hash": "8a3dadb5226f24f19ea7f7b49c329c4eb097404a"
+    },
+    {
+      "path": "config/attributefix.json",
+      "hash": "092dd9c0c5907ff3cf5be4dae0520eea078c3c69"
+    },
+    {
+      "path": "config/autotranslation.json5",
+      "hash": "615d08fb558d14c51f7d7c1d63561c9a571fa3c4"
+    },
+    {
+      "path": "config/balm-common.toml",
+      "hash": "d658b683f7a01a8d892af452f2ef8c3d3dd04c57"
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "hash": "5141e855b81bdab890ed185965feecd97cd9899b"
+    },
+    {
+      "path": "config/betteradvancements-client.toml",
+      "hash": "f4fc56531242653c03a09b757646a1e2f1a57c52"
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "hash": "06b1511550962b3bfe7cb155493ececd77c4d599"
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "hash": "a2bbc3c6a4121e5388d991a45519a3e7e5aaa9d2"
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "hash": "9fc3c1b5cb15328d634a72ce4d4b879f9c59c0fd"
+    },
+    {
+      "path": "config/betterdeserttemples/forge-1_20/armorstands.json",
+      "hash": "1b8a543bb55de7945ee904229aaaace7bc0fcbbe"
+    },
+    {
+      "path": "config/betterdeserttemples/forge-1_20/itemframes.json",
+      "hash": "80db7c78633a59cc4da18adb0fab15dc03052915"
+    },
+    {
+      "path": "config/betterdeserttemples/forge-1_20/README.txt",
+      "hash": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277"
+    },
+    {
+      "path": "config/betterdeserttemples/README.txt",
+      "hash": "e9aa15b807f311961f737cd9c19fcf1028a69de3"
+    },
+    {
+      "path": "config/betterdeserttemples-forge-1_20.toml",
+      "hash": "cc443df38afa1ac81089dcf97513d6e72ada8f53"
+    },
+    {
+      "path": "config/betterdungeons-forge-1_20.toml",
+      "hash": "84c0684cbd0745015f8a3e743d49e7b153ef555f"
+    },
+    {
+      "path": "config/betterf3.toml",
+      "hash": "b15017a8921e7b3c9618ecba57536c0b52351e2d"
+    },
+    {
+      "path": "config/betterfortresses/forge-1_20/itemframes.json",
+      "hash": "adc6078d5e01ee8f6e6f7ea40e4c883a6260da2a"
+    },
+    {
+      "path": "config/betterfortresses/forge-1_20/README.txt",
+      "hash": "abaeda3856b09c5dd80e1b5ada9aaf171d038995"
+    },
+    {
+      "path": "config/betterfortresses/README.txt",
+      "hash": "47114a7baec2e0322dab1c88424d43c58c2e756a"
+    },
+    {
+      "path": "config/betterfortresses-forge-1_20.toml",
+      "hash": "936c1a76752bd191fb9d6c80904073e2a18e1ee5"
+    },
+    {
+      "path": "config/betterjungletemples-forge-1_20.toml",
+      "hash": "7a91df151c152a68e1c76deee2290187ce50a974"
+    },
+    {
+      "path": "config/bettermineshafts-forge-1_20.toml",
+      "hash": "b517fe33dcb6043247b3c6cf5116b1e8cc28e953"
+    },
+    {
+      "path": "config/betteroceanmonuments-forge-1_20.toml",
+      "hash": "aa643542a9b54bcc7ecbb3a5a910b5fe4770d5c8"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/armorstands.json",
+      "hash": "4a484d525ef2a66d9f0672975e583774ea1735a2"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/itemframes.json",
+      "hash": "b0565ce57a2c881603431400fd00e1d37608fa21"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/ores.json",
+      "hash": "03a3bf4ae4939351ee7fdefb8134bb454bc019e2"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/rareblocks.json",
+      "hash": "0df4cdb9f541299d9ef4e0722555b77096d1de7a"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/README.txt",
+      "hash": "ee9c20aeefab7187288a4289d129a3155efa5823"
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "hash": "cc2cfb4e58d5ef7e29795acce86899d5fd1cce10"
+    },
+    {
+      "path": "config/betterstrongholds-forge-1_20.toml",
+      "hash": "f53e115280fc224ab07de692a62ec5797fdba2a6"
+    },
+    {
+      "path": "config/bettertitlescreen-client.toml",
+      "hash": "a7369caee4cfa0ae598f54bf991e23b263af7c03"
+    },
+    {
+      "path": "config/bettervillage_1.properties",
+      "hash": "ba289a54902b1316a15e5e943cdccd6f3cad3516"
+    },
+    {
+      "path": "config/betterwitchhuts-forge-1_20.toml",
+      "hash": "b0ca5851ba8d18b60afbade88afcea9a01141a27"
+    },
+    {
+      "path": "config/biomesoplenty/biome_toggles.json",
+      "hash": "9bb1818da5a78ffd167fadf30d118e96af378e0b"
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "hash": "eb379261d57303e2e9601063eabba7ae19efea10"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_22330.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_22330_dim_ad_astra_mars.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_22330_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_22330_dim_twilightforest_twilight_forest.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_25565.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/0.0.0.0_25565_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/127.0.0.1_25565.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/127.0.0.1_25565_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/47.109.96.150_22330.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/47.109.96.150_22330_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/47.109.96.150_22330_dim_twilightforest_twilight_forest.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp9.natfrp.cloud_32596.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp9.natfrp.cloud_32596_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ecis.craftinside.uk.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/ecis.craftinside.uk_dim_ad_astra_mars.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ecis.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ecis.craftinside.uk_dim_minecraft_the_nether.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ecis.craftinside.uk_dim_twilightforest_twilight_forest.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/enjoyecis.wejustmct.site.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/enjoyecis.wejustmct.site_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/enjoyecis.wejustmct.site_dim_minecraft_the_nether.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/frp-cat.top_26385.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/frp-cat.top_26385_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/lith1.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/lith1_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/not__amplification.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/not__amplification_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ver_test_1.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/ver_test_1_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/____.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/____98.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/____98_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/_____dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud.json",
+      "hash": "39639c39445222149c2bdb6e3787ecbc1e4a3671"
+    },
+    {
+      "path": "config/calio-common.toml",
+      "hash": "0a5e542b6129f3f88cb3a6309cd7ea110a3d2bbd"
+    },
+    {
+      "path": "config/castle_in_the_sky-common.toml",
+      "hash": "3590cc55db67539e15ec63dc0e50fe1035c5b0be"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "26cef99cc13abad6d43bba9fe3df92279e05fca7"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "ec11d70c26998829d11521e227cb53ef455a414f"
+    },
+    {
+      "path": "config/configured-client.toml",
+      "hash": "c4b064426a9c637df9d373cd60839250caf1b2a2"
+    },
+    {
+      "path": "config/connectivity.json",
+      "hash": "0ce0155e02d6fc4a98494edbc0c12f2242c1b6b5"
+    },
+    {
+      "path": "config/cookingforblockheads-common.toml",
+      "hash": "46222f0430fbb60d7368cb53a8eb4ab05146654b"
+    },
+    {
+      "path": "config/corn_delight-common.toml",
+      "hash": "337b9fcd700b06b043eaa7b0e7d9f990a78b81ab"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml",
+      "hash": "f1418ef6f197ca6368f3ca681aa3fc407b4f5a1f"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "c6f642af1276ec0d504145ad4b7225c6145a7e9e"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "ff3f188798940d42ee0ed9f94b1cf945ed7cbab0"
+    },
+    {
+      "path": "config/createbigcannons-client.toml",
+      "hash": "8db73d7f639328db96b8d8ad25db2109568a6f56"
+    },
+    {
+      "path": "config/createdieselgenerators-client.toml",
+      "hash": "d15713aa9fdb36f5c98b281ebbc05292b40f62d0"
+    },
+    {
+      "path": "config/createendertransmission-server.toml",
+      "hash": "7cd84866096d0416c46cbe77df3db028648534ef"
+    },
+    {
+      "path": "config/creategoggles-client.toml",
+      "hash": "ee8505ffb68f3e05dd12d032243616d0c02281f7"
+    },
+    {
+      "path": "config/creategoggles-common.toml",
+      "hash": "27437ae2cd229de559d8da3134d2cfe7b6a1f679"
+    },
+    {
+      "path": "config/create_central_kitchen-common.toml",
+      "hash": "47fa463a46d4246bf260f9ac49cd4916e167b567"
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "hash": "496d11b4d81138333a0dc9bc8cf12689e5626eea"
+    },
+    {
+      "path": "config/create_new_age-common.toml",
+      "hash": "4b181e59583c0b76f001cc05e8af1ffecb40ac3a"
+    },
+    {
+      "path": "config/create_questing.json",
+      "hash": "22fcd28f79e1adcde6f04b38295a83900b3d2ce9"
+    },
+    {
+      "path": "config/cumulus_menus-client.toml",
+      "hash": "01a745d0422dff9c3d35905173428d058f40e394"
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524"
+    },
+    {
+      "path": "config/customwindowtitle-client.toml",
+      "hash": "b42e730cb39cb5f33d8b9bd26f623d01dd3747e5"
+    },
+    {
+      "path": "config/cyclic-client.toml",
+      "hash": "e5c1355bf1f875e11a5b650a8a4496d665d11fb7"
+    },
+    {
+      "path": "config/cyclic.toml",
+      "hash": "b20701cecd899e60f6ed11a7f3f4570a346b267b"
+    },
+    {
+      "path": "config/de/mari_023/ae2wtlib.json5",
+      "hash": "42ba01b1fbd011152021fcdd33f1747a27dc3cbb"
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "hash": "3a2f7ace37b1a500d95666a0f7f807ccf58c5b92"
+    },
+    {
+      "path": "config/dynamiccrosshair.json5",
+      "hash": "3a9a4a71ecec25960eb2ad86b57dde7f8971b0b5"
+    },
+    {
+      "path": "config/dynamic_fps.json",
+      "hash": "99f29e77fbf5976dec32b51e5d9eaf9a3839aacf"
+    },
+    {
+      "path": "config/embeddium++.toml",
+      "hash": "2ea550e419318068d4b890b2f68b5a546911ae7e"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "93d721a5c2518ed0d6d814690ded59664c5bb97a"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "ee6292edcbbd70f25d97fc3c0b1ac25b8eebf3c1"
+    },
+    {
+      "path": "config/enchdesc.json",
+      "hash": "d343c7b0f6c28fd6759196e0349dcb875c4f7ce9"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "67d2eaa083b0e864e71e50599fcf41bc37a5b412"
+    },
+    {
+      "path": "config/expanded_combat.toml",
+      "hash": "6945c659c5365add18725d37d9e1c36bf587d112"
+    },
+    {
+      "path": "config/explorerscompass-client.toml",
+      "hash": "ffd01f3a181ce8b09418d66545e68c8f28a20e9e"
+    },
+    {
+      "path": "config/explorerscompass-common.toml",
+      "hash": "4c58ac3f88741c0b48f2d12fa74910de78cde6b2"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "835e1806ffffd14d2e92d34383fcc3d843b71d87"
+    },
+    {
+      "path": "config/flib.toml",
+      "hash": "c62f55d08d204ce54e49ec3cf0a3cca38b7e8f01"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/forgeautofish-client.toml",
+      "hash": "493445e97299c0b9d09f93ca7b76ea961816b5fe"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_22330.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_22330_dim_ad_astra_mars.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_22330_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_22330_dim_twilightforest_twilight_forest.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_25565.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_0.0.0.0_25565_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_127.0.0.1_25565.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_127.0.0.1_25565_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_47.109.96.150_22330.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_47.109.96.150_22330_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_47.109.96.150_22330_dim_twilightforest_twilight_forest.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp9.natfrp.cloud_32596.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp9.natfrp.cloud_32596_dim_minecraft_overworld.json",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecis.craftinside.uk.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecis.craftinside.uk_dim_ad_astra_mars.json",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecis.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecis.craftinside.uk_dim_minecraft_the_nether.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecis.craftinside.uk_dim_twilightforest_twilight_forest.json",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32"
+    },
+    {
+      "path": "config/forgematica/forgematica_enjoyecis.wejustmct.site.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_enjoyecis.wejustmct.site_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_enjoyecis.wejustmct.site_dim_minecraft_the_nether.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_frp-cat.top_26385.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_frp-cat.top_26385_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_lith1.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_lith1_dim_minecraft_overworld.json",
+      "hash": "c8d9c1e817fca31b80f1c01b30a8c93502c2a495"
+    },
+    {
+      "path": "config/forgematica/forgematica_not__amplification.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_not__amplification_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_ver_test_1.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_ver_test_1_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_____.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_____98.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_____98_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica______dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica.json",
+      "hash": "76c8a2225f0fb8f662d45e2b922f2c4caa91bef3"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "67e144e94d0edd655a68d4ab1b4b566d4dce7e28"
+    },
+    {
+      "path": "config/ftbxmodcompat.snbt",
+      "hash": "19266805216c9bc71b88d975ab0be2df95cd64b3"
+    },
+    {
+      "path": "config/ias.json",
+      "hash": "6c6de1bbec9c459b885f6a2cf32886babf74b430"
+    },
+    {
+      "path": "config/immersive_paintings.json",
+      "hash": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "acd6e205a97d9fc50ee41b2db942d4023e90e365"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "6d6566d7b3d99dd4c697aca28882d1c388597492"
+    },
+    {
+      "path": "config/inventoryprofilesnext/0.0.0.0\u002622330/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/47.109.96.150\u002622330/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/ecis.craftinside.uk/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/enjoyecis.wejustmct.site/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/player-defined.json",
+      "hash": "a370b00617f71953409044bad9002ed6c8cdcec2"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "c431fe749b545aba9d873a974313f886c7064bbc"
+    },
+    {
+      "path": "config/inventoryprofilesnext/lith1/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/not _amplification/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/ver.test.1/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界98/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/itemphysiclite-client.json",
+      "hash": "c2dfaf94c9f9348b7387112116ca88962d984e1b"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "aa0b891c9587ac6203df01278d2e8bd085be93a1"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "a0f5b26e5b72f05b0f31baffee63929f2ea457c5"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "58b3aaf695a91de2a3586bd787ebdac44d5cab43"
+    },
+    {
+      "path": "config/jaopca/custom_forms.json",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jaopca/lang/zh_cn.json",
+      "hash": "b37c45e85ddd4a9627c264e99dd487272da6af1c"
+    },
+    {
+      "path": "config/jaopca/main.toml",
+      "hash": "f7b58479d797b6bbbd680a8b7dee17828c687443"
+    },
+    {
+      "path": "config/jaopca/materials/aluminum.toml",
+      "hash": "d9a2c6431fa18072440fb68aede3be7541578948"
+    },
+    {
+      "path": "config/jaopca/materials/amethyst.toml",
+      "hash": "812d22805e9b2a1cc3d10462fb1c27ae38ac599b"
+    },
+    {
+      "path": "config/jaopca/materials/apatite.toml",
+      "hash": "0de703eb256e385df9ffe35be72430e7875c9925"
+    },
+    {
+      "path": "config/jaopca/materials/azure_silver.toml",
+      "hash": "5f844ddad38f49af1bec6c47fcf6f400f411596e"
+    },
+    {
+      "path": "config/jaopca/materials/bismuth.toml",
+      "hash": "9aa06bba52aaaf5a6e38f40c64b6ccafe59cba06"
+    },
+    {
+      "path": "config/jaopca/materials/bort.toml",
+      "hash": "4fda48eaaa1572b02dee490c70729a2f8419bc0a"
+    },
+    {
+      "path": "config/jaopca/materials/brass.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/brick.toml",
+      "hash": "5ee585b688910a3cd3ea73a4b7cead7db5bae6f8"
+    },
+    {
+      "path": "config/jaopca/materials/bronze.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/calorite.toml",
+      "hash": "f9409b8e47b2bcd278f34043c43d6e23a35c1869"
+    },
+    {
+      "path": "config/jaopca/materials/carminite.toml",
+      "hash": "0464e366f780c3407621255843fb8d231910e7cc"
+    },
+    {
+      "path": "config/jaopca/materials/cast_iron.toml",
+      "hash": "ed924cd6f6fcee4e95db552d0fc2933be1165ab7"
+    },
+    {
+      "path": "config/jaopca/materials/certus_quartz.toml",
+      "hash": "c59f2b343b3a14015bd5ebe554f25782cd44c9c4"
+    },
+    {
+      "path": "config/jaopca/materials/charcoal.toml",
+      "hash": "d62c333ecb2d93e860cf79262db3507355b8eb9d"
+    },
+    {
+      "path": "config/jaopca/materials/cinnabar.toml",
+      "hash": "aca3acd87ca47d989cf037dcde394c3a5968ee62"
+    },
+    {
+      "path": "config/jaopca/materials/coal.toml",
+      "hash": "d62c333ecb2d93e860cf79262db3507355b8eb9d"
+    },
+    {
+      "path": "config/jaopca/materials/cobalt.toml",
+      "hash": "0283093ded324488c897e987909271ba6c172d4c"
+    },
+    {
+      "path": "config/jaopca/materials/copper.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/crimson_iron.toml",
+      "hash": "cd8d0aae9479d716b1d87ee2299c97fdf2a97e5e"
+    },
+    {
+      "path": "config/jaopca/materials/desh.toml",
+      "hash": "2cc8e60e42ecbe0890877b57be522dce5ed7fcca"
+    },
+    {
+      "path": "config/jaopca/materials/deshtrum.toml",
+      "hash": "8d69e8648db207f68b2dc96f285c3f610f06291a"
+    },
+    {
+      "path": "config/jaopca/materials/diamond.toml",
+      "hash": "0464e366f780c3407621255843fb8d231910e7cc"
+    },
+    {
+      "path": "config/jaopca/materials/dilithium.toml",
+      "hash": "2226f13431726941c5324d3eeba9409bb79826f2"
+    },
+    {
+      "path": "config/jaopca/materials/draconium.toml",
+      "hash": "02a85d06f716a591cc309ec072105c764146526d"
+    },
+    {
+      "path": "config/jaopca/materials/electrotine.toml",
+      "hash": "db753eb85f5be3bf0ec0f13de0cc90f286b6d080"
+    },
+    {
+      "path": "config/jaopca/materials/electrum.toml",
+      "hash": "16c630536e433361958cdf77292eadffc1f80272"
+    },
+    {
+      "path": "config/jaopca/materials/emerald.toml",
+      "hash": "0464e366f780c3407621255843fb8d231910e7cc"
+    },
+    {
+      "path": "config/jaopca/materials/ender_pearl.toml",
+      "hash": "d62c333ecb2d93e860cf79262db3507355b8eb9d"
+    },
+    {
+      "path": "config/jaopca/materials/fiery.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/fluix.toml",
+      "hash": "1eabd79705b0031fa5cfdea1ad583ab326d806bd"
+    },
+    {
+      "path": "config/jaopca/materials/fluorite.toml",
+      "hash": "4a3343e142465b45f73edbcb6b0db2e1db216cad"
+    },
+    {
+      "path": "config/jaopca/materials/glowstone.toml",
+      "hash": "afc0241a26f34a7bc719f85b091e937db1d9a1c6"
+    },
+    {
+      "path": "config/jaopca/materials/gold.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/green_sapphire.toml",
+      "hash": "dc632d755e7afc03d595f0e2634f1923663918fc"
+    },
+    {
+      "path": "config/jaopca/materials/insulating_resin.toml",
+      "hash": "8f1d754e7d428ac09cb511f1b06f6dad40405ebc"
+    },
+    {
+      "path": "config/jaopca/materials/iridium.toml",
+      "hash": "e6d70392c83657637493c9bdf28b3d4cea439d18"
+    },
+    {
+      "path": "config/jaopca/materials/iron.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/ironwood.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/knightmetal.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/lapis.toml",
+      "hash": "0464e366f780c3407621255843fb8d231910e7cc"
+    },
+    {
+      "path": "config/jaopca/materials/lead.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/lithium.toml",
+      "hash": "ae6486aea9cb0104d9f05c6d5f795f70058410e3"
+    },
+    {
+      "path": "config/jaopca/materials/meldeddeshtrum.toml",
+      "hash": "f9477c3c69bfa3a5339ba3cc072eab6aa5a6ad99"
+    },
+    {
+      "path": "config/jaopca/materials/netherite.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/nether_brick.toml",
+      "hash": "2872bffb17c97548f20e705f3c84647d217eb53b"
+    },
+    {
+      "path": "config/jaopca/materials/nickel.toml",
+      "hash": "6222b0f95f81e34d9fc13baf97864fb8cbd59b62"
+    },
+    {
+      "path": "config/jaopca/materials/niter.toml",
+      "hash": "a8a99500a9689db6ec63a12475ee50b047800bee"
+    },
+    {
+      "path": "config/jaopca/materials/obsidian.toml",
+      "hash": "90cc9de5f3bf395e83a489a28b275bbf794a91f6"
+    },
+    {
+      "path": "config/jaopca/materials/osmium.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/ostrum.toml",
+      "hash": "3266a272fd5611ef28b6fe0c0904a460100776f3"
+    },
+    {
+      "path": "config/jaopca/materials/peridot.toml",
+      "hash": "ef6cd6edbeb255b2ed1464099318778c68ca7958"
+    },
+    {
+      "path": "config/jaopca/materials/platinum.toml",
+      "hash": "9c1e500cc68881342aac2c5944191fac34687101"
+    },
+    {
+      "path": "config/jaopca/materials/prismarine.toml",
+      "hash": "ba66c338967a89986c0afb5032d5f03a7563a933"
+    },
+    {
+      "path": "config/jaopca/materials/quartz.toml",
+      "hash": "c59f2b343b3a14015bd5ebe554f25782cd44c9c4"
+    },
+    {
+      "path": "config/jaopca/materials/redstone.toml",
+      "hash": "d62c333ecb2d93e860cf79262db3507355b8eb9d"
+    },
+    {
+      "path": "config/jaopca/materials/refined_glowstone.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/refined_obsidian.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/ruby.toml",
+      "hash": "995b8b074b01f6ee94bcf025dab6e53b62f5d7c8"
+    },
+    {
+      "path": "config/jaopca/materials/salt.toml",
+      "hash": "06044eba86e03f2dda41822b4d85121476651c1b"
+    },
+    {
+      "path": "config/jaopca/materials/sapphire.toml",
+      "hash": "5d7d74ae3318c64a80e6be7e1e5f6fae30630b82"
+    },
+    {
+      "path": "config/jaopca/materials/silver.toml",
+      "hash": "96084a6832217f7a793a6486bb70b7df431427d2"
+    },
+    {
+      "path": "config/jaopca/materials/steel.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/steeleaf.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/sulfur.toml",
+      "hash": "e1da99742a7edaac5e52ad36b984db787d7e3463"
+    },
+    {
+      "path": "config/jaopca/materials/tin.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/titanium.toml",
+      "hash": "1a2fc3bf6f38093b434cfcd75df4862d67778ab2"
+    },
+    {
+      "path": "config/jaopca/materials/tungsten.toml",
+      "hash": "ac6af99a93e9fcc2c2e052572e52136ced5a0000"
+    },
+    {
+      "path": "config/jaopca/materials/uranium.toml",
+      "hash": "01e2a951d1090aee8ffe19693991ed53ae15f0ca"
+    },
+    {
+      "path": "config/jaopca/materials/wood.toml",
+      "hash": "fcc227f7179e2c8d3fb34d949ed657370f1005d0"
+    },
+    {
+      "path": "config/jaopca/materials/zinc.toml",
+      "hash": "5cf4a075f682d14e550b7ca87a2156aea4416fbd"
+    },
+    {
+      "path": "config/jaopca/modules/create.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/create_compat.toml",
+      "hash": "5f0b10d943bf927327818c46088711e418c41a85"
+    },
+    {
+      "path": "config/jaopca/modules/create_non_ingot.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/custom.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/cyclic.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/cyclic_non_ingot.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/dusts.toml",
+      "hash": "05dc9281668e7167fac45f35c6809848c83f549e"
+    },
+    {
+      "path": "config/jaopca/modules/mekanism.toml",
+      "hash": "21509e64cddb80914b014fd12a9a4f10ffbe97fe"
+    },
+    {
+      "path": "config/jaopca/modules/mekanism_compat.toml",
+      "hash": "1879054fec5165d34842ea41717bdfae6fdbd8eb"
+    },
+    {
+      "path": "config/jaopca/modules/mekanism_non_ingot.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/molten.toml",
+      "hash": "05dc9281668e7167fac45f35c6809848c83f549e"
+    },
+    {
+      "path": "config/jaopca/modules/nuggets.toml",
+      "hash": "05dc9281668e7167fac45f35c6809848c83f549e"
+    },
+    {
+      "path": "config/jaopca/modules/raw_storage_blocks.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/small_dusts.toml",
+      "hash": "05dc9281668e7167fac45f35c6809848c83f549e"
+    },
+    {
+      "path": "config/jaopca/modules/storage_blocks.toml",
+      "hash": "3d0f28d67f03c1004224f78c64f1ba46f2cd293a"
+    },
+    {
+      "path": "config/jaopca/modules/tiny_dusts.toml",
+      "hash": "05dc9281668e7167fac45f35c6809848c83f549e"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "48f70c578daef7312d44f75372decfd4738945b2"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "9d159f15ec76d18cb87cc0e6509ec87769ff6642"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "0e7f83613108aa7c1b5d1eafe7e5ed4020472501"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "67ff1ce2ef09db0664d3e40d6f324ce1ac84dbdf"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "d8ba5ab0d12a8ee8804aaa815a5259acb9989970"
+    },
+    {
+      "path": "config/jei_mekanism_multiblocks-client.toml",
+      "hash": "45331a34cdf418d1b213bd5766a1e2aa60730aad"
+    },
+    {
+      "path": "config/kiwi-client.yaml",
+      "hash": "1c24747aae406f8d9f0155d8a2801b3e37da40e5"
+    },
+    {
+      "path": "config/kiwi-common.yaml",
+      "hash": "6c248c8bf0dd473b61d0dfca5a5a3a69c9ac7448"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+    },
+    {
+      "path": "config/l2_configs/l2library-client.toml",
+      "hash": "0bb0b788d45f2a594ab019bbc8bae3b74440c88b"
+    },
+    {
+      "path": "config/l2_configs/l2library-common.toml",
+      "hash": "572b067ea256a987a6a39fcccd1214c367b6fa51"
+    },
+    {
+      "path": "config/libraryferret_1.properties",
+      "hash": "58ba5c031c8e2c46324413f09226cafe536d714c"
+    },
+    {
+      "path": "config/lmft.json",
+      "hash": "2e80e8d24b405381d6ae8d32f51c04d88fec5cc2"
+    },
+    {
+      "path": "config/mafglib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/Mekanism/additions-client.toml",
+      "hash": "4076d4870c34b8763e7246855fa1eeb6d4beffb9"
+    },
+    {
+      "path": "config/Mekanism/additions.toml",
+      "hash": "9c0aa18ed305fc1c40f952f0e1ed8d97763627de"
+    },
+    {
+      "path": "config/Mekanism/bfr.toml",
+      "hash": "11ef6b4fd056c1d47f203ae9fd63d454cd4a516a"
+    },
+    {
+      "path": "config/Mekanism/client.toml",
+      "hash": "979c9a5dc6628977c55081ccea9628c814211bde"
+    },
+    {
+      "path": "config/Mekanism/common.toml",
+      "hash": "a54f0be1038b2e4100e161f8bd925742f3912ef0"
+    },
+    {
+      "path": "config/Mekanism/gear.toml",
+      "hash": "2db94fe13a212a353f51b1dc0ed0f93aa53e622b"
+    },
+    {
+      "path": "config/Mekanism/general.toml",
+      "hash": "c8d71509dbd6d7c1fa1b850b09389b9e48fa9cc9"
+    },
+    {
+      "path": "config/Mekanism/generator-storage.toml",
+      "hash": "2570f2497f76681bef61996c0fedb12aac3cd01f"
+    },
+    {
+      "path": "config/Mekanism/generators-gear.toml",
+      "hash": "1584e3b0e83d0d09ef42e74adc4fc1d6737b9ff1"
+    },
+    {
+      "path": "config/Mekanism/generators.toml",
+      "hash": "8916a61adfe8104e01887b76e59b4706ee05c6ad"
+    },
+    {
+      "path": "config/Mekanism/machine-storage.toml",
+      "hash": "173bf6c23d83a7f739aba296a6d339cdb69818de"
+    },
+    {
+      "path": "config/Mekanism/machine-usage.toml",
+      "hash": "ccca961188555f9723457d834d80023bec88f2f9"
+    },
+    {
+      "path": "config/Mekanism/tiers.toml",
+      "hash": "66f6495765118b9323da477d2705404a42d987b5"
+    },
+    {
+      "path": "config/Mekanism/tools-client.toml",
+      "hash": "d07943ba258b432b83a1033018f1415279270029"
+    },
+    {
+      "path": "config/Mekanism/tools.toml",
+      "hash": "dcc7acdc6afb68bf71674303eb57527b66e66f0c"
+    },
+    {
+      "path": "config/Mekanism/world.toml",
+      "hash": "b9901a2bc6ef8d34530486efbd6d42dd62097537"
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "hash": "046452d3af87f5c1fd5de5650e3d1b73c930fd92"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "7b4984674af940ee2d23e984d5b334d195ef66c8"
+    },
+    {
+      "path": "config/ModernUI/bootstrap.properties",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/ModernUI/client.toml",
+      "hash": "1e5a04493312aef73344d04939097a8b34e0e26e"
+    },
+    {
+      "path": "config/ModernUI/common.toml",
+      "hash": "5f56d3216bd8d445572bd96f29d8501982b55761"
+    },
+    {
+      "path": "config/ModernUI/text.toml",
+      "hash": "a06522f32ea599f63bebc7a6b5c9d9f1fd36fe20"
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "hash": "f502b4994a4b2ba90c40cb82168ea33ec7f4e104"
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "config/moremekanismprocessing-client.toml",
+      "hash": "12e43463c30f27b3bab564243448aeb1af5b7761"
+    },
+    {
+      "path": "config/moremekanismprocessing-common.toml",
+      "hash": "58aff2654d79ea606a49d17d349343835c468236"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/mysterious_mountain_lib-common.toml",
+      "hash": "cc9c1e438fdc5577dcf8b8102bde9daedd2312b3"
+    },
+    {
+      "path": "config/naturalist.toml",
+      "hash": "777cc2b3ea811f839baf0fcc07a48b3a37bdf725"
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "hash": "9572a3ae9de126cf0eceb382cf3ceb11c0cbc6e4"
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "hash": "095abcfd7de9e2ce5dc7b3288a91cf5e1cd91e8d"
+    },
+    {
+      "path": "config/necronomicon.json5",
+      "hash": "d008a338ce5fff7b6157c5a3611debb896634dd0"
+    },
+    {
+      "path": "config/notenoughcrashes.json",
+      "hash": "2b792fb7eb312e343c5f5fae080e967de0aae1f7"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "a93edf4c14c1a2594e5b2a7f03ac16eeb5eaaae4"
+    },
+    {
+      "path": "config/openloader/advanced_options.json",
+      "hash": "965027c2fd865f2e3865fa3ad3a1283432c4c122"
+    },
+    {
+      "path": "config/origins-common.toml",
+      "hash": "c1f065117afdbf9d71ba1e2b5fc494fb35bebcf8"
+    },
+    {
+      "path": "config/passablefoliage-common.yaml",
+      "hash": "609ec8b9b50afe24b1187cac2d0990773f73a227"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/pehkui-client.toml",
+      "hash": "50ccb3af7b7fc2103f3f34de24a7c0564fc8a997"
+    },
+    {
+      "path": "config/pehkui-common.toml",
+      "hash": "c11b9ccc2be7db28ea07b48af4ff9b1822082c7b"
+    },
+    {
+      "path": "config/pointblank-common.toml",
+      "hash": "589a2cae22e010972b3c9c772f12a6ecae22480c"
+    },
+    {
+      "path": "config/productivebees-client.toml",
+      "hash": "b98623000ab832c6fa5a2e7652755dcb9e65e717"
+    },
+    {
+      "path": "config/quark-common.toml",
+      "hash": "836916933ec6db0053481321c193ae3173eea480"
+    },
+    {
+      "path": "config/questsadditions-client.toml",
+      "hash": "546a742c4d48e864cc621518e8968ff8397d30d6"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "45b8e770cef8f38aa125e238453c6f29f5ab27bf"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "84c59bd1047708357987030f4b89caf0bb5dc030"
+    },
+    {
+      "path": "config/resourceful-config-web.json",
+      "hash": "fd2a81260a1a5ffc9e7e33e56c2f235ac65ae0b7"
+    },
+    {
+      "path": "config/rrls.toml",
+      "hash": "2abc6eb840d98ec1e2646398c6fd20f8e9ba2fb9"
+    },
+    {
+      "path": "config/saturn-optimizations.toml",
+      "hash": "17fb4fe9d04bcbe01b3a569885c510bf5168cc7e"
+    },
+    {
+      "path": "config/sebastrnlib-client.toml",
+      "hash": "987a3090370c8fd0c2b43ac7b826453b18bf2093"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "3f545ec683be213b684475b39393a01d1faadbcb"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "adf51e37dc134068d806066ed3a25efb592f1557"
+    },
+    {
+      "path": "config/sliceanddice-common.toml",
+      "hash": "f7f928905f54e531013470084ec5ad5e321eabac"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "300cb0348cbb41fb48bab6849802495881fc9b93"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "80573641d69f0c0f539d9cc66be6cf55f6a18f47"
+    },
+    {
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "hash": "6408b3706cc75b130f34e36ea6cee8f4e2414491"
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "hash": "48687943199e4d20f3fc6a55cbcbe495fce0682a"
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "hash": "667ebea399878dad1f58d146fa3078eabedd543a"
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "hash": "79ef805245ec314add3d144ff42c6745320219f7"
+    },
+    {
+      "path": "config/spark/config.json",
+      "hash": "33b6644f61573b11848cde9419529737418e0207"
+    },
+    {
+      "path": "config/structureessentials.json",
+      "hash": "b59a153e420c0f5f4e40fcbf1e1210425712578c"
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "ee3c2d9c9910eb6c3ce83693788c84ee30372250"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "4c234926e09f42459442b4e6a13900e96efcda62"
+    },
+    {
+      "path": "config/tectonic.json",
+      "hash": "3d3a4342a4e0effdd541a7702445a6a60f1aaa90"
+    },
+    {
+      "path": "config/terrablender.toml",
+      "hash": "9170b19e75cded7b1d6229f44f1abb43a256d863"
+    },
+    {
+      "path": "config/touhou_little_maid/file/ascmtp-1.0.0.zip",
+      "hash": "644ea90de8556a411f668326f16a1e517e58f0ce"
+    },
+    {
+      "path": "config/touhou_little_maid/file/cute_creature-1.2.0.zip",
+      "hash": "5708c3fb2c70ea84ecbcde5c0232ae1e5e5e8fe8"
+    },
+    {
+      "path": "config/touhou_little_maid/file/deltarune_little_maid-1.0.0.zip",
+      "hash": "3f6cdf4bcea5fb65108235951c01d5bafe2faf60"
+    },
+    {
+      "path": "config/touhou_little_maid/file/fumofumo-1.0.0.zip",
+      "hash": "74844c7063442c353b23aa2f42df1d0c825e9e2e"
+    },
+    {
+      "path": "config/touhou_little_maid/file/genshin_impact-1.1.6.zip",
+      "hash": "116a5441e2410f34626ba031fd39e4c585bf5904"
+    },
+    {
+      "path": "config/touhou_little_maid/file/lanternrite_festival-1.0.5.zip",
+      "hash": "46d37963ad7450466016e928219cb6bf16c7f148"
+    },
+    {
+      "path": "config/touhou_little_maid/file/plants_vs_zombies-1.0.6.zip",
+      "hash": "b6b9f3dde349cc28793948a7034f8ec930159eb4"
+    },
+    {
+      "path": "config/touhou_little_maid/file/tlmpack_salmagundi-1.0.0.zip",
+      "hash": "654f05f49bd9e3ece5cfc6acfdd324c467a468b4"
+    },
+    {
+      "path": "config/touhou_little_maid/info.json",
+      "hash": "18890ddab3bfdc82777df66d98b80fa3d5cfc363"
+    },
+    {
+      "path": "config/touhou_little_maid/in_game_maid_config.json",
+      "hash": "60aeedaaa61e2737a8bb37c38fb6158a53276a8b"
+    },
+    {
+      "path": "config/touhou_little_maid-common.toml",
+      "hash": "7987d6037ff750c7bb93d13288e6cd127f26917d"
+    },
+    {
+      "path": "config/tweakerge.json",
+      "hash": "658ec19b800c00840033876ba41afe2d0f89dec4"
+    },
+    {
+      "path": "config/twilightdelight-client.toml",
+      "hash": "cb38cf6895f20a2cca5b0d1fb00e49a2219e0254"
+    },
+    {
+      "path": "config/twilightdelight-common.toml",
+      "hash": "1074b4599dafe44f66584835c4afd6fd33abc1ce"
+    },
+    {
+      "path": "config/twilightforest-client.toml",
+      "hash": "43579b88a96a84233b272c4b12fef6bb12a40553"
+    },
+    {
+      "path": "config/twilightforest-common.toml",
+      "hash": "2174480bb29235c7cd09df264266baf2386afca5"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_client.schema.json",
+      "hash": "88dcea1ba12b3968da953bbd4dd404dd1e89b309"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_common.schema.json",
+      "hash": "8f0a83c97bdc9b6081c74c3b40a54b7aa26e50f0"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_core_server.schema.json",
+      "hash": "f8d7999ba2f875e02342400739bb4b864c92f87d"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_eureka_client.schema.json",
+      "hash": "b33ce513c9f7c82b2bdf7e061835ec49759a269f"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_eureka_server.schema.json",
+      "hash": "fd671612a732386e39d2b1a838781a84db52f9a0"
+    },
+    {
+      "path": "config/valkyrienskies/schemas/vs_server.schema.json",
+      "hash": "398a5999c794622fff56c986583544a646996b30"
+    },
+    {
+      "path": "config/valkyrienskies/vs_client.json",
+      "hash": "eabbe5b84e597b776a779a966ef7e1e1913da201"
+    },
+    {
+      "path": "config/valkyrienskies/vs_common.json",
+      "hash": "a4f2458fe28ee5b9d7921b730b25641050f7054d"
+    },
+    {
+      "path": "config/valkyrienskies/vs_core_server.json",
+      "hash": "38dc9de5e4b3a266261a1a10f943a162bbd24bf5"
+    },
+    {
+      "path": "config/valkyrienskies/vs_eureka_client.json",
+      "hash": "ba6f47b3902755c642dc5217385589a42a2e11aa"
+    },
+    {
+      "path": "config/valkyrienskies/vs_eureka_server.json",
+      "hash": "7136267f0b52469f95d44a32eb322819509f919c"
+    },
+    {
+      "path": "config/valkyrienskies/vs_server.json",
+      "hash": "72ba99202217cbd254bf14efd8876f60aa20fdbc"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "hash": "a8b2713ef2a44bf2cfe0c2425bd1f56b34c8bfaf"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "hash": "53d408896a31a2489fe335e9470fef9ba81975d3"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "c692d988073cb797801ac5ca75ea1f35a32316e1"
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "hash": "4eaca99c316dc0e047aa47897d73689054c1474d"
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "hash": "7456618fae7d6cd80d7552761801a1363d2a2c72"
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "hash": "17b6d3f79de5d33f509c26fbe3614c56cfc292a6"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "42bdfbd26d6efd0d43481341bf4323f23420c9b8"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "6b046de5626a1a61b0ef7ff0dd2ae1de3c9bfcad"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "54acd39dd80762dd0d79af70b4ab4821fa9309a1"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "21fd62895118ce2198968bc8feb3ba9e2031f206"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "98767f3942b508f9de60bfdf029dd3ee00c3632d"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+    },
+    {
+      "path": "config/zeta-common.toml",
+      "hash": "659e17ba0dc59f6b6beba501353a1cb07790c726"
+    },
+    {
+      "path": "config/zume.json5",
+      "hash": "ebc82df3b59986a5fb3cfd5897aaf51c1da50f49"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "932f3ac7c44dbee7b94d7b72a0fd4b09e2035bdc"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "0cfe7fdfabf1a8c2e64ec37aec2c1112f753d291"
+    },
+    {
+      "path": "defaultconfigs/ftbquests/client-config.snbt",
+      "hash": "1c2aabb8ea7b64fef8138fe9df5d732701eedd1e"
+    },
+    {
+      "path": "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
+      "hash": "e64ed572532dfad2c3a707964dafffb2b942f138"
+    },
+    {
+      "path": "ECIS_1.20.1-natives/glfw.dll",
+      "hash": "3c0e8e7fcbc854a87219fbbfd181c2cc76018144"
+    },
+    {
+      "path": "ECIS_1.20.1-natives/jemalloc.dll",
+      "hash": "e25eae45e9cb2f17380279d3edc89be5520bebdd"
+    },
+    {
+      "path": "ECIS_1.20.1-natives/lwjgl.dll",
+      "hash": "0c9b501520c20055ba77bbd8cae4895fcb1cfa40"
+    },
+    {
+      "path": "ECIS_1.20.1-natives/lwjgl_opengl.dll",
+      "hash": "8f1bbc60d651e010a6e1734547aec9e9786ffdbe"
+    },
+    {
+      "path": "ECIS_1.20.1-natives/lwjgl_stb.dll",
+      "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9"
+    },
+    {
+      "path": "local/ftbquests/client-config.snbt",
+      "hash": "07e47da11f04da03b19b987867f6cf3bf1f031ab"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_0_cd59cca472.nbt",
+      "hash": "019d3b41227cac6cfffdc3609376b0ac2e1dccf5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_1_fc7cf9b339.nbt",
+      "hash": "0724735195df7bb77c369a5f1914c3216134746f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_entrance_05f8cd9492.nbt",
+      "hash": "d1099b425efe44efd8d85f3231f581acc701c3a7"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_0_509ef07905.nbt",
+      "hash": "91279f9ca7252a394b8b2e0a8549f461ffd55a68"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_1_e05cb017ec.nbt",
+      "hash": "42fce8f12129fb22b969a44b9d45497f8fa2a59e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_0_3150906bac.nbt",
+      "hash": "7632f0c57da713407bebbdab557bdc415baa479e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_1_061faa8196.nbt",
+      "hash": "92d36304e62df343fe4c63d5c512792446b84bf5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_2_4877d9540f.nbt",
+      "hash": "24a6e35a53f6b4c2d5100eb263598f0a5031892f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_illusioner_normal_0_6f23502f1c.nbt",
+      "hash": "81f3d2a42d5b1f2f7083770d34e55afc637f6bf0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_0_0b114af481.nbt",
+      "hash": "fdc02fc2d59f219632ee37a888413206790be65d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_1_496ef0a3e5.nbt",
+      "hash": "40d218f6efb645da593ece538fefabab37ca9d14"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_aviary_aviary_part_13_0d47188f34.nbt",
+      "hash": "6c69da2c1db558e8ce0ce28ec69adb4094445731"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bandit_towers_bandit_towers_crossing_0_682a9ab05e.nbt",
+      "hash": "e21e87702929ed5faa1c995671957394fe7cf211"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bandit_towers_bandit_towers_crossing_1_00ba2bc459.nbt",
+      "hash": "9edbac8cd5a5a50bd79e1c0b2c1bc302df04f396"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bandit_towers_bandit_towers_crossing_2_3fca19fa61.nbt",
+      "hash": "c83bb0641bb1745571473945c18695c1f1839e2f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bandit_village_bandit_village_street_2_a022039109.nbt",
+      "hash": "21a04eac3ab199331786f104a90139256aa9556e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_0_f4fd272fc0.nbt",
+      "hash": "9c7dd49fdaf548472d580dec742194bee2b4143c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_1_bf1fe6d05f.nbt",
+      "hash": "71219d8c6522dfdf9cfd2b2d381afed9161913b0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_2_fef74d5a67.nbt",
+      "hash": "40809b771d7ac0ffde84a4503637fb23c408e55d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_3_1fb1f3a011.nbt",
+      "hash": "07c10a985f0456e2246dab43cab2e84f31e98ac3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_4_b659f3c982.nbt",
+      "hash": "fc9e008d384f335fc07d62e4c9d43572be4088c8"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_5_f51dae16c5.nbt",
+      "hash": "f770e12afd0424e6fc489298a344ba0e60d0fc7c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_0_d9aa0b9cab.nbt",
+      "hash": "71dd7e5023d1b4d58d6c8093a3c95a5e30dd5da0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_1_fe672689b2.nbt",
+      "hash": "2123c837df2000b31834b9a22b508883b8cfce74"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_2_b4e6d6f8ad.nbt",
+      "hash": "edf40d657ee0b25695fdd3c17a80ee5130312b97"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_3_baeffdbe67.nbt",
+      "hash": "a25d813a4703b59ba1fbcbb175f5457fc00e4b5e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_0_b96961558d.nbt",
+      "hash": "0f420fdc0fbca05747a494903a32bbb5a49e4af6"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_1_ab9d22b463.nbt",
+      "hash": "a7431c7852b188777372d5586282629eeb64b82a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_2_9d4e9f0575.nbt",
+      "hash": "e54db31787914b4b995a210dbc3bbdab2364afee"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_0_f130053121.nbt",
+      "hash": "e78f46cdf726f7b44aa14c9556483a436ebfae88"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_1_1743dc95d0.nbt",
+      "hash": "29601b4a3400aea6aac42217671277d8e5b97799"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_2_9e1c91ef32.nbt",
+      "hash": "bc06a191a7b9e5a1df38b49b2f6d35f3a230db89"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_3_87585b478e.nbt",
+      "hash": "78539d9180ae4f04e9657bbda53774c817b0b0db"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_4_9a325c1c61.nbt",
+      "hash": "08dc0baa85893d609bd411a2396a2a52d6dd8128"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_6_fc412bc441.nbt",
+      "hash": "aceffa87cda70b5c2c1377fe847395a0a788c7bd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_ceryneian_hind_ceryneian_hind_part_1_8d1e717f7f.nbt",
+      "hash": "2e86d8582c9c0ee2d0cb5bb7aa8e8aad0b61c822"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_0_325a5da046.nbt",
+      "hash": "9ff07284a6b43ca606fdc2487f466e94d9293479"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_1_27a5819e08.nbt",
+      "hash": "6b4523ac3dacbd2ce04290d77d8b5e7b77c729c6"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_2_f3d5e86451.nbt",
+      "hash": "d0fd48ef42418aa61c06d2b1b3502d081ce93360"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_3_c76dceff34.nbt",
+      "hash": "ecd90e653eeda20d39880c2090484b3c69112a91"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_main_8f26c2abd3.nbt",
+      "hash": "9e8a617ddbe7188653090dd19ab4f3346d8d8c76"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_spawner_0_47995b7d45.nbt",
+      "hash": "569f28bcecb121290b7d54ac4e6e66edfbf18949"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_foundry_foundry_crossing_start_0_5508fdbbe2.nbt",
+      "hash": "78ebf62fc5ce5f5414641aa90b4a3b5a97862392"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_0_8fa188369b.nbt",
+      "hash": "1f9b5ba73b5282e9079640e96b9faf6de95c2a25"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_2_5356c0191c.nbt",
+      "hash": "16ccc24d3b046fa9cec72c601225748c78467fab"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_3_eb477c83a6.nbt",
+      "hash": "81a2796f8845a7d6b0bd9cb913217cffe3d2be14"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_0_e4d498c251.nbt",
+      "hash": "df984498c1a7c13c06b0fbb796c53e0489628bd8"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_1_b8b12295d9.nbt",
+      "hash": "239bc632f9e7d10b777aa26b1760992c359c8dd4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_2_40b15fe9c8.nbt",
+      "hash": "f8d4491a82e0dca8e7a9a992e3dbcddeb87de85f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_3_32bd1ae2d2.nbt",
+      "hash": "50492d8c3243e59274c320ca9658a40c5aeb541f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_husk_0_5f68ab39c1.nbt",
+      "hash": "4f0371404613e84604be433a6977099d581aec65"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_mounted_melee_0_a0e72b4097.nbt",
+      "hash": "7466145aaa01e42986e9d970dc865745ab54941e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_mounted_skeleton_0_70a90e8c18.nbt",
+      "hash": "85b12768bf92dfdf9e3561fdb1858f164751e7e0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_0_743b98ed67.nbt",
+      "hash": "7662020430acf4ce403679e65c73090ec73254a4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_1_d25f5d1016.nbt",
+      "hash": "9a259ea36a2fceb673d5a06db24bd3ebb3a5e970"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_2_3b98e8aeaf.nbt",
+      "hash": "67fca74629e4978b590a8e540300f7deb2ac3a95"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_3_3225787c56.nbt",
+      "hash": "6c7d33bfdb9fa6a40a7e7bd88544a6e8de1d2342"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_4_e4e2ac3dbc.nbt",
+      "hash": "586999f241c7b727656ad07dae959874c0eaaafd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_5_932538a089.nbt",
+      "hash": "4c1372c144f0af57e7a860143d432d2e6a715135"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_6_f4356fb8f2.nbt",
+      "hash": "04bd39524b5beb7525cba5939d0ab81df5372e1c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_7_9cd1d4b11c.nbt",
+      "hash": "f22f61b33886f1f6c903fbedcced8528551cabe3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_0_bca7da9b36.nbt",
+      "hash": "1d1607356b3db80076375d3fcaca004a95966522"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_1_01652cf47c.nbt",
+      "hash": "b4a185e8092b5575ab634432b26bd3d213a2eed9"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_2_6477a7cd80.nbt",
+      "hash": "1242fc2dc27eb90b3e3265ea1313793c1cc505dc"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_3_8e2f5381d7.nbt",
+      "hash": "e763aa3e3723c20780606e17ff700e0727459471"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_4_aaa608531a.nbt",
+      "hash": "88e20465066f009dc1eaac7b7bbc6fa538603cd0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_5_b16287199e.nbt",
+      "hash": "6a6bf04ecebea2aa14667e68e46d605e72419340"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_deco_6_a9be9a543f.nbt",
+      "hash": "dbb3728b74472bd01c922b7e0fe9d2633c367573"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_pillager_multishot_0_2f6487228a.nbt",
+      "hash": "41b33358e79431c9c17625780e3c6ac5ed638341"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_pillager_normal_0_3bfc8ff3f3.nbt",
+      "hash": "892ecc838b8c7e03d49948a7f808990f2c2cea75"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_0_9e48f55145.nbt",
+      "hash": "02e7286547a0eedffec9982d67255d6831a2dab4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_1_f83a08665e.nbt",
+      "hash": "1eb0a504702c77da83a3f27370947d27e99eddd5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_2_1d89d7a684.nbt",
+      "hash": "369593fd597f7db0a01f21b8407f94446393e0d2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_3_84becc5371.nbt",
+      "hash": "e711dfd71aa74abe62364f3ac3981cd1dca19c8c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_4_a15946f634.nbt",
+      "hash": "194a5b10424901b86040a5dc6c62ecb911d63298"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_5_942da1f93d.nbt",
+      "hash": "e3f551d5f06a6e15e3ab6f78592329b630766267"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_6_main_95b2db72dc.nbt",
+      "hash": "bc07fea1a8f8155ad2ed46be48cda7e3fbc2f165"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_tent_0_7215f38da0.nbt",
+      "hash": "1f817d1d352fd358838bc9cafd802079e7a26d2e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_tent_1_d071b56dfb.nbt",
+      "hash": "d986530e0b3b1dd10be14034e1edb2d7ad7a9cfd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_tent_2_464b12e837.nbt",
+      "hash": "270a7331506e350cd9fc7d0c963c58fc95588f86"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_tent_3_5af8fe5a34.nbt",
+      "hash": "3c1af8eef2e4c5b6b861db876a4a80143f27d9bf"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_vindicator_normal_0_9a942708f0.nbt",
+      "hash": "c6b13f9b3ca650d6a6bd16f66f8e99f1b2fffa7e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_evoker_0_57739cc8b2.nbt",
+      "hash": "81ed8866bbdd77f2c711b15124b5fcde88cb8f3e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_part_0_0ffa0ef9ae.nbt",
+      "hash": "66577a06ff51a04d20e9b6489a2cd6652bff1590"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_part_1_9ef801b145.nbt",
+      "hash": "68145d44ec00097e513408b2ea5511a01a8c518a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_pillager_0_6eff5031ef.nbt",
+      "hash": "b8454d8dc42a7e1ab86b5904d519f92f377b9e63"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_vindicator_spawner_0_227df976f5.nbt",
+      "hash": "347120ff589a6f9611a3be2665a830089c9f7661"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_0_ddfd5f5b30.nbt",
+      "hash": "6f3b12499fa0e2bf58c415dba0c094a2a4e5d7a2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_1_caea454d4d.nbt",
+      "hash": "337430a3e2b5aa87ff678cf3c42de512548b83e0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_2_674404d5ca.nbt",
+      "hash": "c60f49b246d907876dc775866b93f63a1019eb16"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_3_05fc48174c.nbt",
+      "hash": "2736eab8958fb4874269c9de5d59ed18d0c3bfd8"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_galley_illager_galley_part_0_2c9ffcc34c.nbt",
+      "hash": "8aa74da0696b78eea4f79982836bedeee92a15d8"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_galley_illager_galley_part_1_3d16c532ac.nbt",
+      "hash": "5c228b8ca4402d73e7dfbfa19928706f22667a30"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_galley_illager_galley_pillager_0_5b954e6c9a.nbt",
+      "hash": "52d2fc665943153313f5b9434bdf23ff38f953ca"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_galley_illager_galley_vindicator_spawner_0_1bdbb5904e.nbt",
+      "hash": "da469ddd1d5bb1d20151bdba1f1ce0ffdcd0f1d1"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_illager_windmill_illager_windmill_part_0_ed8131990a.nbt",
+      "hash": "9e3c2203098cb3180486020bb2b48c668afcbe2d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_0_518eebfc10.nbt",
+      "hash": "bfd2109c36a77b6f7b6234701e250b204f604c6e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_1_22622258a0.nbt",
+      "hash": "6812e9450c3faf9a7e1cce5d0d11da67ea6f74a0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_2_9c20facf5f.nbt",
+      "hash": "cd32c6ac791656b46a2c1dcc77be4a5ea7a1f67b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_3_a8629669a7.nbt",
+      "hash": "d3bd87bfa0b9a3b4e023dd7119fb9ecfa6b97ba1"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_4_00b15b61cb.nbt",
+      "hash": "2d7563a17750d81751e8fa74af282460a2d92864"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_5_cb0e865d37.nbt",
+      "hash": "a9df02549a4980ee87d9e90063238acfc7978a1c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_6_c2f9f63449.nbt",
+      "hash": "305cc4d965823987b00e980f329329221b7b6ded"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_base_part_7_5793b73408.nbt",
+      "hash": "e07117a7f25352681fc43f83ad95ca1e3d59e872"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_cave_spider_0_4ae215d5d8.nbt",
+      "hash": "4a27c5460ea0caca9f6815b962d6d6b1acb2917a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_cave_spider_1_efc7bfed6e.nbt",
+      "hash": "07ad14b56f59760854922de1bacecafe87df40b3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_inner_part_0_f61befc009.nbt",
+      "hash": "d8375cc0df8648a2c87b15a30cb35c9e6715f013"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_inner_top_0_313cd9bf8c.nbt",
+      "hash": "9b1f4acb1f7252a77dda081a69dcd8c51f5d2b0d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_layout_part_0_top_ccf05f1f2e.nbt",
+      "hash": "d0c7cf9f5233f4bc886478f196d2b0f21686ff26"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_layout_part_1_middle_e4b60f0c9f.nbt",
+      "hash": "8b380febcb4c489f83516ed68c13dd4446a8c795"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_layout_part_2_middle_0442ca43c0.nbt",
+      "hash": "ad1786a2d81618b0ce728ddae26d7c79504ece2b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_layout_part_3_base_c86bdb1447.nbt",
+      "hash": "1c0ee9276560548aa2561d9bb1fc7d4352dc1bbd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_level_0_232ccad824.nbt",
+      "hash": "929ef8b7d1274f1d01fb5063ed1d794a7d49fec3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_level_1_23ec0a4fe9.nbt",
+      "hash": "537c3e4c8b983cb00c65c6c5c089013744c05b8d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_level_2_55756d13c4.nbt",
+      "hash": "c6b0353eec9c64077f197ef2b442729f78f0b446"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_0_d344bab9e6.nbt",
+      "hash": "f215e43ebc9eee5758df0538be6bb5c1ef1f6570"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_1_4b62a75836.nbt",
+      "hash": "251aae9df31dff46fd58295ac7b8443086104443"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_2_b8c1c6e7b6.nbt",
+      "hash": "3d41d308018e8dd9128cbaece9e1f3e2a0a6cc05"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_3_b448c5b8e5.nbt",
+      "hash": "a88a4a8266eb4cd424606ff8274ad20106382a11"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_4_7e923bb402.nbt",
+      "hash": "8072c47806b9bdd6792a9118481a769b60a598fb"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_5_0b31fb4ef4.nbt",
+      "hash": "6a0a543daf04c2a3bffaafd65c17d4f010639592"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_6_8f4728883e.nbt",
+      "hash": "605f6d59b268233c66db6896afbdf2425160e7df"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_main_part_7_33e72c9737.nbt",
+      "hash": "9ebdf3eb84dfef4b02c37cc307dce030134cfb7d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_0_e2071ae10a.nbt",
+      "hash": "0cf78afebd7a4e033512f05f1c1d505fb69e5cc4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_1_a2ff5e94f2.nbt",
+      "hash": "f69cc750a8153207d87d4837ed53b72785056a80"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_2_0d0cad0b22.nbt",
+      "hash": "403c48d84c88d48d409d0d873fc7687f07f501b3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_3_6d85c5a168.nbt",
+      "hash": "9fac7bc90fa283f2376838a335294368bb820352"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_4_3b28802fe8.nbt",
+      "hash": "12c5709ec5846f71ff021f88a9d7fb0b8c56de10"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_5_0ebd67684e.nbt",
+      "hash": "7f072b620f6d1528214833608bf295dbb1262ce2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_6_5faa7d64cd.nbt",
+      "hash": "753f8a3124d247b79d238b8a09c6d245b989b0b4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_7_6a545c14b0.nbt",
+      "hash": "f20b8e24ce434c7cadf2e7b01d5ec8e7903fedba"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_room_8_53f0454106.nbt",
+      "hash": "6ee8c8566e4aa3bcc48b264986226512e522e73f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_skeleton_0_3ed23ffd32.nbt",
+      "hash": "82cba350bb8c6e14a8c9abb8b42e9c7b5d081611"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_0_53bb3b38d7.nbt",
+      "hash": "69489b739dcd00f49c87ff0c6c3fdaf9962d1408"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_1_59567d363b.nbt",
+      "hash": "20cff136ceec2d8f416ebebd88d95cfd94eaed13"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_2_efd73b5093.nbt",
+      "hash": "4deee709009ee81bcaeb6e1df53396b8679dc5c5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_3_b8b791b815.nbt",
+      "hash": "a3c66b437b4c65da7cffcb4ba43c3cee73d63970"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_4_5c942ddbc9.nbt",
+      "hash": "386b153e65624c57cb5762abfad01845da3476c6"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_5_f77f6a9472.nbt",
+      "hash": "646faf9756c7095c1af34215b990bc60691139fd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_6_535e912bc0.nbt",
+      "hash": "b31834405fdf8943183808ebd29e2520ebe13158"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_top_part_7_ce63643d29.nbt",
+      "hash": "cb52ab290d91da73e0f8596530cbf15c9cbe1f5f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_wither_skeleton_0_1b7c3d820c.nbt",
+      "hash": "320a0f8162811dd2ae779f931cb393c770dca89b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_0_main_fdaaae3527.nbt",
+      "hash": "2a068290ca2b29ffd385505710edb1ba89bcfc62"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_1_roots_1fcf0be772.nbt",
+      "hash": "c610847ad852055ccad29276d5e7feb0f552bef4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_husk_0_9336d663b6.nbt",
+      "hash": "84a0538fad65101523939be9ad7ada85e7d3066b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_skeleton_0_3713743dd5.nbt",
+      "hash": "d62bf822aec5df78c8a7a4788d4a4f6ac0118fa9"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_keep_kayra_keep_kayra_main_0_ffa0135529.nbt",
+      "hash": "33073d3b9e2a2c1051da583955918c5d634fc01b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_lighthouse_lighthouse_part_1_f33348679c.nbt",
+      "hash": "59305461e956ff4777fad1198a185eb70aa62b94"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_lighthouse_lighthouse_part_2_72a6a69c44.nbt",
+      "hash": "d21fd4f20a69bb21d147db6286740ae767cea28a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mechanical_nest_mechanical_nest_start_0_82efdd0b4c.nbt",
+      "hash": "653b30e2da60ef718b4d7a39a509e973c7bb29f8"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_merchant_campsite_merchant_campsite_street_4_main_cccebbf668.nbt",
+      "hash": "80662d60bb58efa283cbbcaa0f43aa9fbfdb8373"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_descent_0_99432fb44b.nbt",
+      "hash": "cdcf0a9632e7d3a8a2191d361d948797560cbc03"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_spawner_skeleton_0_a35634cc51.nbt",
+      "hash": "55bf3ffd6da9ecd68e11354792a48332bd81fc16"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_spawner_skeleton_1_e6df13eaef.nbt",
+      "hash": "c6d953556a61fae6086cb7524c9f413c9397eaf1"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_spawner_skeleton_2_ac4d6c639a.nbt",
+      "hash": "b65667b671c524e4490e077c4fb4b39b955e7d17"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_spawner_skeleton_3_a481889cd1.nbt",
+      "hash": "4c6f4cbc8b54cdc6eb1799c24375315caa66a7c9"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_straight_0_0255d0be94.nbt",
+      "hash": "109368eb372f15ef341ccb5d54d56fdf579092cc"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_triple_0_b7d207f9e9.nbt",
+      "hash": "286b7bf3eba01fff5c30fd965367a543deb2536e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_turn_0_e25d526a57.nbt",
+      "hash": "8e504580a1e5e77e1835a9f3c4e4a805cd81474b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_iron_golem_normal_0_ea3049e475.nbt",
+      "hash": "b63b70f730a343681508eb54840d80c7000af6c6"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridors_deco_0_84c1c480b6.nbt",
+      "hash": "b00800b5ec21119d6905b3b4b4e6f39f9074276b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridors_deco_1_0a840ff64a.nbt",
+      "hash": "ab753106e7b03bfb2885ffa8fbf3bc44e1413c4f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridors_deco_2_b90fda1412.nbt",
+      "hash": "c0e9f6127c9dfc90d5f3a0951ac7ea309ef40160"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridors_deco_3_4b39f4bc6b.nbt",
+      "hash": "3110fe51e8669e0ba08c0cfb072faab130426a76"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_0_c8f71d1dda.nbt",
+      "hash": "cf955ce7ef3d54588bd124ebf4f72750411227fd"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_crossing_3813f1a2eb.nbt",
+      "hash": "3fab76df48fcddbde0120cb0d3976cdd93ca87a4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_terminator_a5275b92a2.nbt",
+      "hash": "4b169f9e2fad787b4d4104960800df3495b14422"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_deco_empty_5eca31e651.nbt",
+      "hash": "851348cc8a5bffb1cbf06b317b2a7d08b8edb250"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_0_3e9ef2e548.nbt",
+      "hash": "96a790ea7446541b2198865856d9096063aadc24"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_1_54f4162981.nbt",
+      "hash": "8a18ddb11e80b734832fba448bf8af62bbd70dc0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_2_37563f2941.nbt",
+      "hash": "5bb0ef7519611c694225ab13fd5c4a813096307d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_3_stairs_a15c1f69f2.nbt",
+      "hash": "1f19f5c2ffc535d7009c906dd480dbc8a99f6ba6"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_start_6cb69eaf62.nbt",
+      "hash": "ceb2b7166bd732175b89267333a70293b7fc7587"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_top_0_c5c2d7fdd8.nbt",
+      "hash": "f8ec48d51a519539ceb3faac4571a17984f0eefb"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_monastery_villager_normal_0_d2ae134ac6.nbt",
+      "hash": "26308ab128a3884158ca9a710d17994813e94173"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_0_66c7942fe4.nbt",
+      "hash": "70135d85fc010cd1cb43b59ef448355ae8c50e6f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_1_f4f52708cd.nbt",
+      "hash": "445ae8b0d578d6a16f830932f157b87cb1d71337"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_2_6d894f474b.nbt",
+      "hash": "dbca8c008d989199289b2cc230c9b22b952e19f5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_3_3ac376c9a2.nbt",
+      "hash": "0450a008a7e5ffb0c3dda4e3d4bca44938afe64a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_0_1497612195.nbt",
+      "hash": "c31fe897d7fa1c10381985a25993fa3d54547cde"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_1_1b76022040.nbt",
+      "hash": "cd98c2c5cd46e58a4e38a7429a568600957f1792"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_2_93781b295d.nbt",
+      "hash": "9c45892d48f11effe851dc51b3d07c01cea6bb5a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_3_3fe6500343.nbt",
+      "hash": "153af62b9c3cef5603e6d26435125b5dcbff37a2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_mushroom_village_mushroom_village_house_big_0_97ca3567cb.nbt",
+      "hash": "ba5916c591d1e003a21b6aff6edff0d9ce17e173"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_plague_asylum_plague_asylum_corridor_4_crossing_pit_dae2d72b19.nbt",
+      "hash": "b7e6e19083d92568ede681e97c8cd48119f1d119"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_scorched_mines_scorched_mines_well_0_f2c98b62ae.nbt",
+      "hash": "ef7b43183361a22d9a60fce8fc710466e59a35d4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_0_f518fd41fc.nbt",
+      "hash": "0aae1f90ca200bcbef2b1d8aa73d1d4de9711efb"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_spawner_0_b7bcef9131.nbt",
+      "hash": "9db86724e840264170928a8ce00eddf48f09633f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_spawner_1_913910d11a.nbt",
+      "hash": "5ffe2e63d265dd10587b8209cc2f37b46f5ab7cf"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_spawner_2_ff4bfac78d.nbt",
+      "hash": "1d7fb3bb4f44cd7bc2da2eadc6e069f4a0d0607d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_spawner_3_cf553c6995.nbt",
+      "hash": "db05161274cc3456b50100eec3e9332816768c1a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_spawner_4_0154acbbf7.nbt",
+      "hash": "7a2ecc4e4d60b8f0f322f75244a38772081dc669"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_0_ce08d91a0a.nbt",
+      "hash": "8a35dbd3d726094249dea70b3f61f83b88569ed3"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_0_20db716f62.nbt",
+      "hash": "70847c757b17a2477f421c8e8b729c2920a86df5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_1_985899e228.nbt",
+      "hash": "d35d7b8efb2e773d04b052351601a2c300fb0271"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_2_bae434150f.nbt",
+      "hash": "970a9dd9d70dca330d398d448a8e662d9bf41c77"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_3_db6e72d73f.nbt",
+      "hash": "feb085283ab30e5fdf3ebccb99ebdf0e06e590fa"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_4_817d947160.nbt",
+      "hash": "4df7514224858c91a587e5d4b68fdeec8223b95f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_spawner_5_be25f921f5.nbt",
+      "hash": "4780e08fe465f3e3ad309e3e7bcc4506f208d6a0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_small_yacht_small_yacht_0_027e5ac370.nbt",
+      "hash": "9fabe197b0052b997feaf6c4db3398bb65c211a7"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_0_0fc2e5041b.nbt",
+      "hash": "840afa8539f6820ee32a8b7baf8f35e5287bb26b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_0_6b7e335d1e.nbt",
+      "hash": "f76cbc6b3d84d6c2caae31b77698a85e03d79559"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_1_cf5f72d36c.nbt",
+      "hash": "cf1ef89a63d3cd38b976752d2b2a1dc8cf2ad814"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_2_9b23103955.nbt",
+      "hash": "c80179a7be47c332008eb00db623aa0eb681b208"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_3_bb0c6c1ae5.nbt",
+      "hash": "07991f9ad4255df228f218aa0d98454f865a841b"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_4_003b0f3dec.nbt",
+      "hash": "4cd0c79a85bcb486fd567b23e5f1b33dcde8da61"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_spawner_5_983d376b47.nbt",
+      "hash": "6e3a309b97af32a2a7eb582ce3c8f94fade1cd24"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_0_481f1751e2.nbt",
+      "hash": "2b6b310b4242464a76d3aadba8e4e6b89e2f8412"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_0_7a1d81e523.nbt",
+      "hash": "8788822151a5e5b2557a73b291d03f75a7099d9d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_10_738eb05ca3.nbt",
+      "hash": "34b9527655970a09d4dd160a290ee4648406cfad"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_1_d9769b372e.nbt",
+      "hash": "cf00ba81c171218910c6e3be2484b3335c5ae347"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_2_da7f1deb0b.nbt",
+      "hash": "2184f9842433c85c9a01eb928f33cc49e2a79f76"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_3_12513970bc.nbt",
+      "hash": "852a41ee8785608dc46a0f7eec1f38173e2b83fc"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_4_f3932892b6.nbt",
+      "hash": "50be3c26e6aefc8dfe1e72a760e396bebdc390f2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_5_b1657af517.nbt",
+      "hash": "77c6de18841e9f41d09526bbe88967b18bf152d1"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_6_1fb7c9ab0a.nbt",
+      "hash": "011005d8869e917f407d1a807ec7764f97e7187c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_7_bb5404a6c2.nbt",
+      "hash": "64672ec2745e174511d657f8f080068e5170c37e"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_8_b7cc30a702.nbt",
+      "hash": "47bde499c9a25f761c97de78f58705980c06ed42"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_spawner_9_6293df4c81.nbt",
+      "hash": "e14b4ea3c0310fc7af3df99cfabc33e1a0b8f804"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_shiraz_palace_shiraz_palace_part_13_33537b6242.nbt",
+      "hash": "0925b777d1b882c211ba1d196ed5ae70eb016976"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_ladders_0_11164b7151.nbt",
+      "hash": "7d6b15f9f373a6d958b396bac1b29e0873dca624"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_part_0_4dd72dca68.nbt",
+      "hash": "bfbf0255d769ed4d955165ad92c29dfad9cc0115"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_part_1_e8c6d3e71e.nbt",
+      "hash": "07d1c20d0d20f50a96ffb5edd209fccd4b9f0bf2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_skeleton_0_3c764b0bc7.nbt",
+      "hash": "e09b6edc0e0c159603eb5cfd891e5cad79b2a775"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_skeleton_1_fa1f924aa8.nbt",
+      "hash": "eedba0f04f476600be56423f1f03b173c1d9f591"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_skeleton_2_ae73f20957.nbt",
+      "hash": "02afffb06c2c74fa5f3976ba9ad34dc9e8344916"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_thornborn_towers_thornborn_towers_part_0_main_bd7c55b1bb.nbt",
+      "hash": "c936e386d6a5499b055f4621072503051c4efaf7"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_typhon_typhon_part_1_b7db42b337.nbt",
+      "hash": "a4bd67a8daf763aca0eb1ed6cf72f931c2ecfa00"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_part_0_ba25d48fb6.nbt",
+      "hash": "5480d1e19685b6c57236d88b39d1f2ba2a3217b2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_part_1_37ef6f4972.nbt",
+      "hash": "5dd0e1aeb9a6defe578a883e84a0e1dcbd42b0fc"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_0_36e5928c5f.nbt",
+      "hash": "17ea1164e077d310e19b701bd698808380d3e5d7"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_effect_0_speed_08c7dbcac4.nbt",
+      "hash": "5b30c3ebc6bd8da1baa94e2d2f7448100ebd16fe"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_effect_1_regen_b0fbd23a1f.nbt",
+      "hash": "7a79a09122551957a5d7ea050bc24e88ff1a3ca5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_effect_2_wither_90dec482e3.nbt",
+      "hash": "cb1ce56862471974c3659ceb32b801e9d55d50f0"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_effect_3_resistance_31d70c13be.nbt",
+      "hash": "04e03c3326000c6e7b1ea6479ad15594c6251965"
+    },
+    {
+      "path": "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_effect_4_haste_613f92c92d.nbt",
+      "hash": "dc9b273a740e673906d2802ea9755a368fd54aea"
+    },
+    {
+      "path": "modernfix/structureCacheV1/supplementaries_way_sign_5afeece7b2.nbt",
+      "hash": "54042179d0d7dcd32edf6245f214db600c61b5cb"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_ruin_glacial_interior1_177372923e.nbt",
+      "hash": "a900fcc752c313e810e71ac78631d3393fb4f622"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_ruin_glacial_interior216_def980a590.nbt",
+      "hash": "06abdb7ac551bb357b0905bce9c2462d3b4ff9af"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_ruin_glacial_interior2_6dedf627f7.nbt",
+      "hash": "b62e13ab8816aa0a48c4f00cc4bef109b53cf7ec"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_underground_old_refinery_8ddf79e31c.nbt",
+      "hash": "a8697953f529378401def3264c0f0e722dfa0686"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_underground_smallminingoutpost_9f4d2d29ab.nbt",
+      "hash": "d8e9cf5fe85dc36927ca6de1c2b06849368ee9fc"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_bend1_dfd55ed6fb.nbt",
+      "hash": "b8d54bc9ca685d36c92534a5edbeb64f3510091c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_bend2_84e95bfde4.nbt",
+      "hash": "04921c53c1b6b932e0c1b654ebbd6ff3bdaaeeb2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_inter1_4e8fc473da.nbt",
+      "hash": "90ed7330be9b871cc014e47053ec64030e26ad32"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_intersection_big_e1d39000b6.nbt",
+      "hash": "3ae8212f330cfb8c3e472a862676512f90b98da5"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_straight1_4a018179f4.nbt",
+      "hash": "4e3238cfb591e52fbf0a068eb33b085ccf18638d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_straight2_bdb2e3e015.nbt",
+      "hash": "27c2909f37fc9b54f62c57cd05e495376fa5ba42"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_t1_b9cac66894.nbt",
+      "hash": "4dff0a984ac4c73c9805af9ed69ac097ec40ae3f"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_roads_t2_90cd797569.nbt",
+      "hash": "227f77e866dab36d9098937fc6709c0d17e696c2"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_start_castle_6f4590aebb.nbt",
+      "hash": "8cabd89d930ca98b5a6bede8a5f2fc8e06e7b944"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_terminators_term1_4e17199e1f.nbt",
+      "hash": "6a416ca20cdc14f340d9917a22d14641cd071137"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_terminators_term2_42d9ab04a9.nbt",
+      "hash": "20f0ec25613f94ce1f69fe2895a1faadb33d2b9d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/terralith_village_fortified_terminators_term3_815d826fcc.nbt",
+      "hash": "171302df338cddba6e7ab73d8c88eb517907d24a"
+    },
+    {
+      "path": "modernfix/structureCacheV1/waystones_village_common_waystone_8018c9c611.nbt",
+      "hash": "99d8ea0a41a9dc29362f94fdac4ac31ab2e87859"
+    },
+    {
+      "path": "mods/0Pack2Reload-Forge-1.20.1-1.0.1.jar",
+      "hash": "5d57174a0af5248c2d683a47e95d2935a7bcdeae"
+    },
+    {
+      "path": "mods/Ad-Astra-Giselle-Addon-forge-1.20.1-6.5.jar",
+      "hash": "c113e3d9232d689f1dfc036bcc13c87e0858877f"
+    },
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.18.jar",
+      "hash": "4bcd0ac9aa80107b6b7f02deef4cdc727becd099"
+    },
+    {
+      "path": "mods/ad_astra_extra_additions-1.20.1-1.1.1.jar",
+      "hash": "498e251d159a3763dd70d16399daf99642484764"
+    },
+    {
+      "path": "mods/ae2wtlib-15.2.3-forge.jar",
+      "hash": "9a35bc25ba2daade63db76ff4012eb68b0392b08"
+    },
+    {
+      "path": "mods/AEInfinityBooster-1.20.1-1.0.0+21.jar",
+      "hash": "d24e42c3fa3f6a891330bf8ad408cd3066f2dae1"
+    },
+    {
+      "path": "mods/alternate_current-mc1.20-1.7.0.jar",
+      "hash": "02def44a2c416459ee5daecbe1caa6d78571e205"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/Applied-Mekanistics-1.4.2.jar",
+      "hash": "1c6742e3ac2662844c720a42728a10bb9648d13b"
+    },
+    {
+      "path": "mods/appliedcooking-4.0.0.jar",
+      "hash": "a034d84dee09bdc9985a49b241cb26cfbfc8564a"
+    },
+    {
+      "path": "mods/appliedenergistics2-forge-15.0.23.jar",
+      "hash": "ded5e9f4ed871af53016a24e9b2531dc6b2843b2"
+    },
+    {
+      "path": "mods/AppliedFlux-1.20-1.1.5-forge.jar",
+      "hash": "45fc8b9a5cb177dd406b2223a4047d18ba6d9639"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/astikorcarts-redux-1.20.1-1.1.7.jar",
+      "hash": "07e8717f2b66b2d40b95c3263cec597a1b54cb72"
+    },
+    {
+      "path": "mods/athena-forge-1.20.1-3.1.2.jar",
+      "hash": "2acee24454af859988a691f0506271a465f68f7b"
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "hash": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
+    },
+    {
+      "path": "mods/AutoTranslation-1.2.1+mc1.20.2-forge.jar",
+      "hash": "d9eebe7f32e8fa828ac114c96a6f3e4244012492"
+    },
+    {
+      "path": "mods/badpackets-forge-0.4.3.jar",
+      "hash": "34b4ae0b51fe8bb55529dd20968bf58e20b4a21e"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.2.2.jar",
+      "hash": "637e8a504b6c577b90325778823240ec5dbcc0fe"
+    },
+    {
+      "path": "mods/bellsandwhistles-0.4.3-1.20.x.jar",
+      "hash": "7cb1e1dc365c43f08ee7616f1505759e547b11be"
+    },
+    {
+      "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar",
+      "hash": "84a6293b9b662c93aa30aa047436b6d8c19e5088"
+    },
+    {
+      "path": "mods/bettercombat-forge-1.8.4+1.20.1.jar",
+      "hash": "010f23aed5e9900ba6a83325fbc2da2ac5cbd25f"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "hash": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae"
+    },
+    {
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "hash": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.20-1.13.2.jar",
+      "hash": "075ee65e1c1edb56b58b2d71d268097de9850cd2"
+    },
+    {
+      "path": "mods/bettervillage-forge-1.20.1-3.2.0.jar",
+      "hash": "cc8cd793f9173812980580d8ba8f7e0046e2883c"
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.598.jar",
+      "hash": "c10ccda2a31e7ea9dbcb1db9688ee3d66bee25c8"
+    },
+    {
+      "path": "mods/BlueMap-4.1-forge-1.20.jar",
+      "hash": "430c8775688e92067a21c56f407f4853c651c1a4"
+    },
+    {
+      "path": "mods/BoccHUD-0.1.2-mc1.20.1.jar",
+      "hash": "1535b1fcae425d7bb10daa1221d1b3cab7376879"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.1.9.jar",
+      "hash": "5764ceb97546bdf075180e670330f7f9c4b948fd"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
+      "hash": "8a4b7f0d6e569370a73402eeda57418f456968d8"
+    },
+    {
+      "path": "mods/caelus-forge-3.1.0+1.20.jar",
+      "hash": "5f74c3506180246abd8e4c1d4a07a74b7fb42aec"
+    },
+    {
+      "path": "mods/caramelChat Forge v1.1.1.jar",
+      "hash": "590d62a4e5cab19dd331864a02322a57f6e35550"
+    },
+    {
+      "path": "mods/castle_in_the_sky-1.20.1-0.6.0.jar",
+      "hash": "c2657ef187c92d2a702938c94cd74ef7307bdf7d"
+    },
+    {
+      "path": "mods/cc-tweaked-1.20.1-forge-1.110.3.jar",
+      "hash": "f1f8205b6bf30dc0727f696a7ef8b57db652edd2"
+    },
+    {
+      "path": "mods/chat_heads-0.10.32-forge-1.20.jar",
+      "hash": "2aa3a8e51361a32c4213bf23f91287731b347cbb"
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "hash": "065c2d287a52f52fc8d33d780192325ee6f4b6ae"
+    },
+    {
+      "path": "mods/connectivity-1.20.1-5.5.jar",
+      "hash": "16ef782df574b993f7096bbf9f19dd350f784879"
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "6195a3d1464f8fb641d7e165163aea1a857ce08e"
+    },
+    {
+      "path": "mods/cookingforblockheads-forge-1.20.1-16.0.3.jar",
+      "hash": "076dd9c5d7e356583f5f5982f49cd72c80c84829"
+    },
+    {
+      "path": "mods/corn_delight-1.0.3-1.20.1.jar",
+      "hash": "0562ab4a90431fb43f2c90a8c29c118ee0c73765"
+    },
+    {
+      "path": "mods/craftingtweaks-forge-1.20.1-18.2.3.jar",
+      "hash": "b06d06378332883412e026abbd299d8a8f2e65a8"
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "mods/create-new-age-forge-1.20.1-1.1.2.jar",
+      "hash": "92fcbc49d41a4d1b2038b469154a4c36e3934e36"
+    },
+    {
+      "path": "mods/createaddition-1.20.1-1.2.3.jar",
+      "hash": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef"
+    },
+    {
+      "path": "mods/createappliedkinetics-1.3.2-1.20.1.jar",
+      "hash": "3266a42f6b1acf73a35fe3c899eaa170a534d5a7"
+    },
+    {
+      "path": "mods/createbigcannons-forge-1.20.1-0.5.3.b.jar",
+      "hash": "8e89e0d04b7fa7e151fdb26b9e7945464685f745"
+    },
+    {
+      "path": "mods/createdeco-2.0.1-1.20.1-forge.jar",
+      "hash": "eec59db87da77b216e7597a2983d6cdb6c7e723d"
+    },
+    {
+      "path": "mods/createdieselgenerators-1.20.1-1.2h.jar",
+      "hash": "738be989fe1818065ad0bbe5515b54690b0ee442"
+    },
+    {
+      "path": "mods/createendertransmission-2.0.7-1.20.1.jar",
+      "hash": "d6debdbcf0c43820d6ec0b707e7438439f8a2d40"
+    },
+    {
+      "path": "mods/creategoggles-1.20.1-0.5.5.f-[FORGE].jar",
+      "hash": "0214f6fc5d846fb96fbdd08e029ee9eb16fe64af"
+    },
+    {
+      "path": "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.10.jar",
+      "hash": "bc7638b470a13091ff33e9b2d740393eca183cce"
+    },
+    {
+      "path": "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+      "hash": "4df304e7a8fde14f4b219413a7f633bcd1e62595"
+    },
+    {
+      "path": "mods/create_power_loader-1.4.0-mc1.20.1.jar",
+      "hash": "64d7c2bac7c5654dcc70b9a6c2e9c8de53059e38"
+    },
+    {
+      "path": "mods/Create_Questing-FORGE-1.20.1-1.0.0.jar",
+      "hash": "5c7fae895d8de470b709c2332b4f82be3d712607"
+    },
+    {
+      "path": "mods/create_sabers-1.20.1-1.3.0.jar",
+      "hash": "597d9ab9865db36447ea72836693beb724fe77b4"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar",
+      "hash": "c6700d5b71cb9bd910079abb85f48d76bdafe6a9"
+    },
+    {
+      "path": "mods/cumulus_menus-1.20.1-1.0.0-neoforge.jar",
+      "hash": "7ffdcf1e205d1e894a74d31e9535621b8647a63e"
+    },
+    {
+      "path": "mods/cupboard-1.20.1-2.6.jar",
+      "hash": "9371c91104799702e31b482f6790a2e39c63505f"
+    },
+    {
+      "path": "mods/curios-forge-5.7.2+1.20.1.jar",
+      "hash": "8156335449154bef3cbfec538700173870f4e417"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeActive-14.19.1.jar",
+      "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
+    },
+    {
+      "path": "mods/CustomWindowTitle-Forge-1.20+v1.2.0.jar",
+      "hash": "253b9a3cb915d85c06a639ac54f9a43c858dde64"
+    },
+    {
+      "path": "mods/Cyclic-1.20.1-1.12.9.jar",
+      "hash": "8e37b883681967e0716deb3da658086514509bf4"
+    },
+    {
+      "path": "mods/deeperdarker-forge-1.20.1-1.2.1.jar",
+      "hash": "b7cd826ae029ad99234501abefef37fc6f3e57d8"
+    },
+    {
+      "path": "mods/DungeonsArise-1.20.1-2.1.57-release.jar",
+      "hash": "1bc95d13cf8208c5cfe100a001d6b078d15742f7"
+    },
+    {
+      "path": "mods/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar",
+      "hash": "b585510746697689562f2661313e5f66718e5861"
+    },
+    {
+      "path": "mods/Durability101-forge-1.20-0.0.4.jar",
+      "hash": "2b146cf6bf044e30e68a595ba336e84e3693affa"
+    },
+    {
+      "path": "mods/dynamic-fps-3.4.2+minecraft-1.20.4-forge.jar",
+      "hash": "6c376b2a478a1d645407a816ce53c1e397832e8e"
+    },
+    {
+      "path": "mods/dynamiccrosshair-7.4.4+1.20-forge.jar",
+      "hash": "efde4dd275ca90fdb53fc01b2e1ca445237de9b4"
+    },
+    {
+      "path": "mods/embeddium-0.3.9+mc1.20.1.jar",
+      "hash": "4e2335a9aaa3c0d1a11f728cdebdcdd197e8a04d"
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.5.jar",
+      "hash": "d49158df0c6a0cd99c6fdc092c410838908695d3"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
+      "hash": "c588f932dcb7796ad6d334abd43777e718957058"
+    },
+    {
+      "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar",
+      "hash": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009"
+    },
+    {
+      "path": "mods/expanded_combat-1.20.1-3.1.0-all.jar",
+      "hash": "d3774441f7df376ed03670b3dc0587497249cd6b"
+    },
+    {
+      "path": "mods/ExplorersCompass-1.20.1-1.3.3-forge.jar",
+      "hash": "4c327f26a44ab8d80d73961ff12700d120c4610c"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
+      "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/FastLeafDecay-31.jar",
+      "hash": "27d5ae02484e0b0c464f9611cedee6337048f638"
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "hash": "27d58f123951e0404c94caf16ff9b96b442f371c"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/flib-1.20.1-0.0.12.jar",
+      "hash": "786c510a4c3ccd29b6ff6b0d44ae58ed94895f78"
+    },
+    {
+      "path": "mods/forgeautofish-6.0.0-1.20.1.jar",
+      "hash": "9db2f9a9af422d72dd9ba9e51c07eafe6a846b09"
+    },
+    {
+      "path": "mods/Forgematica-0.1.3-mc1.20.1.jar",
+      "hash": "42ee05551e4c14787fde79d8ce2f01973b00990a"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+      "hash": "d7d5af20faa2bd7012aa2d34b5804324aa273092"
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.6.27.jar",
+      "hash": "ec67a259a060c58571d7c2e7e12c8e6f9d7bd8e4"
+    },
+    {
+      "path": "mods/ftb-filter-system-forge-1.0.2.jar",
+      "hash": "d45c6bc341e50ba1b133c378de8938a3d349f4f3"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.1.5.jar",
+      "hash": "95d6acc600216ca750055d8c494efc3d0d5cfb93"
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.3.4.jar",
+      "hash": "92fcb5535fec56f4acd153386568c567a004c0f4"
+    },
+    {
+      "path": "mods/ftb-ranks-forge-2001.1.3.jar",
+      "hash": "5caca1d7fce7154b79238804a7730e23ce767fce"
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.2.0.jar",
+      "hash": "fe8be7161838d2378bd9facfe6399c6a4f496810"
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.1.jar",
+      "hash": "55897695a22247ebe781499558a87b779175082a"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.4.2.jar",
+      "hash": "388a5029549399ba75d233317d3257a74b5a47d1"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.4.4.jar",
+      "hash": "29dccfe1f985d3efdcd56d24ce4fe0ccc28cee7f"
+    },
+    {
+      "path": "mods/geophilic-v2.2.0-mc1.20u1.20.2.jar",
+      "hash": "5dceaaea811907adf0c4596782edc5347d8557d9"
+    },
+    {
+      "path": "mods/Glodium-1.20-1.5-forge.jar",
+      "hash": "c7534db3248adfcf39a6158b423dfc9bfc99a378"
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "hash": "46910c10470c43cb1566384e9422fb76b341b84c"
+    },
+    {
+      "path": "mods/InGameAccountSwitcher-Forge-1.20-8.0.2.jar",
+      "hash": "c96f5792355f4b7fc247a30ee4fb8deb50e2a18d"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.9.jar",
+      "hash": "394479e03e51c55c837d1e30289ebdb38e0dc838"
+    },
+    {
+      "path": "mods/invhud.forge.1.20.1-3.4.18.jar",
+      "hash": "0ab697cc46a1fd67c7c6b02130c06258bb01ecfc"
+    },
+    {
+      "path": "mods/item-filters-forge-2001.1.0-build.59.jar",
+      "hash": "55a7f032c59489eca96069a7841601de2ff97590"
+    },
+    {
+      "path": "mods/ItemPhysicLite_FORGE_v1.6.1_mc1.20.jar",
+      "hash": "283c9706aa3394a21511dad30433cd38db1d5aa9"
+    },
+    {
+      "path": "mods/Jade-1.20.1-forge-11.8.0.jar",
+      "hash": "bc7eca506af9e754b6283af15ba5a35532a96683"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+    },
+    {
+      "path": "mods/JAOPCA-1.20.1-4.4.10.15.jar",
+      "hash": "929d9ee056ab1325549643b86c77a8393abbc7e5"
+    },
+    {
+      "path": "mods/jecharacters-1.20.1-forge-4.5.9.jar",
+      "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.3.0.4.jar",
+      "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
+    },
+    {
+      "path": "mods/JsonThings-1.20.1-0.9.1.jar",
+      "hash": "7fe43f8fa9eabfdeb09b7d4baec26c34eb021a73"
+    },
+    {
+      "path": "mods/JustEnoughMekanismMultiblocks-1.20.1-4.2.jar",
+      "hash": "37233be8106802c103e0145e9c3d32e3d03c6c43"
+    },
+    {
+      "path": "mods/Kiwi-1.20.1-forge-11.5.5.jar",
+      "hash": "78995936e2bd260ae518e35c3892ad68d58b6633"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "hash": "2019d821bed9071daabed43979433a5473ceee49"
+    },
+    {
+      "path": "mods/kotlinforforge-4.10.0-all.jar",
+      "hash": "5981310618ebe818177bb2a703f8a7fb01bc8efc"
+    },
+    {
+      "path": "mods/lanserverproperties-1.11.1-forge.jar",
+      "hash": "6ae8c8a97e51b6f2b9e72cd5812bdf4880588363"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-4.0.1.jar",
+      "hash": "b3e9a4dc275ce8ee78321a1b9611ed93253bc6d1"
+    },
+    {
+      "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "hash": "29f240c16ff1a1bc574d69162d379cc1c881e1ab"
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.1.5.jar",
+      "hash": "f1a538d8b0913a090ddbc2a59d6fcb6f88bebb7c"
+    },
+    {
+      "path": "mods/lmft-1.0.4+1.20.1-forge.jar",
+      "hash": "e44a12eb51813b16faaab89b8073ec63c746c1b0"
+    },
+    {
+      "path": "mods/MaFgLib-0.1.8-mc1.20.1.jar",
+      "hash": "27dd39bccae147b9b8a9c5ce8478c2693a3ff1e1"
+    },
+    {
+      "path": "mods/Mekanism-1.20.1-10.4.6.20.jar",
+      "hash": "728c25f3c3638f9336f15503f94d1073a48ddc42"
+    },
+    {
+      "path": "mods/mekanism-ad-astra-ores-0.3.0.jar",
+      "hash": "fcb5fc519c62901529b1ed24222c86bb45d4b7b6"
+    },
+    {
+      "path": "mods/MekanismAdditions-1.20.1-10.4.6.20.jar",
+      "hash": "2a70ef4bba6aaccd56c352ebca648a7bca630c57"
+    },
+    {
+      "path": "mods/mekanismcardboardtooltip-forge-1.20.1-1.1.0.jar",
+      "hash": "d206ad8e9b99687146ee0c55eadb7a4d3428a568"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.20.1-10.4.6.20.jar",
+      "hash": "f84eb089018308df6260a87cadc808518343dcce"
+    },
+    {
+      "path": "mods/MekanismTools-1.20.1-10.4.6.20.jar",
+      "hash": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "hash": "e0942d396a70c09038e6c2e5e1da6505178249b8"
+    },
+    {
+      "path": "mods/modernfix-forge-5.14.0+mc1.20.1.jar",
+      "hash": "14b9e0dc330a28706bd2339570de709ef28f5c9d"
+    },
+    {
+      "path": "mods/ModernUI-Forge-1.20.1-3.10.0.4-universal.jar",
+      "hash": "e5f139c01312604982a47aa084c67fbe36a7285b"
+    },
+    {
+      "path": "mods/modmenu-7.2.2.jar",
+      "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
+    },
+    {
+      "path": "mods/MoreMekanismProcessing-1.20.1-4.0.jar",
+      "hash": "4b7cd16ff1fc7a6a94b8615369ef5e7c491bc69c"
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20-2.25.jar",
+      "hash": "f3e8805d706a36717306d92bd5c45cb2aef854b6"
+    },
+    {
+      "path": "mods/mysterious_mountain_lib-1.4.4-1.20.1.jar",
+      "hash": "00bc3efc6edffbf42de79b4f36395a4779d226b1"
+    },
+    {
+      "path": "mods/naturalist-forge-4.0.3-1.20.1.jar",
+      "hash": "233106b2b15b2bbb27df6c78cc8369c0f89d4df7"
+    },
+    {
+      "path": "mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "hash": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850"
+    },
+    {
+      "path": "mods/Necronomicon-Forge-1.4.2.jar",
+      "hash": "8d518d4e32054c86783f26ce024c774ef8fa1861"
+    },
+    {
+      "path": "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar",
+      "hash": "0cd0d0f49762dcaf3716e72c5e159ed9645ce468"
+    },
+    {
+      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.2.jar",
+      "hash": "d211a7e4d30796b0452d38a9857aeb29de16305d"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.6.15a.jar",
+      "hash": "478a222cd6390353ba080b07fcac2b6301fbe3a2"
+    },
+    {
+      "path": "mods/OpenLoader-Forge-1.20.1-19.0.3.jar",
+      "hash": "12769df82c799d7e7a061a212ff95d71675276b8"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-84-FORGE.jar",
+      "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "mods/pointblank-1.20.1-1.2.4.jar",
+      "hash": "852fbaa1ebe28a77f250bfb310393a69008e8851"
+    },
+    {
+      "path": "mods/productivebees-1.20.1-12.4.2.jar",
+      "hash": "649701e77bbb63aa23417459302b15e2dbb53175"
+    },
+    {
+      "path": "mods/Quark-4.0-438.jar",
+      "hash": "6e5572cc72b6b061e4edde8d9d8d2a7b868b1e82"
+    },
+    {
+      "path": "mods/QuarkOddities-1.20.1.jar",
+      "hash": "69ed292c207af89febd156d83b3e78f64b35b969"
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+      "hash": "46825dc0adc36c4b19591bb99f7d856bc2953749"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.23.jar",
+      "hash": "478ba347adf2170e8b412a091ea0879d0dc11b52"
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.2-build.18.jar",
+      "hash": "0a631b4e8235a777d08bd53d4f49dba388205cad"
+    },
+    {
+      "path": "mods/Rrls-3.2.0-1.20.1-forge.jar",
+      "hash": "43e7cc853475eb4062096d6318da4cb83800d33e"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.2.jar",
+      "hash": "02fe27031be80567c968aafeadd0d4760dbe8a44"
+    },
+    {
+      "path": "mods/sebastrnlib-4.0.0.jar",
+      "hash": "9cfed6776ff5ccda300dd0cee610dddb68c5fa15"
+    },
+    {
+      "path": "mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
+      "hash": "467a97815cd47ee8843f1e3b6e520ca1d6a81fe7"
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar",
+      "hash": "b0ad1fe442d5442a0758b5ac7a0a77e2f68b0967"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.20.3.1029.jar",
+      "hash": "577abfd4b2b0c3bda8d64e5550d5ee690a06585c"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-0.6.9.569.jar",
+      "hash": "358acd435c67955289c6d07c685556a383106b00"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
+      "hash": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6"
+    },
+    {
+      "path": "mods/spark-1.10.53-forge.jar",
+      "hash": "231fb325368c0660954f47bfb03493f5246fa4d1"
+    },
+    {
+      "path": "mods/Steam_Rails-1.6.1+forge-mc1.20.1.jar",
+      "hash": "93df5762bfe824c3bee244ae91f3f9211fbf84bc"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.4.jar",
+      "hash": "978188140f72ed814616ebc3a07f1b3be9871041"
+    },
+    {
+      "path": "mods/Terralith_1.20.4_v2.4.11.jar",
+      "hash": "ac529b2a6ab9189cc6b6b459fa7b7b85f6e230e4"
+    },
+    {
+      "path": "mods/textrues_embeddium_options-0.1.5+mc1.20.1.jar",
+      "hash": "f35d0566e43cde0c4ffba9ecf893209b2b96b0c8"
+    },
+    {
+      "path": "mods/touhoulittlemaid-1.20.1-release-1.1.8.jar",
+      "hash": "9e3704da25dbe0e42d4da9397f3a8ececa6f76a9"
+    },
+    {
+      "path": "mods/Tweakerge-0.1.2-mc1.20.1.jar",
+      "hash": "93a0a9e2ff675c3282fcf7732a91a01611b5d775"
+    },
+    {
+      "path": "mods/twilightdelight-2.0.8.jar",
+      "hash": "6511bbbe9c2ff9b41e858d9038ba4d7c6eb7c664"
+    },
+    {
+      "path": "mods/twilightforest-1.20.1-4.3.2145-universal.jar",
+      "hash": "f4bfc12ce16472e9c7f975a57bb9885eed223a87"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.5.9.jar",
+      "hash": "b6095e42f03d24654670d88f4ef5a87fec2bc9c9"
+    },
+    {
+      "path": "mods/waystones-forge-1.20-14.1.3.jar",
+      "hash": "b85d0fb174e544a025d4db86282773f8cc43b1e8"
+    },
+    {
+      "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "hash": "de100712cf2b7187a23f5cd726b93e576592979b"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.38.4_Forge_1.20.jar",
+      "hash": "2be80281c4e38be6af28022c0bf0f8a62254067f"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+      "hash": "3d1d458f93545d342415ba417d36a2262973d10e"
+    },
+    {
+      "path": "mods/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar",
+      "hash": "a5cee92bae3ebb6a95f01e972a71ca794bc60f98"
+    },
+    {
+      "path": "mods/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+      "hash": "6efdaf5d213f779e51aa84631a5f06a306351e75"
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.4.jar",
+      "hash": "83343dfd125b9d7e34197b699a5305c84fcc4b4a"
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "hash": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6"
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar",
+      "hash": "1609372c07d79b9d54eed4cea236f89d50114198"
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.5.jar",
+      "hash": "3e751f26653ff56c62a37611548311448df7657b"
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar",
+      "hash": "ed17c8d14a6f4a7309fab18356d6215d06c3f983"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "hash": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar",
+      "hash": "4854b9b0e2fc11b1c2ef257ad19f0e138e0f7b8b"
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "hash": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "hash": "3730238c56edca4bb5b2238e1314aec572ced385"
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "hash": "71fee574f920c6b05004f100ba07e9b8d5844169"
+    },
+    {
+      "path": "mods/Zeta-1.0-14.jar",
+      "hash": "8f18288cb909d88215f081c014db550b72b2e07d"
+    },
+    {
+      "path": "mods/zume-0.17.0.jar",
+      "hash": "098f38d7d27aadf35eaa3a68f65126b6fc617907"
+    },
+    {
+      "path": "options.txt",
+      "hash": "bda1a3b7ce8025917314c72bde6fc4ae5ad0fddc"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "1f877280f4fe05198c8dda71f3aed46a7e24a252"
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-71.20.zip",
+      "hash": "bffd7ef4a52e9bb1a93ba723f3dacb7270c64dc9"
+    },
+    {
+      "path": "resourcepacks/DreamHanSansCN字体包.zip",
+      "hash": "81415f46b593ebe7c44629d0902b757b952a0895"
+    },
+    {
+      "path": "resourcepacks/Faithful 32x - 1.20.4.zip",
+      "hash": "4c82e70abf8cd8bd3ce117fb69ecc3e0c846915b"
+    },
+    {
+      "path": "resourcepacks/Furnish Door Knock Silencer.zip",
+      "hash": "b4995b986926de8db3fd778dbd8bd68aaf5f64e0"
+    },
+    {
+      "path": "resourcepacks/Midnighttiggers-ACT-Default_1.20.1_V2.zip",
+      "hash": "7e5ae3206f362d71a3236351cac3d7b0b8a1f2db"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "hash": "2f4cadbbaeffec5f2811b34e053450a930626c15"
+    },
+    {
+      "path": "resourcepacks/Redstone Display v3.2forMC1.20.1.zip",
+      "hash": "d596ecf5d00d4e17260aa8795217cbe411911c52"
+    },
+    {
+      "path": "resourcepacks/SNR汽鸣铁道粗翻.zip",
+      "hash": "b7868e53133f5039027f4b51eeba4e48a4d328d7"
+    },
+    {
+      "path": "resourcepacks/XPlus 配套基础材质[masa汉化][反南瓜头GUI]v0.0.3.zip",
+      "hash": "7000fd0978db874f85dfd199f3b22f33fc3c175e"
+    },
+    {
+      "path": "resourcepacks/思源黑体字体包.zip",
+      "hash": "5019ac1de4467e381b365b78c886bb2548d38b01"
+    },
+    {
+      "path": "resourcepacks/汉化材质-[1.19.2]Xaeros世界地图\u0026amp;amp;小地图汉化221105.zip",
+      "hash": "cd63cc10c9c9d9684741bb21db67937881f95755"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "335a744886af79f1a3982e308fe4a2dc232ecb69"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "322dec558c7eef0b1dd9e797ea679625ab5e3a30"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.08.zip",
+      "hash": "5c10ed196eb5bb5b2b36685803775b2ae72eb378"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.08.zip.txt",
+      "hash": "1249b493d721fe51f22e94c637a425290358d926"
+    },
+    {
+      "path": "shaderpacks/[光影][汉化]ComplementaryUnbound_r5.1.1.zip",
+      "hash": "c2df612005b4d2b374b39227ed91c9a6e5504c1a"
+    },
+    {
+      "path": "shaderpacks/[光影][汉化]ComplementaryUnbound_r5.1.1.zip.txt",
+      "hash": "9adf9faef909eafefa5f8521075e6de58fa96c4b"
+    },
+    {
+      "path": "shaderpacks/超低配水反光影.zip",
+      "hash": "0be861ce9383533519fc6f8a54f1ad6bc2610357"
+    },
+    {
+      "path": "tlm_custom_pack/ascmtp-1.0.0.zip",
+      "hash": "644ea90de8556a411f668326f16a1e517e58f0ce"
+    },
+    {
+      "path": "tlm_custom_pack/cute_creature-1.2.0.zip",
+      "hash": "5708c3fb2c70ea84ecbcde5c0232ae1e5e5e8fe8"
+    },
+    {
+      "path": "tlm_custom_pack/deltarune_little_maid-1.0.0.zip",
+      "hash": "3f6cdf4bcea5fb65108235951c01d5bafe2faf60"
+    },
+    {
+      "path": "tlm_custom_pack/fumofumo-1.0.0.zip",
+      "hash": "74844c7063442c353b23aa2f42df1d0c825e9e2e"
+    },
+    {
+      "path": "tlm_custom_pack/genshin_impact-1.1.6.zip",
+      "hash": "116a5441e2410f34626ba031fd39e4c585bf5904"
+    },
+    {
+      "path": "tlm_custom_pack/lanternrite_festival-1.0.5.zip",
+      "hash": "46d37963ad7450466016e928219cb6bf16c7f148"
+    },
+    {
+      "path": "tlm_custom_pack/plants_vs_zombies-1.0.6.zip",
+      "hash": "b6b9f3dde349cc28793948a7034f8ec930159eb4"
+    },
+    {
+      "path": "tlm_custom_pack/tlmpack_salmagundi-1.0.0.zip",
+      "hash": "654f05f49bd9e3ece5cfc6acfdd324c467a468b4"
+    },
+    {
+      "path": "tlm_custom_pack/touhou_little_maid-1.0.0.zip",
+      "hash": "43d6d8d1024d4e13b45af87882e088528c01c07e"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.21"
+    }
+  ]
+}

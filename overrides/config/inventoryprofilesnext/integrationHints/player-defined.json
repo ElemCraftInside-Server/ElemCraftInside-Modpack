@@ -1,0 +1,12 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 40
+            },
+            "SETTINGS": {
+                "top": 41
+            }
+        }
+    }
+}

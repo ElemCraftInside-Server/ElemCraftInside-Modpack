@@ -1,0 +1,12 @@
+{
+  "commands.origin.unregistered_in_layer": "源 %1$s 未在层 %2$s 中注册！",
+  "origins.gui.waiting_for_powers": "等待权力解决",
+  "commands.origin.random.success.single": "将原点 %2$s 随机分配给层 %3$s 中的 %1$s",
+  "commands.origin.random.success.multiple": "为 %2$s 层中的 %1$s 目标随机分配原点",
+  "commands.origin.random.not_allowed": "%1$s 层不允许随机起源！",
+  "origin.origins.empty.name": "丢失的",
+  "commands.origin.random.all": "为 %2$s 层中的 %1$s 个目标随机分配原点",
+  "commands.origin.layer_not_found": "未知层：%s",
+  "config.origins.disabled": "残疾起源",
+  "origin.origins.empty.description": "你没有起源。"
+}

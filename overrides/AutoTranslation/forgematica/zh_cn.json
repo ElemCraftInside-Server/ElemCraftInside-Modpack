@@ -1,0 +1,13 @@
+{
+  "litematica.gui.label.easy_place_protocol.none": "没有任何",
+  "litematica.gui.label.easy_place_protocol.slabs_only": "仅板",
+  "litematica.gui.label.easy_place_protocol.auto": "汽车",
+  "litematica.message.warn.pickblock.no_suitable_slot_found": "找不到适合拾取块的热栏插槽！\n检查配置通用 -\u003e §epickBlockableSlots§r。\n此外，根据 §epickBlockAvoid*§6 配置，拾取块功能可能会拒绝替换这些插槽中的任何工具或其他可损坏物品。",
+  "litematica.gui.label.paste_nbt_behavior.place_data_modify": "位置和数据修改",
+  "litematica.gui.label.easy_place_protocol.v2": "版本2",
+  "litematica.gui.label.easy_place_protocol.v3": "版本3",
+  "litematica.gui.label.paste_nbt_behavior.none": "没有任何",
+  "litematica.message.schematic_pasted_using_fill_and_setblock": "使用 §b%s§r fill 和 §b%s§r setblock 命令粘贴的原理图",
+  "litematica.gui.label.paste_nbt_behavior.place_clone": "放置和克隆",
+  "litematica.message.warn.pickblock.no_valid_slots_configured": "通用 -\u003e §epickBlockableSlots§6 配置中未设置热栏插槽！"
+}

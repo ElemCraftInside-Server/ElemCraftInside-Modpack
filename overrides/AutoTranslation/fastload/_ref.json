@@ -1,0 +1,13 @@
+{
+  "fastload.button.instant_load.tooltip": "Are you impatient? Do you hate loading screens? Just switch it on, load a world, and you will regret it. -_-",
+  "fastload.button.local_render_chunk_radius.min": "Disabled",
+  "fastload.buildingTerrain.starting": "Starting Session",
+  "fastload.button.local_render_chunk_radius": "Local Radius",
+  "fastload.button.server_render_chunk_radius": "Server Radius",
+  "fastload.button.local_render_chunk_radius.max": "Wtf",
+  "fastload.button.server_render_chunk_radius.tooltip": "Radius for how many chunks in a circle should render in Fastload\u0027s Building Terrain for Servers.",
+  "fastload.button.local_render_chunk_radius.tooltip": "Radius for how many chunks in a circle should render in Fastload\u0027s Building Terrain for Singleplayer.",
+  "fastload.button.server_render_chunk_radius.min": "Disabled",
+  "fastload.button.instant_load": "Instant Load",
+  "fastload.button.server_render_chunk_radius.max": "Wtf"
+}

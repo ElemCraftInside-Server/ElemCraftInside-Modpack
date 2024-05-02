@@ -1,0 +1,10 @@
+{
+  "ftblibrary.gui.listSize1": "1 item",
+  "item.ftblibrary.fluid_container": "Fluid Container",
+  "ftblibrary.gui.listSize": "%s items",
+  "ftblibrary.select_image.rescan": "Rescan Images",
+  "item.ftblibrary.fluid_container.use": "Right-click on a tank to empty the container",
+  "ftblibrary.empty": "Empty",
+  "ftblibrary.select_image.scanning": "Scanning for images: this could take a few seconds...",
+  "ftblibrary.mb": "%s mB of %s"
+}

@@ -1,0 +1,8 @@
+{
+  "message.moonlight.anti_repost": "You seem to have downloaded %1$s from a malicious site :( Get the real version %2$s.",
+  "message.moonlight.anti_repost_link": "here",
+  "gui.moonlight.open_mod_page": "Open %s CurseForge page",
+  "item.minecraft.potion_splash": "Splash Potion",
+  "item.minecraft.potion_lingering": "Lingering Potion",
+  "fluid.moonlight.generic_fluid": "Unnamed Fluid"
+}

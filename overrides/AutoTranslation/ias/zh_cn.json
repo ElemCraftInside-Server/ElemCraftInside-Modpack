@@ -1,0 +1,13 @@
+{
+  "ias.configGui.titleScreenText.alignment.center": "中心",
+  "ias.configGui.titleScreenText.alignment.right": "正确的",
+  "ias.loginGui.offline.progress": "正在获取UUID...",
+  "modmenu.summaryTranslation.ias": "允许您在游戏中更改帐户。",
+  "ias.loginGui.edit.button.tooltip": "通过按此按钮，您将使该帐户离线。您将无法使用该帐户加入服务器。使用“Microsoft”按钮使用普通帐户。",
+  "ias.configGui.titleScreenText.alignment.left": "左边",
+  "ias.loginGui.add.button.tooltip": "通过按此按钮，您将添加一个离线帐户。您将无法使用该帐户加入服务器。使用“Microsoft”按钮添加普通帐户。",
+  "ias.configGui.title": "游戏内帐户切换器配置",
+  "ias.configGui.titleScreenText": "标题屏幕文本",
+  "modmenu.descriptionTranslation.ias": "允许您更改在游戏中登录的帐户，而无需重新启动 Minecraft。",
+  "ias.configGui.titleScreenText.alignment": "对齐方式：%s"
+}

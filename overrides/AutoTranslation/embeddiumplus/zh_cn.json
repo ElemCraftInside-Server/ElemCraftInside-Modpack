@@ -1,0 +1,8 @@
+{
+  "embeddium.plus.options.zoom.title": "启用 Zume",
+  "embeddium.plus.options.zoom.quadratics.lineal": "直系",
+  "embeddium.plus.options.zoom.quadratics.quartic": "四次",
+  "embeddium.plus.options.zoom.quadratics.quintic": "昆蒂克",
+  "embeddium.plus.options.zoom.desc": "如果为“true”，mod 将被禁用（在某些平台上，按键绑定仍会显示在游戏选项中；如果设置为“true”，它们不会执行任何操作）。\n需要重新启动才能生效。",
+  "embeddium.plus.options.zoom.quadratics.quadratics": "二次"
+}

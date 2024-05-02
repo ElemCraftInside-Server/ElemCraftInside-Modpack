@@ -1,0 +1,9 @@
+{
+  "entity.minecraft.villager.ae2.fluix_researcher": "流体研究员",
+  "gui.tooltips.ae2.InscriberBufferHigh": "堆叠至 64",
+  "chat.ae2.TestWorldNotInSuperflat": "测试世界只能设置在超平坦世界中！",
+  "gui.tooltips.ae2.InscriberBufferSize": "输入槽堆栈大小",
+  "key.ae2.guide": "打开物品指南",
+  "gui.tooltips.ae2.InscriberBufferLow": "堆叠至 4",
+  "gui.ae2.CantFitInsideStorageCell": "该物品不适合其他存储单元"
+}

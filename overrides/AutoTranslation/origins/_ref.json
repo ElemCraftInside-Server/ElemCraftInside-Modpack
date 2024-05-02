@@ -1,0 +1,12 @@
+{
+  "commands.origin.unregistered_in_layer": "Origin %1$s is not registered in layer %2$s!",
+  "origins.gui.waiting_for_powers": "Waiting for powers to resolve",
+  "commands.origin.random.success.single": "Randomly assigned the origin %2$s to %1$s in layer %3$s",
+  "commands.origin.random.success.multiple": "Randomly assigned an origin to %1$s targets in layer %2$s",
+  "commands.origin.random.not_allowed": "The layer %1$s does not allow for random origins!",
+  "origin.origins.empty.name": "Missing",
+  "commands.origin.random.all": "Randomly assigned an origin to %1$s targets in %2$s layers",
+  "commands.origin.layer_not_found": "Unknown layer: %s",
+  "config.origins.disabled": "Disabled origins",
+  "origin.origins.empty.description": "You do not have an Origin."
+}

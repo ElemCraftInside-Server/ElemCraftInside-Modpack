@@ -1,0 +1,4 @@
+{
+  "cloth_config.sound_physics_remastered.evaluate_ambient_sounds.description": "Whether sounds like cave, nether or underwater ambient sounds should have sound physics",
+  "cloth_config.sound_physics_remastered.evaluate_ambient_sounds": "Evaluate ambient sounds"
+}

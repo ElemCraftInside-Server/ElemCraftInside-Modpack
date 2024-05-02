@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist": "Mine with weapon blacklist",
+  "text.autoconfig.bettercombat.title": "Better Combat",
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled": "Attack instead of mining",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled.@Tooltip": "Show weapon hitbox when entity hitboxes are displayed",
+  "text.autoconfig.bettercombat.option.client.isAttackInsteadOfMineWhenEnemiesCloseEnabled.@Tooltip": "Attack instead of mining upon left click, when enemies are close enough to strike",
+  "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson": "Show inactive hand in first person",
+  "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled": "Show sweeping",
+  "text.autoconfig.bettercombat.option.client.isShowingOtherHandFirstPerson.@Tooltip": "Render hand you are not attacking with in first person view",
+  "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled.@Tooltip": "Enable showing sword sweeping particle effects",
+  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume.@Tooltip": "Change volume of weapon swing sounds",
+  "hud.bettercombat.mine_with_weapons_off": "Mine with weapons: No",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist.@Tooltip": "Weapons with an ID that matches this regex will never be used to harvest blocks",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist": "Swing thru grass blacklist",
+  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume": "Weapon swing sound volume %",
+  "hud.bettercombat.mine_with_weapons_on": "Mine with weapons: Yes",
+  "text.autoconfig.bettercombat.option.client.swingThruGrassBlacklist.@Tooltip": "Weapons with an ID that matches this regex will never swing thru grass",
+  "text.autoconfig.bettercombat.option.client.isDebugOBBEnabled": "Debug hitbox"
+}

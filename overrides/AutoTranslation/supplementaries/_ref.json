@@ -1,0 +1,16 @@
+{
+  "block.supplementaries.pancake.desc": "Partyp - Pancake Music",
+  "gui.supplementaries.speaker_block": "Speaker Block",
+  "gui.supplementaries.notice_board": "Notice Board",
+  "gui.supplementaries.pedestal": "Pedestal",
+  "gui.supplementaries.pulley_block": "Pulley Block",
+  "gui.supplementaries.amendments.title": "Warning: Amendments is not installed",
+  "gui.supplementaries.welcome_screen.turn_off": "Don\u0027t show this again",
+  "gui.supplementaries.amendments.suggestions": "You can get the mod HERE",
+  "gui.supplementaries.doormat": "Doormat",
+  "gui.supplementaries.amendments.message": "As of update 2.8.0 some of Supplementaries features in the Tweaks section were moved to a dedicated mod, Amendments.\n\n The mods are meant to function separately, but if you wish to keep all the already-existing old blocks you must install Amendments.\n\n The features moved are the following: WALL LANTERNS, SKULL CANDLES, CEILING POTS, CEILING BANNERS and SKULL PILES. \n\nNote that if you proceed without it, all those existing blocks will be lost.",
+  "gui.supplementaries.sack": "Sack",
+  "message.supplementaries.quill_retry": "A Cartographer\u0027s Quill could not find any target nearby. Try somewhere else.",
+  "trinkets.slot.legs.quiver": "Quiver",
+  "gui.supplementaries.safe": "Safe"
+}

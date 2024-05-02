@@ -1,0 +1,20 @@
+{
+  "item.jaopca.crossroads_grits": "原始 %s 砂砾",
+  "item.jaopca.factorium_chunks": "%s 个块",
+  "item.jaopca.indreb_purified": "纯化的%s",
+  "fluid_type.jaopca.nuclearcraft_slurries": "%s 浆液",
+  "item.jaopca.theurgy_alchemical_sulfurs": "炼金硫磺 %s",
+  "item.jaopca.crossroads_clumps": "%s 块",
+  "item.jaopca.bloodmagic_gravels": "%s 砾石",
+  "item.jaopca.nuclearcraft_clean_slurries": "%s 清洁浆料桶",
+  "item.jaopca.factorium_powders": "%s 粉末",
+  "item.jaopca.electrodynamics_crystals": "%s硫酸盐晶体",
+  "item.jaopca.indreb_chunks": "%s 块",
+  "item.jaopca.electrodynamics_impuredusts": "不纯的 %s 灰尘",
+  "fluid_type.jaopca.electrodynamics_sulfates": "%s 硫酸盐",
+  "fluid_type.jaopca.nuclearcraft_clean_slurries": "%s 清洁浆料",
+  "item.jaopca.nuclearcraft_slurries": "%s 浆料桶",
+  "item.jaopca.bloodmagic_fragments": "%s 片段",
+  "item.jaopca.electrodynamics_sulfates": "%s 硫酸盐桶",
+  "item.jaopca.theurgy_alchemical_sulfurs.tooltip": "由 %s %s %s 制作的炼金硫磺。"
+}

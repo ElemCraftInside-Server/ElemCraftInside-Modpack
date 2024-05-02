@@ -1,0 +1,16 @@
+{
+  "block.supplementaries.pancake.desc": "Partyp - 煎饼音乐",
+  "gui.supplementaries.speaker_block": "扬声器块",
+  "gui.supplementaries.notice_board": "公告栏",
+  "gui.supplementaries.pedestal": "座",
+  "gui.supplementaries.pulley_block": "滑轮组",
+  "gui.supplementaries.amendments.title": "警告：未安装修正",
+  "gui.supplementaries.welcome_screen.turn_off": "不要再显示这个",
+  "gui.supplementaries.amendments.suggestions": "你可以在这里获取模组",
+  "gui.supplementaries.doormat": "门垫",
+  "gui.supplementaries.amendments.message": "自更新 2.8.0 起，“调整”部分中的一些补充功能已移至专用 mod“修正案”。\n\n 这些 mod 旨在单独运行，但如果您希望保留所有已存在的旧块，则必须安装修正案。\n\n 移动的功能如下：壁灯、骷髅蜡烛、天花板盆、天花板横幅和骷髅桩。 \n\n请注意，如果不进行操作，所有现有块都将丢失。",
+  "gui.supplementaries.sack": "解雇",
+  "message.supplementaries.quill_retry": "制图师的羽毛笔找不到附近的任何目标。尝试其他地方。",
+  "trinkets.slot.legs.quiver": "颤动",
+  "gui.supplementaries.safe": "安全的"
+}

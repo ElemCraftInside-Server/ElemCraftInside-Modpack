@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.shulkerboxtooltip.option.controls.lockTooltipKey.tooltip": "Hold this key when previewing a stack to lock the tooltip.",
+  "text.autoconfig.shulkerboxtooltip.option.controls.lockTooltipKey": "Lock Tooltip",
+  "shulkerboxtooltip.hint.lock": "lock tooltip"
+}

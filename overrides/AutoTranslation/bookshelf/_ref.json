@@ -1,0 +1,6 @@
+{
+  "commands.bookshelf.loot_tables": "Found %s missing loot tables for %s.",
+  "commands.bookshelf.loot_tables.wildcard": "Found %s missing loot tables for all mods.",
+  "argument.bookshelf.unknown_value": "The value \u0027%s\u0027 is unknown.",
+  "text.bookshelf.ticks": "Ticks: %s"
+}

@@ -1,0 +1,13 @@
+{
+  "ias.configGui.titleScreenText.alignment.center": "Center",
+  "ias.configGui.titleScreenText.alignment.right": "Right",
+  "ias.loginGui.offline.progress": "Obtaining UUID...",
+  "modmenu.summaryTranslation.ias": "Allows you to change your account in-game.",
+  "ias.loginGui.edit.button.tooltip": "By pressing this button you\u0027ll make this account offline. You won\u0027t be able to join servers with that account. Use \u0027Microsoft\u0027 button to use a normal account.",
+  "ias.configGui.titleScreenText.alignment.left": "Left",
+  "ias.loginGui.add.button.tooltip": "By pressing this button you\u0027ll add an offline account. You won\u0027t be able to join servers with that account. Use \u0027Microsoft\u0027 button to add a normal account.",
+  "ias.configGui.title": "In-Game Account Switcher Config",
+  "ias.configGui.titleScreenText": "Title Screen Text",
+  "modmenu.descriptionTranslation.ias": "Allows you to change which account you are signed in to in-game without restarting Minecraft.",
+  "ias.configGui.titleScreenText.alignment": "Alignment: %s"
+}

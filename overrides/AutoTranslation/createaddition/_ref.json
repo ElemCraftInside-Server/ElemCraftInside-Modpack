@@ -1,0 +1,15 @@
+{
+  "item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "Applies polish to items held in the _offhand_ or lying on the _floor_ when _looking at them_",
+  "item.createaddition.diamond_grit_sandpaper.tooltip.condition1": "When Used",
+  "item.createaddition.copper_spool.tooltip.summary": "Used to store wires.",
+  "item.createaddition.spool.tooltip.behaviour1": "Will remove the wire link and return a filled _spool_.",
+  "item.createaddition.spool.tooltip.summary": "Used to store wires.",
+  "createaddition.subtitle.little_zap": "Tesla Coil sparks",
+  "item.createaddition.spool.tooltip.condition1": "R-Clicking two linked Connectors",
+  "item.createaddition.festive_spool.tooltip.summary": "Used to store wires.",
+  "createaddition.subtitle.loud_zap": "Tesla Coil zaps",
+  "item.createaddition.electrum_spool.tooltip.summary": "Used to store wires.",
+  "item.createaddition.diamond_grit_sandpaper.tooltip.summary": "Can be used to _refine materials_. The process can be automated with a Deployer.",
+  "item.createaddition.gold_spool.tooltip.summary": "Used to store wires.",
+  "itemGroup.createaddition.main": "Create Crafts \u0026 Additions"
+}

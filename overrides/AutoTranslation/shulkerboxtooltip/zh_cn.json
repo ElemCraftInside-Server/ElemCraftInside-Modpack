@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.shulkerboxtooltip.option.controls.lockTooltipKey.tooltip": "预览堆栈时按住此键可锁定工具提示。",
+  "text.autoconfig.shulkerboxtooltip.option.controls.lockTooltipKey": "锁定工具提示",
+  "shulkerboxtooltip.hint.lock": "锁定工具提示"
+}

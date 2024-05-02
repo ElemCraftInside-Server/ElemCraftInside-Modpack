@@ -1,0 +1,8 @@
+{
+  "embeddium.plus.options.zoom.title": "Enable Zume",
+  "embeddium.plus.options.zoom.quadratics.lineal": "Lineal",
+  "embeddium.plus.options.zoom.quadratics.quartic": "Quartic",
+  "embeddium.plus.options.zoom.quadratics.quintic": "Quintic",
+  "embeddium.plus.options.zoom.desc": "If `true`, the mod will be disabled (on some platforms, key binds will still show in game options; they won\u0027t do anything if this is set to `true`).\nRequires re-launch to take effect.",
+  "embeddium.plus.options.zoom.quadratics.quadratics": "Quadratic"
+}
