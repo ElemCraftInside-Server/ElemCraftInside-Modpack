@@ -30,18 +30,5 @@
 	- ChangeLog：
 		- 内容：请按[在线表格](https://www.kdocs.cn/l/cfGvthYbQxLB)中ChangeLog一栏填写
 		- 格式：使用Markdown语法
-			ChangeLog示例
-		- 
-			### Change Log:
-			- voicechat配置
-			- new age配置
-			- 将默认字体改为梦源黑体
-			- BetterCompatbilityChecker配置
-			- 自动更新支持
-			- 默认开启自动跳跃
-			- 添加默认服务器
-			- 更改MOTD
-			- 添加模组CustomWindowTitle
-
 
 
