@@ -1,0 +1,14 @@
+{
+  "message.pointblank.cancelled_to_craft": "cancelled crafting",
+  "item.pointblank.guninternals": "Gun Internals",
+  "message.pointblank.added_to_the_inventory": "added to the inventory",
+  "message.pointblank.failed_to_craft": "failed to craft",
+  "item.pointblank.motor": "Minigun Motor",
+  "item.pointblank.gunmetal_mesh": "Gunmetal Mesh",
+  "item.pointblank.gunmetal_nugget": "Gunmetal Nugget",
+  "message.pointblank.press_and_hold_to_craft": "Press and hold to craft",
+  "item.pointblank.gunmetal_ingot": "Gunmetal Ingot",
+  "item.pointblank.processor": "KamiCat Processor",
+  "label.pointblank.craft": "Craft",
+  "message.pointblank.dropped_on_the_gound": "dropped on the ground"
+}

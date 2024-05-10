@@ -1,7 +1,7 @@
 {
-  "name": "ElemCraftInside-Modpack_Ver1.2-beta",
+  "name": "ElemCraftInside-Modpack_Ver1.21-beta",
   "author": "ECIS Core Management",
-  "version": "1.2-beta",
+  "version": "1.21-beta",
   "description": "",
   "fileApi": "https://gitee.com/numerousx/ElemCraftInside-Modpack/raw/main",
   "files": [
@@ -411,7 +411,7 @@
     },
     {
       "path": "AutoTranslation/create_sa/zh_cn.json",
-      "hash": "fa3ba2ae6b3b10c76cc5a63b07260b4745e942f6"
+      "hash": "3bf79de31f9b0f11d38927c02f9e74d1d63eb4de"
     },
     {
       "path": "AutoTranslation/create_sa/_ref.json",
@@ -796,6 +796,14 @@
     {
       "path": "AutoTranslation/pehkui/_ref.json",
       "hash": "bf6598dd5cf8bfd70be4060b31544c132494e660"
+    },
+    {
+      "path": "AutoTranslation/pointblank/zh_cn.json",
+      "hash": "f8b982850fafafe16e978cdd73cdac06e7c20b8d"
+    },
+    {
+      "path": "AutoTranslation/pointblank/_ref.json",
+      "hash": "5921319e1c71e1d52883bcd0e8420e3d61b9358b"
     },
     {
       "path": "AutoTranslation/productivebees/zh_cn.json",
@@ -1183,7 +1191,7 @@
     },
     {
       "path": "config/bettervillage_1.properties",
-      "hash": "f294eea128386c15ca08327b646264ecdc68e110"
+      "hash": "e3e308e9d26bb7ec0a85e88d004b4d12ee9d51be"
     },
     {
       "path": "config/betterwitchhuts-forge-1_20.toml",
@@ -1199,95 +1207,95 @@
     },
     {
       "path": "config/bluemap/core.conf",
-      "hash": "ae42c291580d95204c5b96e87d8f5e322fd71bb2"
+      "hash": "ab7b061e91c70019004963b5bb6bb909164d4bf6"
     },
     {
       "path": "config/bluemap/maps/___3_14.conf",
-      "hash": "117e6add73f815bd026dfc1755d1e2f3aa84bdc7"
+      "hash": "d1b39c52e72bbee90b0266ab7f1091c5c732913a"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_earth_orbit.conf",
-      "hash": "60476a3c7b59c13331ad1550a05e0fb8ae2d84be"
+      "hash": "b858a3565798664ed254b16abbfe02cc4bb77248"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_glacio.conf",
-      "hash": "8219c996d9e90be10a6e797580d49ee34de5caca"
+      "hash": "5034ff2173985d7d32e3edd17d0d64bebed62d35"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_glacio_orbit.conf",
-      "hash": "45e0f600a91480685513fc339523206197e6760d"
+      "hash": "0a4984c9cd15d29a2ce73a64aa0a323b2c582e56"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_mars.conf",
-      "hash": "4507dc3c95df5545c564bbf3e55e061035210325"
+      "hash": "069f3c2365744d76922dfa00af478f4405088b21"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_mars_orbit.conf",
-      "hash": "633d2de1f3cee66baf1385735fb71bb5e6a08b93"
+      "hash": "3f4ebf04fc2e0d9e8d60735a96c5b6839167a68b"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_mercury.conf",
-      "hash": "07fba0bf9b7b590e92a496cc41f1e835671755ff"
+      "hash": "eda425d4b41ade0f8dfb4cd7c49445b245d5a026"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_mercury_orbit.conf",
-      "hash": "1f5cf234a36a09d6076a3a07870f4d0a77da6d6a"
+      "hash": "792d76556613fb705cdf7fbaa49f7fde5f2a9050"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_moon.conf",
-      "hash": "4d1637c286eb696944d1a9d6bf7ec7217da8a629"
+      "hash": "1786c70148d8c6a81c994e3ee787022ab1310374"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_moon_orbit.conf",
-      "hash": "28ff48a1608b06759c25527a7465ef3b7ef1bbb1"
+      "hash": "e3909c75089f380ba00e1c35f0c4c848c2266345"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_venus.conf",
-      "hash": "fd83978dc7488015800700c1bf900cc5b027fe72"
+      "hash": "9d20b03c642c07954c12cec909a2dd958eb7204a"
     },
     {
       "path": "config/bluemap/maps/___3_14_ad_astra_venus_orbit.conf",
-      "hash": "96a3fd2ca2d96004333e846e7152a81ac82e1ede"
+      "hash": "cc5cf2ccf0767b57ce359a5602bdf49aed4e535a"
     },
     {
       "path": "config/bluemap/maps/___3_14_ae2_spatial_storage.conf",
-      "hash": "db3cbb7b3f5f207b537ddaa0a8845a264e0b08ec"
+      "hash": "372e6bdaea6ee06b88d54aecaf66ccfa58901f58"
     },
     {
       "path": "config/bluemap/maps/___3_14_deeperdarker_otherside.conf",
-      "hash": "c973a293ac712eae6a77e395f3a402b32f2d4f76"
+      "hash": "a3aa7376156f00a82ee485ec2260017d1bfef97f"
     },
     {
       "path": "config/bluemap/maps/___3_14_the_end.conf",
-      "hash": "1f472cfc90db15b653038082ca8b2727abf826df"
+      "hash": "9c5e9bd83662700ca236509b9764ea1193e4ba42"
     },
     {
       "path": "config/bluemap/maps/___3_14_the_nether.conf",
-      "hash": "c1b1bb502fefe957a82830832d0ffebdf49fb2a9"
+      "hash": "0a6082d6caba604fa60e32750502a3c5e2141e9f"
     },
     {
       "path": "config/bluemap/maps/___3_14_twilightforest_twilight_forest.conf",
-      "hash": "4e050e126ef282a53b5564760ba401ed9aaf66b7"
+      "hash": "cdc43af42fd4d2a70cd4b0ec1024293d41f3ba8a"
     },
     {
       "path": "config/bluemap/plugin.conf",
-      "hash": "34306a422c0e4f68aa59eec083e7875b8fe7e4fa"
+      "hash": "f6abf79fc61b986a2772414cdcde802ff912ef13"
     },
     {
       "path": "config/bluemap/storages/file.conf",
-      "hash": "2fd0cba2833315e272f708c22e908697eda65bcd"
+      "hash": "8c4c8ac56c27db6072a3bacd763aa487c1068f99"
     },
     {
       "path": "config/bluemap/storages/sql.conf",
-      "hash": "48c33b4d2e0fc190efdaa41413d9d15975ad1b96"
+      "hash": "dd9197a4db0997302d0da233b6a82783816e45bc"
     },
     {
       "path": "config/bluemap/webapp.conf",
-      "hash": "f8b5968733bb2c704bbe7413a8ec6fc3218aa93c"
+      "hash": "2688141aed74900d92588123148e1c46304433f2"
     },
     {
       "path": "config/bluemap/webserver.conf",
-      "hash": "ec2ff995e86e90cf4a9988d6a622779d6bdc9644"
+      "hash": "4eb8b42ee14ddd1adc87c6a28ac9eda1603987aa"
     },
     {
       "path": "config/bocchud/0.0.0.0_22330.json",
@@ -1467,7 +1475,7 @@
     },
     {
       "path": "config/CoroUtil/General.toml",
-      "hash": "5591e4868d6f01b3c66c308869f1f180728b2eef"
+      "hash": "0409bf567c810f65ace5888940feab3b3e3917d4"
     },
     {
       "path": "config/craftingtweaks-common.toml",
@@ -1591,7 +1599,7 @@
     },
     {
       "path": "config/enhancedai/common.toml",
-      "hash": "c0392d4534db55dd5e95e4853e22616f95236e83"
+      "hash": "a129d92490d6eb7b6c30a70625cdb82c232058c6"
     },
     {
       "path": "config/enhancedai/Mobs/Break Anger/break_anger_config.json",
@@ -2299,7 +2307,7 @@
     },
     {
       "path": "config/jei/world/server/ElemCraftInside____2532f00e/bookmarks.ini",
-      "hash": "0a70f51835a2a4577e8b6139cb0a9c9a268d6b95"
+      "hash": "1f3edfff3153ac33b694fabdcef8de139c0a8097"
     },
     {
       "path": "config/jei_mekanism_multiblocks-client.toml",
@@ -2339,7 +2347,7 @@
     },
     {
       "path": "config/libraryferret_1.properties",
-      "hash": "d9ddb18767172f928c3d1b76db700e8db1c9f767"
+      "hash": "08de9a69f78b1bdbaccfa626b49f775df6596e39"
     },
     {
       "path": "config/lmft.json",
@@ -2483,7 +2491,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "6b2943f11435066d6507e04bf17a1187f7a7cc69"
+      "hash": "d1eaaf4545dad4b84479fc904623f2765d2d02f0"
     },
     {
       "path": "config/openloader/advanced_options.json",
@@ -2511,7 +2519,7 @@
     },
     {
       "path": "config/pointblank-common.toml",
-      "hash": "e5a2b846b6e02458362aec10c56bd074ac0d843f"
+      "hash": "9090d423b26da8af29b22784a6443ffff8b3a34d"
     },
     {
       "path": "config/productivebees-client.toml",
@@ -2575,15 +2583,15 @@
     },
     {
       "path": "config/sound_physics_remastered/allowed_sounds.properties",
-      "hash": "f1f2caf85eb289a5d047fb48d6a40f45fe80cbe1"
+      "hash": "4a6132071d09d6071a74307aa26c9451fa11629d"
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "f52c5edf178125ec6df13752944bec4b505475ae"
+      "hash": "2f5278354dab973ac28557569d04a208efda0d18"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "b11aa9566de3c1ae28a3769c1276ef589cf68b14"
+      "hash": "c78eb466cb8eed743acbb0cc17d28849100e7908"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -2615,11 +2623,11 @@
     },
     {
       "path": "config/TFTH-Data.toml",
-      "hash": "36124f6141b81927aacc2f452a87ec81b2f5ff70"
+      "hash": "0adc327737a1787b3c393a046fe92937e1be0936"
     },
     {
       "path": "config/TFTH.toml",
-      "hash": "971e21d98cc16170d76a4f379a9456833dd26478"
+      "hash": "b43a1643b36de80e43053d6705a93749aee4591f"
     },
     {
       "path": "config/touhou_little_maid/file/ascmtp-1.0.0.zip",
@@ -2763,7 +2771,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "dd461dd604b99d053f387cd8e4fd14f246b18a02"
+      "hash": "69f2bde7accf05a25e29292283c9bf8bb947c018"
     },
     {
       "path": "config/xaerominimap-common.txt",
@@ -2775,7 +2783,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "f53212e7f4a92618720786df4470715657238df3"
+      "hash": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -2795,23 +2803,23 @@
     },
     {
       "path": "config/zombieawareness/ClientConfig.toml",
-      "hash": "15abc3e09462db599222c80d6aeeb61df3e6c665"
+      "hash": "50677c0b9246408e81028891174433b1139c5683"
     },
     {
       "path": "config/zombieawareness/Features.toml",
-      "hash": "a745da79cf9a10a1c830ce2d2a1d7b6b12dd1764"
+      "hash": "7c77d53cdb1144684c0d94352cff04c2f2a2a1a3"
     },
     {
       "path": "config/zombieawareness/General.toml",
-      "hash": "22713734d5cd535d7060ddb2b79210c6d3ce5f60"
+      "hash": "453df5f607b00b4912d47a22dc096d9063f066d6"
     },
     {
       "path": "config/zombieawareness/MobLists.toml",
-      "hash": "6dea3a7f3a2957e1164afdabb55f2011d25e8cef"
+      "hash": "3807e37846a51914fc89ed5b9f9938c5111d5c91"
     },
     {
       "path": "config/zombieawareness/PlayerRulesAndLists.toml",
-      "hash": "2c0e1e4d4b66a1e8fe7c5d58a36816bb68b05596"
+      "hash": "817ce4d034620355921c8c9631dbe89328629de7"
     },
     {
       "path": "config/zume.json5",
@@ -4070,6 +4078,10 @@
       "hash": "92fcbc49d41a4d1b2038b469154a4c36e3934e36"
     },
     {
+      "path": "mods/create-stuff-additions1.20.1_v2.0.4a.jar",
+      "hash": "b3568c8bf78f1c8b801424b92f9a6373440eadcc"
+    },
+    {
       "path": "mods/createaddition-1.20.1-1.2.3.jar",
       "hash": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef"
     },
@@ -4450,8 +4462,8 @@
       "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
     },
     {
-      "path": "mods/pointblank-1.20.1-1.3.3.jar",
-      "hash": "04812ac6747adc40f07092c75922bcb6d48f8130"
+      "path": "mods/pointblank-1.20.1-1.3.2.jar",
+      "hash": "1e1d1f43f3260eb6ff2ed01f927d17a78cb0e336"
     },
     {
       "path": "mods/productivebees-1.20.1-12.4.2.jar",
@@ -4626,8 +4638,44 @@
       "hash": "098f38d7d27aadf35eaa3a68f65126b6fc617907"
     },
     {
+      "path": "natives-windows-x86_64/caramelchat16084307732880481288.dll",
+      "hash": "2373c0c37db1a14c630df2f7add8ec2b5349cf9e"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "3c0e8e7fcbc854a87219fbbfd181c2cc76018144"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "e25eae45e9cb2f17380279d3edc89be5520bebdd"
+    },
+    {
+      "path": "natives-windows-x86_64/jna5262953163862005752.dll",
+      "hash": "526e95d2afde5ef07dd0aca671261dfbc7fcfa17"
+    },
+    {
+      "path": "natives-windows-x86_64/jna5262953163862005752.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "0c9b501520c20055ba77bbd8cae4895fcb1cfa40"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "8f1bbc60d651e010a6e1734547aec9e9786ffdbe"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "900ac280d11730ec4b774073ef748cc81fbbdf14"
+    },
+    {
       "path": "options.txt",
-      "hash": "5bf576a41aaa02d4ff7c84aa760fc4e2c2b1d41a"
+      "hash": "7c9c78e91d9a74092519d6eccc934bc214edb591"
     },
     {
       "path": "patchouli_data.json",
@@ -4678,10 +4726,6 @@
       "hash": "cd63cc10c9c9d9684741bb21db67937881f95755"
     },
     {
-      "path": "servers.dat",
-      "hash": "335a744886af79f1a3982e308fe4a2dc232ecb69"
-    },
-    {
       "path": "servers.dat_old",
       "hash": "335a744886af79f1a3982e308fe4a2dc232ecb69"
     },
@@ -4699,7 +4743,7 @@
     },
     {
       "path": "shaderpacks/[光影][汉化]ComplementaryUnbound_r5.1.1.zip.txt",
-      "hash": "8f5e4c0ff43edf70a4c18fa5da326d82ad356d1d"
+      "hash": "0182e9f27472765e1506451e2068a18ea801732e"
     },
     {
       "path": "shaderpacks/超低配水反光影.zip",

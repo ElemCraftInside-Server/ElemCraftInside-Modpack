@@ -1,0 +1,14 @@
+{
+  "message.pointblank.cancelled_to_craft": "取消制作",
+  "item.pointblank.guninternals": "枪内件",
+  "message.pointblank.added_to_the_inventory": "添加到库存",
+  "message.pointblank.failed_to_craft": "未能制作",
+  "item.pointblank.motor": "转轮机枪发动机",
+  "item.pointblank.gunmetal_mesh": "枪色网",
+  "item.pointblank.gunmetal_nugget": "青铜金块",
+  "message.pointblank.press_and_hold_to_craft": "按住即可制作",
+  "item.pointblank.gunmetal_ingot": "炮铜锭",
+  "item.pointblank.processor": "卡米猫处理器",
+  "label.pointblank.craft": "工艺",
+  "message.pointblank.dropped_on_the_gound": "掉在地上"
+}
