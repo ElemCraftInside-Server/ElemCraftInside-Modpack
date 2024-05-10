@@ -1,7 +1,7 @@
 {
   "name": "ElemCraftInside-Modpack_Ver1.2-beta",
   "author": "ECIS Core Management",
-  "version": "1.2-Beta",
+  "version": "1.2-beta",
   "description": "",
   "fileApi": "https://gitee.com/numerousx/ElemCraftInside-Modpack/raw/main",
   "files": [
@@ -1075,7 +1075,7 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "hash": "5141e855b81bdab890ed185965feecd97cd9899b"
+      "hash": "38a5676bdcc8eaf6809ee5fb68f64e0eb208e4ca"
     },
     {
       "path": "config/betteradvancements-client.toml",
@@ -4744,10 +4744,6 @@
     {
       "path": "tlm_custom_pack/touhou_little_maid-1.0.0.zip",
       "hash": "43d6d8d1024d4e13b45af87882e088528c01c07e"
-    },
-    {
-      "path": "XaeroWaypoints_BACKUP032021/Multiplayer_ecis.craftinside.uk/config.txt",
-      "hash": "01aa54cafe69bad90ee8f59ff4c31ed5e4fd35ec"
     }
   ],
   "addons": [
