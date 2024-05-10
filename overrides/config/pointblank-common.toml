@@ -23,9 +23,9 @@ thirdPersonArmPoseAlwaysOn = true
 #Range: 0 ~ 5
 pipScopeRefreshRate = 1
 #Enables pip scopes
-pipScopesEnabled = true
+pipScopesEnabled = false
 #Enables custom shaders
-customShadersEnabled = true
+customShadersEnabled = false
 #Enables explosions to destroy blocks
 explosionDestroyBlocksEnabled = true
 

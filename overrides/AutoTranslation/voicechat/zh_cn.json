@@ -1,0 +1,19 @@
+{
+  "cloth_config.voicechat.config.hud_icon_pos_y.description": "HUD 图标的 Y 位置\n负值表示锚定到底部",
+  "cloth_config.voicechat.config.hud_icon_pos_x.description": "HUD 图标的 X 位置\n负值表示锚定到右侧",
+  "cloth_config.voicechat.config.output_buffer_size.description": "数据包中音频输出缓冲区的大小\n较高的值意味着较高的延迟，但较少的裂纹\n如果互联网连接不稳定，请增加此值",
+  "cloth_config.voicechat.config.group_hud_icon_scale.description": "集团HUD规模",
+  "cloth_config.voicechat.config.voice_deactivation_delay.description": "使用语音激活时麦克风停用所需的时间\n值 1 表示 20 毫秒，2\u003d40 毫秒，3\u003d60 毫秒，...",
+  "cloth_config.voicechat.config.run_local_server.description": "语音聊天是否适用于单人游戏/局域网世界",
+  "cloth_config.voicechat.config.audio_packet_threshold.description": "如果数据包无序到达或被丢弃，则保留的音频数据包的最大数量\n这可以防止丢弃稍微无序的音频数据包\n将此设置为 0 以禁用",
+  "cloth_config.voicechat.config.group_player_icon_pos_x.description": "组 HUD 中玩家图标的 X 位置\n负值表示锚定到右侧",
+  "cloth_config.voicechat.config.hud_icon_scale.description": "HUD 图标的比例",
+  "cloth_config.voicechat.config.offline_player_volume_adjustment.description": "如果音量调节GUI也应该显示离线玩家",
+  "cloth_config.voicechat.config.freecam_support.description": "这可以让您听到附近的玩家的声音，即使您距离自由摄像头较远",
+  "cloth_config.voicechat.config.group_player_icon_orientation.description": "组 HUD 中玩家图标的方向",
+  "cloth_config.voicechat.config.mute_on_join.description": "如果启用，您加入世界时将自动静音",
+  "message.voicechat.group_name_not_unique": "组名不唯一",
+  "cloth_config.voicechat.config.show_own_group_icon.description": "在组中时是否应显示自己的图标",
+  "cloth_config.voicechat.config.group_player_icon_pos_y.description": "组 HUD 中玩家图标的 Y 位置\n负值表示锚定到底部",
+  "cloth_config.voicechat.config.recording_destination.description": "录音的保存位置\n默认位置留空"
+}

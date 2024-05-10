@@ -1,0 +1,15 @@
+{
+  "crafttweaker.command.description.recipes.inventory": "Outputs information on all Recipes for the items in the player\u0027s inventory",
+  "crafttweaker.script.load.end.noerror": "Loading completed without errors",
+  "crafttweaker.command.description.dump.biomes": "Outputs the names of all registered biomes",
+  "crafttweaker.command.description.inventory.registryNames": "Outputs the registry names of the items in your inventory",
+  "crafttweaker.command.misc.biomes": "Biomes",
+  "crafttweaker.command.description.dump.tool_tiers": "Outputs information on all Tool Tiers",
+  "crafttweaker.command.misc.fake_players": "Fake Players",
+  "crafttweaker.script.load.end.error": "An error occurred while loading scripts: please check the log",
+  "crafttweaker.command.misc.tool_tiers": "Tool Tiers",
+  "crafttweaker.command.description.dump.fake_players": "Outputs information on all Fake Players",
+  "crafttweaker.command.description.dump.damage_sources": "Outputs the names of all registered damage sources",
+  "crafttweaker.command.misc.fluid": "Fluid",
+  "crafttweaker.command.description.recipes.manager": "Outputs information on recipes for the recipe manager given as argument"
+}

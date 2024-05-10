@@ -1,10 +1,14 @@
 {
-  "name": "ElemCraftInside-Modpack_Ver1.1-beta",
+  "name": "ElemCraftInside-Modpack_Ver1.2-beta",
   "author": "ECIS Core Management",
-  "version": "1.1-beta",
+  "version": "1.2-Beta",
   "description": "",
   "fileApi": "https://gitee.com/numerousx/ElemCraftInside-Modpack/raw/main",
   "files": [
+    {
+      "path": ".qmenu_opened.marker",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
     {
       "path": "1.20.1_ver2-natives/caramelchat14359991049426178362.dll",
       "hash": "2373c0c37db1a14c630df2f7add8ec2b5349cf9e"
@@ -318,6 +322,14 @@
       "hash": "733ca2657af22e1561dff43a4085eb9174c73673"
     },
     {
+      "path": "AutoTranslation/crafttweaker/zh_cn.json",
+      "hash": "6b164af9819c74a4ad14610662705e189e4d603b"
+    },
+    {
+      "path": "AutoTranslation/crafttweaker/_ref.json",
+      "hash": "560261e2e3ce2da69afdcb2a9de886cfb43a2f29"
+    },
+    {
       "path": "AutoTranslation/create/zh_cn.json",
       "hash": "3a0cd156bb686216e8dc0ac94e0a6c6646c0cf76"
     },
@@ -398,6 +410,14 @@
       "hash": "fc13c3aee6937cf187e2ba4a59c38d8b3cc8856c"
     },
     {
+      "path": "AutoTranslation/create_sa/zh_cn.json",
+      "hash": "fa3ba2ae6b3b10c76cc5a63b07260b4745e942f6"
+    },
+    {
+      "path": "AutoTranslation/create_sa/_ref.json",
+      "hash": "ae427ca1f64b47b30e37b3d18114272dfb82cc52"
+    },
+    {
       "path": "AutoTranslation/create_sabers/zh_cn.json",
       "hash": "1ccb4b8d8f873aba262ab774d80d34a36005fc9a"
     },
@@ -446,6 +466,14 @@
       "hash": "cabb6bed29711ca17e35623ab90d4cf504dcceb4"
     },
     {
+      "path": "AutoTranslation/do_a_barrel_roll/zh_cn.json",
+      "hash": "237ff10306ff075fefdd68359d9e2c392760b7c4"
+    },
+    {
+      "path": "AutoTranslation/do_a_barrel_roll/_ref.json",
+      "hash": "e4f5e05ad5894dda335dea19ed821709543279c1"
+    },
+    {
       "path": "AutoTranslation/dynamiccrosshair/zh_cn.json",
       "hash": "babe680565b8f4c5492b31be76c658f6fa71b500"
     },
@@ -476,6 +504,14 @@
     {
       "path": "AutoTranslation/enchdesc/_ref.json",
       "hash": "039b9056b658546fb0b31800ef404bb0690bf168"
+    },
+    {
+      "path": "AutoTranslation/enhancedai/zh_cn.json",
+      "hash": "7890eaa94c055cd6b6051717e10e9b0bde5001ec"
+    },
+    {
+      "path": "AutoTranslation/enhancedai/_ref.json",
+      "hash": "e99dbf7505a12df8f5ab4e13e7ec53b2251fde56"
     },
     {
       "path": "AutoTranslation/entityculling/zh_cn.json",
@@ -787,7 +823,7 @@
     },
     {
       "path": "AutoTranslation/railways/zh_cn.json",
-      "hash": "0af8eee3e5dcbcf45c1c5fe96557a4844a746012"
+      "hash": "9dd40ac9b60a0177d2450ece4859b20e90328143"
     },
     {
       "path": "AutoTranslation/railways/_ref.json",
@@ -890,6 +926,14 @@
       "hash": "fe46676e6e125559675e4593f99d81a819473b05"
     },
     {
+      "path": "AutoTranslation/the_flesh_that_hates/zh_cn.json",
+      "hash": "fa93753ec4f6ea5230082877b7e0099e8eb24db8"
+    },
+    {
+      "path": "AutoTranslation/the_flesh_that_hates/_ref.json",
+      "hash": "36398ceab91bd90d9e63d60aecb82121b63c95e6"
+    },
+    {
       "path": "AutoTranslation/tweakerge/zh_cn.json",
       "hash": "a84fae085d0a8d597d661c9531691fe360d68892"
     },
@@ -904,6 +948,14 @@
     {
       "path": "AutoTranslation/twilightforest/_ref.json",
       "hash": "12064cd315fd9f50f8495c5ba76e8edf9aba5ac3"
+    },
+    {
+      "path": "AutoTranslation/voicechat/zh_cn.json",
+      "hash": "ab324642e08969e9c1df997d1a9567fbacf890cc"
+    },
+    {
+      "path": "AutoTranslation/voicechat/_ref.json",
+      "hash": "e8875dcbbc0265d64a141da30e0ccddcf4fdf2f8"
     },
     {
       "path": "AutoTranslation/waystones/zh_cn.json",
@@ -923,11 +975,11 @@
     },
     {
       "path": "AutoTranslation/xaeroworldmap/zh_cn.json",
-      "hash": "5417386de74048c02d344fbc61a7248006898bf0"
+      "hash": "9d3802d3b062de8f95558d29b13524ef8261a4f2"
     },
     {
       "path": "AutoTranslation/xaeroworldmap/_ref.json",
-      "hash": "c65591b2e581a176d3473836c2c0963bdd5eae8c"
+      "hash": "f8573bf503a96afdd66d04dd9112e6a058bd86ba"
     },
     {
       "path": "AutoTranslation/yaclx/zh_cn.json",
@@ -938,12 +990,24 @@
       "hash": "43dbee73a28efb945acda8f2a13d4ddc4978ab64"
     },
     {
+      "path": "AutoTranslation/zombieawareness/zh_cn.json",
+      "hash": "f2a29cbd1eaeca3c2369a61cccee645a9247dbb7"
+    },
+    {
+      "path": "AutoTranslation/zombieawareness/_ref.json",
+      "hash": "23c3b15a78b3be66e65a506c8b7704a4130a6e5b"
+    },
+    {
       "path": "AutoTranslation/zume/zh_cn.json",
       "hash": "8b94dfd6365fcd396a9e6dc708e187fcc2560bdc"
     },
     {
       "path": "AutoTranslation/zume/_ref.json",
       "hash": "339a715b6dcb76949b40b9188181332e58894fbe"
+    },
+    {
+      "path": "bluemap/pluginState.json",
+      "hash": "5ed2f0538bc2b08412b7de1a6b2d6b308a4efb65"
     },
     {
       "path": "config/ad_astra-client.jsonc",
@@ -999,7 +1063,7 @@
     },
     {
       "path": "config/attributefix.json",
-      "hash": "092dd9c0c5907ff3cf5be4dae0520eea078c3c69"
+      "hash": "7b0ac39ee30f22844f74f125211278bf1c2d3f97"
     },
     {
       "path": "config/autotranslation.json5",
@@ -1119,7 +1183,7 @@
     },
     {
       "path": "config/bettervillage_1.properties",
-      "hash": "ba289a54902b1316a15e5e943cdccd6f3cad3516"
+      "hash": "f294eea128386c15ca08327b646264ecdc68e110"
     },
     {
       "path": "config/betterwitchhuts-forge-1_20.toml",
@@ -1132,6 +1196,98 @@
     {
       "path": "config/biomesoplenty/generation.toml",
       "hash": "eb379261d57303e2e9601063eabba7ae19efea10"
+    },
+    {
+      "path": "config/bluemap/core.conf",
+      "hash": "ae42c291580d95204c5b96e87d8f5e322fd71bb2"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14.conf",
+      "hash": "117e6add73f815bd026dfc1755d1e2f3aa84bdc7"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_earth_orbit.conf",
+      "hash": "60476a3c7b59c13331ad1550a05e0fb8ae2d84be"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_glacio.conf",
+      "hash": "8219c996d9e90be10a6e797580d49ee34de5caca"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_glacio_orbit.conf",
+      "hash": "45e0f600a91480685513fc339523206197e6760d"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_mars.conf",
+      "hash": "4507dc3c95df5545c564bbf3e55e061035210325"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_mars_orbit.conf",
+      "hash": "633d2de1f3cee66baf1385735fb71bb5e6a08b93"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_mercury.conf",
+      "hash": "07fba0bf9b7b590e92a496cc41f1e835671755ff"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_mercury_orbit.conf",
+      "hash": "1f5cf234a36a09d6076a3a07870f4d0a77da6d6a"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_moon.conf",
+      "hash": "4d1637c286eb696944d1a9d6bf7ec7217da8a629"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_moon_orbit.conf",
+      "hash": "28ff48a1608b06759c25527a7465ef3b7ef1bbb1"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_venus.conf",
+      "hash": "fd83978dc7488015800700c1bf900cc5b027fe72"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ad_astra_venus_orbit.conf",
+      "hash": "96a3fd2ca2d96004333e846e7152a81ac82e1ede"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_ae2_spatial_storage.conf",
+      "hash": "db3cbb7b3f5f207b537ddaa0a8845a264e0b08ec"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_deeperdarker_otherside.conf",
+      "hash": "c973a293ac712eae6a77e395f3a402b32f2d4f76"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_the_end.conf",
+      "hash": "1f472cfc90db15b653038082ca8b2727abf826df"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_the_nether.conf",
+      "hash": "c1b1bb502fefe957a82830832d0ffebdf49fb2a9"
+    },
+    {
+      "path": "config/bluemap/maps/___3_14_twilightforest_twilight_forest.conf",
+      "hash": "4e050e126ef282a53b5564760ba401ed9aaf66b7"
+    },
+    {
+      "path": "config/bluemap/plugin.conf",
+      "hash": "34306a422c0e4f68aa59eec083e7875b8fe7e4fa"
+    },
+    {
+      "path": "config/bluemap/storages/file.conf",
+      "hash": "2fd0cba2833315e272f708c22e908697eda65bcd"
+    },
+    {
+      "path": "config/bluemap/storages/sql.conf",
+      "hash": "48c33b4d2e0fc190efdaa41413d9d15975ad1b96"
+    },
+    {
+      "path": "config/bluemap/webapp.conf",
+      "hash": "f8b5968733bb2c704bbe7413a8ec6fc3218aa93c"
+    },
+    {
+      "path": "config/bluemap/webserver.conf",
+      "hash": "ec2ff995e86e90cf4a9988d6a622779d6bdc9644"
     },
     {
       "path": "config/bocchud/0.0.0.0_22330.json",
@@ -1250,6 +1406,14 @@
       "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
     },
     {
+      "path": "config/bocchud/___3_14.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/___3_14_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
       "path": "config/bocchud/____.json",
       "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
     },
@@ -1302,6 +1466,10 @@
       "hash": "337b9fcd700b06b043eaa7b0e7d9f990a78b81ab"
     },
     {
+      "path": "config/CoroUtil/General.toml",
+      "hash": "5591e4868d6f01b3c66c308869f1f180728b2eef"
+    },
+    {
       "path": "config/craftingtweaks-common.toml",
       "hash": "f1418ef6f197ca6368f3ca681aa3fc407b4f5a1f"
     },
@@ -1347,7 +1515,7 @@
     },
     {
       "path": "config/create_new_age-common.toml",
-      "hash": "4b181e59583c0b76f001cc05e8af1ffecb40ac3a"
+      "hash": "6741cd88482f9ddc769c2c12a3319499be58f5f7"
     },
     {
       "path": "config/create_questing.json",
@@ -1386,6 +1554,14 @@
       "hash": "3a2f7ace37b1a500d95666a0f7f807ccf58c5b92"
     },
     {
+      "path": "config/do_a_barrel_roll-client.json",
+      "hash": "1945ab9b5449b752c74388b4a25e38495a6a125c"
+    },
+    {
+      "path": "config/do_a_barrel_roll-server.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
       "path": "config/dynamiccrosshair.json5",
       "hash": "3a9a4a71ecec25960eb2ad86b57dde7f8971b0b5"
     },
@@ -1399,7 +1575,7 @@
     },
     {
       "path": "config/embeddium-fingerprint.json",
-      "hash": "93d721a5c2518ed0d6d814690ded59664c5bb97a"
+      "hash": "93cf53ea1a6e705125744beeee3dc9def1485b1f"
     },
     {
       "path": "config/embeddium-mixins.properties",
@@ -1407,11 +1583,27 @@
     },
     {
       "path": "config/embeddium-options.json",
-      "hash": "ee6292edcbbd70f25d97fc3c0b1ac25b8eebf3c1"
+      "hash": "8076788631c10e454fc568220b245680a994795e"
     },
     {
       "path": "config/enchdesc.json",
       "hash": "d343c7b0f6c28fd6759196e0349dcb875c4f7ce9"
+    },
+    {
+      "path": "config/enhancedai/common.toml",
+      "hash": "c0392d4534db55dd5e95e4853e22616f95236e83"
+    },
+    {
+      "path": "config/enhancedai/Mobs/Break Anger/break_anger_config.json",
+      "hash": "36e0bd506e1f021b7ee015123af261c165e5e0d7"
+    },
+    {
+      "path": "config/enhancedai/Mobs/Flee/custom_flee.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/enhancedai/Mobs/Targeting/custom_hostile.json",
+      "hash": "beefc1b5c1ae880ebf1887f8a955ea8ed1feb14d"
     },
     {
       "path": "config/entityculling.json",
@@ -1451,7 +1643,7 @@
     },
     {
       "path": "config/fml.toml",
-      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
+      "hash": "b2fb4c4f2a75739227697c07ffe50a2759e7ddcf"
     },
     {
       "path": "config/forge-client.toml",
@@ -1578,6 +1770,14 @@
       "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
     },
     {
+      "path": "config/forgematica/forgematica____3_14.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica____3_14_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
       "path": "config/forgematica/forgematica_____.json",
       "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
     },
@@ -1614,8 +1814,12 @@
       "hash": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986"
     },
     {
+      "path": "config/insanelib-common.toml",
+      "hash": "ddc1e8f4e97f2317343192352e4eb70cf5c9ede0"
+    },
+    {
       "path": "config/InventoryHUD/curios.json",
-      "hash": "acd6e205a97d9fc50ee41b2db942d4023e90e365"
+      "hash": "a96cbd48bd99b173545027df8f4ccc2f5a5e5a8f"
     },
     {
       "path": "config/inventoryhud-client.toml",
@@ -1647,7 +1851,7 @@
     },
     {
       "path": "config/inventoryprofilesnext/inventoryprofiles.json",
-      "hash": "c431fe749b545aba9d873a974313f886c7064bbc"
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
     },
     {
       "path": "config/inventoryprofilesnext/lith1/villager-trading-config.json",
@@ -1671,6 +1875,10 @@
     },
     {
       "path": "config/inventoryprofilesnext/新的世界98/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/食宴室3.14/villager-trading-config.json",
       "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
     },
     {
@@ -2063,7 +2271,7 @@
     },
     {
       "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "9d159f15ec76d18cb87cc0e6509ec87769ff6642"
+      "hash": "18de26f9cef766adb9953cb36b8b3eb55fc0459c"
     },
     {
       "path": "config/jei/ingredient-list-type-sort-order.ini",
@@ -2088,6 +2296,10 @@
     {
       "path": "config/jei/recipe-category-sort-order.ini",
       "hash": "d8ba5ab0d12a8ee8804aaa815a5259acb9989970"
+    },
+    {
+      "path": "config/jei/world/server/ElemCraftInside____2532f00e/bookmarks.ini",
+      "hash": "0a70f51835a2a4577e8b6139cb0a9c9a268d6b95"
     },
     {
       "path": "config/jei_mekanism_multiblocks-client.toml",
@@ -2127,7 +2339,7 @@
     },
     {
       "path": "config/libraryferret_1.properties",
-      "hash": "58ba5c031c8e2c46324413f09226cafe536d714c"
+      "hash": "d9ddb18767172f928c3d1b76db700e8db1c9f767"
     },
     {
       "path": "config/lmft.json",
@@ -2271,7 +2483,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "a93edf4c14c1a2594e5b2a7f03ac16eeb5eaaae4"
+      "hash": "6b2943f11435066d6507e04bf17a1187f7a7cc69"
     },
     {
       "path": "config/openloader/advanced_options.json",
@@ -2299,7 +2511,7 @@
     },
     {
       "path": "config/pointblank-common.toml",
-      "hash": "589a2cae22e010972b3c9c772f12a6ecae22480c"
+      "hash": "e5a2b846b6e02458362aec10c56bd074ac0d843f"
     },
     {
       "path": "config/productivebees-client.toml",
@@ -2363,15 +2575,15 @@
     },
     {
       "path": "config/sound_physics_remastered/allowed_sounds.properties",
-      "hash": "6408b3706cc75b130f34e36ea6cee8f4e2414491"
+      "hash": "f1f2caf85eb289a5d047fb48d6a40f45fe80cbe1"
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "48687943199e4d20f3fc6a55cbcbe495fce0682a"
+      "hash": "f52c5edf178125ec6df13752944bec4b505475ae"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "667ebea399878dad1f58d146fa3078eabedd543a"
+      "hash": "b11aa9566de3c1ae28a3769c1276ef589cf68b14"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -2400,6 +2612,14 @@
     {
       "path": "config/terrablender.toml",
       "hash": "9170b19e75cded7b1d6229f44f1abb43a256d863"
+    },
+    {
+      "path": "config/TFTH-Data.toml",
+      "hash": "36124f6141b81927aacc2f452a87ec81b2f5ff70"
+    },
+    {
+      "path": "config/TFTH.toml",
+      "hash": "971e21d98cc16170d76a4f379a9456833dd26478"
     },
     {
       "path": "config/touhou_little_maid/file/ascmtp-1.0.0.zip",
@@ -2447,7 +2667,7 @@
     },
     {
       "path": "config/tweakerge.json",
-      "hash": "658ec19b800c00840033876ba41afe2d0f89dec4"
+      "hash": "e51be29c9fee725f4e615933d787e18744b7db1a"
     },
     {
       "path": "config/twilightdelight-client.toml",
@@ -2519,15 +2739,15 @@
     },
     {
       "path": "config/voicechat/username-cache.json",
-      "hash": "a8b2713ef2a44bf2cfe0c2425bd1f56b34c8bfaf"
+      "hash": "d10ad27c7b50c7c08f6934cff3dbb7c50eb31b9f"
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "53d408896a31a2489fe335e9470fef9ba81975d3"
+      "hash": "46c60cdf5ff67fa81787c73b0e8bd745ed20d0ef"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "hash": "c692d988073cb797801ac5ca75ea1f35a32316e1"
+      "hash": "c66a083b307bbc039cd0aacd183f945dc144202e"
     },
     {
       "path": "config/voicechat/voicechat-volumes.properties",
@@ -2543,7 +2763,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "42bdfbd26d6efd0d43481341bf4323f23420c9b8"
+      "hash": "dd461dd604b99d053f387cd8e4fd14f246b18a02"
     },
     {
       "path": "config/xaerominimap-common.txt",
@@ -2555,7 +2775,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "21fd62895118ce2198968bc8feb3ba9e2031f206"
+      "hash": "f53212e7f4a92618720786df4470715657238df3"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -2572,6 +2792,26 @@
     {
       "path": "config/zeta-common.toml",
       "hash": "659e17ba0dc59f6b6beba501353a1cb07790c726"
+    },
+    {
+      "path": "config/zombieawareness/ClientConfig.toml",
+      "hash": "15abc3e09462db599222c80d6aeeb61df3e6c665"
+    },
+    {
+      "path": "config/zombieawareness/Features.toml",
+      "hash": "a745da79cf9a10a1c830ce2d2a1d7b6b12dd1764"
+    },
+    {
+      "path": "config/zombieawareness/General.toml",
+      "hash": "22713734d5cd535d7060ddb2b79210c6d3ce5f60"
+    },
+    {
+      "path": "config/zombieawareness/MobLists.toml",
+      "hash": "6dea3a7f3a2957e1164afdabb55f2011d25e8cef"
+    },
+    {
+      "path": "config/zombieawareness/PlayerRulesAndLists.toml",
+      "hash": "2c0e1e4d4b66a1e8fe7c5d58a36816bb68b05596"
     },
     {
       "path": "config/zume.json5",
@@ -2612,6 +2852,10 @@
     {
       "path": "ECIS_1.20.1-natives/lwjgl_stb.dll",
       "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "de3ebbe562a660ac127d21a838e39c69702b8354"
     },
     {
       "path": "local/ftbquests/client-config.snbt",
@@ -3814,12 +4058,20 @@
       "hash": "b06d06378332883412e026abbd299d8a8f2e65a8"
     },
     {
+      "path": "mods/CraftTweaker-forge-1.20.1-14.0.38.jar",
+      "hash": "e2cde6cfcac505ad4e9c2a03f7a10575ad22a594"
+    },
+    {
       "path": "mods/create-1.20.1-0.5.1.f.jar",
       "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
     },
     {
       "path": "mods/create-new-age-forge-1.20.1-1.1.2.jar",
       "hash": "92fcbc49d41a4d1b2038b469154a4c36e3934e36"
+    },
+    {
+      "path": "mods/create-stuff-additions1.20.1_v2.0.4a.jar",
+      "hash": "b3568c8bf78f1c8b801424b92f9a6373440eadcc"
     },
     {
       "path": "mods/createaddition-1.20.1-1.2.3.jar",
@@ -3914,6 +4166,10 @@
       "hash": "2b146cf6bf044e30e68a595ba336e84e3693affa"
     },
     {
+      "path": "mods/Durability101-forge-1.20-0.0.5.jar",
+      "hash": "51532a82f98ee181e5c09d5cd1fdb8431a1b4a8e"
+    },
+    {
       "path": "mods/dynamic-fps-3.4.2+minecraft-1.20.4-forge.jar",
       "hash": "6c376b2a478a1d645407a816ce53c1e397832e8e"
     },
@@ -3932,6 +4188,10 @@
     {
       "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
       "hash": "c588f932dcb7796ad6d334abd43777e718957058"
+    },
+    {
+      "path": "mods/EnhancedAI-2.4.4-mc1.20.1.jar",
+      "hash": "c21fe369315e60cd2b9e6fa0262b053ec364eabe"
     },
     {
       "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar",
@@ -4006,10 +4266,6 @@
       "hash": "55897695a22247ebe781499558a87b779175082a"
     },
     {
-      "path": "mods/geckolib-forge-1.20.1-4.4.2.jar",
-      "hash": "388a5029549399ba75d233317d3257a74b5a47d1"
-    },
-    {
       "path": "mods/geckolib-forge-1.20.1-4.4.4.jar",
       "hash": "29dccfe1f985d3efdcd56d24ce4fe0ccc28cee7f"
     },
@@ -4030,8 +4286,8 @@
       "hash": "c96f5792355f4b7fc247a30ee4fb8deb50e2a18d"
     },
     {
-      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.9.jar",
-      "hash": "394479e03e51c55c837d1e30289ebdb38e0dc838"
+      "path": "mods/InsaneLib-1.13.4-mc1.20.1.jar",
+      "hash": "0e79a94f2eb8a422e6375f9f28867f14ce9db21b"
     },
     {
       "path": "mods/invhud.forge.1.20.1-3.4.18.jar",
@@ -4198,8 +4454,8 @@
       "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
     },
     {
-      "path": "mods/pointblank-1.20.1-1.2.4.jar",
-      "hash": "852fbaa1ebe28a77f250bfb310393a69008e8851"
+      "path": "mods/pointblank-1.20.1-1.3.3.jar",
+      "hash": "04812ac6747adc40f07092c75922bcb6d48f8130"
     },
     {
       "path": "mods/productivebees-1.20.1-12.4.2.jar",
@@ -4294,8 +4550,8 @@
       "hash": "f4bfc12ce16472e9c7f975a57bb9885eed223a87"
     },
     {
-      "path": "mods/voicechat-forge-1.20.1-2.5.9.jar",
-      "hash": "b6095e42f03d24654670d88f4ef5a87fec2bc9c9"
+      "path": "mods/voicechat-forge-1.20.1-2.4.32.jar",
+      "hash": "0ddc174a52973036e5fcfd2fb72686b3b18aed3f"
     },
     {
       "path": "mods/waystones-forge-1.20-14.1.3.jar",
@@ -4375,7 +4631,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "bda1a3b7ce8025917314c72bde6fc4ae5ad0fddc"
+      "hash": "5bf576a41aaa02d4ff7c84aa760fc4e2c2b1d41a"
     },
     {
       "path": "patchouli_data.json",
@@ -4431,7 +4687,7 @@
     },
     {
       "path": "servers.dat_old",
-      "hash": "322dec558c7eef0b1dd9e797ea679625ab5e3a30"
+      "hash": "335a744886af79f1a3982e308fe4a2dc232ecb69"
     },
     {
       "path": "shaderpacks/BSL_v8.2.08.zip",
@@ -4447,7 +4703,7 @@
     },
     {
       "path": "shaderpacks/[光影][汉化]ComplementaryUnbound_r5.1.1.zip.txt",
-      "hash": "9adf9faef909eafefa5f8521075e6de58fa96c4b"
+      "hash": "8f5e4c0ff43edf70a4c18fa5da326d82ad356d1d"
     },
     {
       "path": "shaderpacks/超低配水反光影.zip",
@@ -4488,6 +4744,10 @@
     {
       "path": "tlm_custom_pack/touhou_little_maid-1.0.0.zip",
       "hash": "43d6d8d1024d4e13b45af87882e088528c01c07e"
+    },
+    {
+      "path": "XaeroWaypoints_BACKUP032021/Multiplayer_ecis.craftinside.uk/config.txt",
+      "hash": "01aa54cafe69bad90ee8f59ff4c31ed5e4fd35ec"
     }
   ],
   "addons": [

@@ -1,0 +1,15 @@
+{
+  "crafttweaker.command.description.recipes.inventory": "输出玩家库存中物品的所有配方信息",
+  "crafttweaker.script.load.end.noerror": "加载完成，没有错误",
+  "crafttweaker.command.description.dump.biomes": "输出所有已注册生物群落的名称",
+  "crafttweaker.command.description.inventory.registryNames": "输出库存中物品的注册表名称",
+  "crafttweaker.command.misc.biomes": "生物群落",
+  "crafttweaker.command.description.dump.tool_tiers": "输出所有工具层的信息",
+  "crafttweaker.command.misc.fake_players": "假玩家",
+  "crafttweaker.script.load.end.error": "加载脚本时出错：请检查日志",
+  "crafttweaker.command.misc.tool_tiers": "工具层",
+  "crafttweaker.command.description.dump.fake_players": "输出所有假玩家的信息",
+  "crafttweaker.command.description.dump.damage_sources": "输出所有已注册损坏源的名称",
+  "crafttweaker.command.misc.fluid": "体液",
+  "crafttweaker.command.description.recipes.manager": "输出作为参数给出的配方管理器的配方信息"
+}
